@@ -2,9 +2,11 @@
 
 <h2> Fun Gym Website</h2>
 
-[View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/)
-[Click here for another view of the latest updates.](https://8000-mirastkhadiv-fungym-mmu20s09q0g.ws-eu27.gitpod.io/)
+<img src="assets/img/temporary-logo.png" alt="Fun Gym exclusive logo with heart, victory vibes and cheerful, funny smile in black and red."/>
 
+1. [View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/) </p>
+
+2. [Click here for another view of the latest updates.](https://8000-mirastkhadiv-fungym-mmu20s09q0g.ws-eu27.gitpod.io/)
 
 Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures.
 
