@@ -1,6 +1,8 @@
-<h1 align="center">Fun Gym Website</h1>
+<h1 align="center">Comming Soon!</h1>
 
-[View the live project here.](https://#)
+<h2> Fun Gym Website</h2>
+
+[View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/)
 
 Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures.
 
@@ -35,11 +37,14 @@ Fun Gym is a responsive and accessible website for gym members and potential mem
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://#/)
+    -   Home Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
 
-    -   Mobile Wireframe - [View](https://#/)
+    -   Mobile Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
 
-    -   Contact Us Page Wireframe - [View](https://#/)
+    -   Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
 
 ## Features
 
@@ -75,8 +80,10 @@ Fun Gym is a responsive and accessible website for gym members and potential mem
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://#/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://#/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://amir-rastkhadiv.github.io/fun-gym/
+)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://amir-rastkhadiv.github.io/fun-gym/
+)
 
 ### Testing User Stories from User Experience (UX) Section
 
