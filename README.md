@@ -3,6 +3,8 @@
 <h2> Fun Gym Website</h2>
 
 [View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/)
+[Click here for another view of the latest updates.](https://8000-mirastkhadiv-fungym-mmu20s09q0g.ws-eu27.gitpod.io/)
+
 
 Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures.
 
