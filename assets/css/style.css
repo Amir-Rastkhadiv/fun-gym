@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+header {
+    margin: 0;
+    padding: 0;
+}
+
+.coming soon {
+    padding-left: 100px;
+    margin-left: 30%;
+    background:url("");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5sec ease-in-out;
+    -moz-transition: all .5sec ease-in-out;
+    -webkit-transition: all .5sec ease-in-out;
+}
