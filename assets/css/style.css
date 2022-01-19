@@ -8,7 +8,7 @@ header {
 .coming soon {
     padding-left: 100px;
     margin-left: 30%;
-    background:url("");
+    background-attachment:url("../img/temporary-logo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
