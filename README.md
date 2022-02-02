@@ -11,7 +11,7 @@ Finally, the developer has been endeavoured to bridge the gap between design and
 
 Enjoy it and happy, healthy and wealthy fit coding activity!
 
-<h2 align="center"><img src=" /assets/img/fun-gym-responsive.png" alt="Fun Gym Webpage on multiple devices nice mockups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow."></h2>
+<h2 align="center"><img src="assets/img/fun-gym-responsive-1.png" alt="Fun Gym Webpage on multiple devices nice mockups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow."></h2>
 
 
 ## User Experience (UX)
