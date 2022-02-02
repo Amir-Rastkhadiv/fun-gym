@@ -1,16 +1,21 @@
-<h1 align="center">Comming Soon!</h1>
+<h1> <div align="center">COMING SOON!</div> </h1> 
 
-<h2> Fun Gym Website</h2>
+# Fun Gym Website 
+
+## Introduction
+User-Centric Frontend Development Milestone Project-1 for Code Institute course: Leading technologies HTML5 and CSS3.
+
+Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures. The Fun Gym website aims to help a range of visitors get connected to the gym by the best experience they could expect. 
+
+[View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/) 
+
 
 <img src="assets/img/temporary-logo.png" alt="Fun Gym exclusive logo with heart, victory vibes and cheerful, funny smile in black and red."/>
 
-1. [View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/) </p>
-
-2. [Click here for another view of the latest updates.](https://8000-mirastkhadiv-fungym-mmu20s09q0g.ws-eu27.gitpod.io/)
-
-Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures.
 
 ## User Experience (UX)
+
+
 
 -   ### User stories
 
@@ -172,3 +177,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   
 -  
+
+
