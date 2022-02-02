@@ -3,12 +3,13 @@
 # Fun Gym Website 
 
 ## Introduction
-User-Centric Frontend Development Milestone Project-1 for Code Institute course: Leading technologies HTML5 and CSS3.
-
 Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures. The Fun Gym website aims to help a range of visitors get connected to the gym by the best experience they could expect. 
 
-[View the latest updates here](https://amir-rastkhadiv.github.io/fun-gym/) 
+Finally, the developer has been endeavoured to bridge the gap between design and technology by applying User Experience Design (UXD)  to create a terrific website. As far as educational purposes are concerned, principles, standards, and professional advice to user-Centred Design (UCD) provided by the South Devon University Centre College and the Code Institute have been valuable in creating a helpful web page.
 
+[Have Fun Gym just here!](https://amir-rastkhadiv.github.io/fun-gym/) 
+
+Enjoy it and happy, healthy and wealthy fit coding activity!
 
 <img src="assets/img/temporary-logo.png" alt="Fun Gym exclusive logo with heart, victory vibes and cheerful, funny smile in black and red."/>
 
