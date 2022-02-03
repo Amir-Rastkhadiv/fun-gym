@@ -3,16 +3,19 @@
 # Fun Gym Website 
 
 ## Introduction
-Fun Gym is a responsive and accessible website for gym members and potential members who want to know about the gym and its procedures. The Fun Gym website aims to help a range of visitors get connected to the gym by the best experience they could expect. 
+Fun Gym is a responsive and accessible static website for gym members and potential members who want to know about the gym and its procedures. It aims to help a range of visitors get connected to the gym by the best experience they could expect. 
 
-Finally, the developer has been endeavoured to bridge the gap between design and technology by applying User Experience Design (UXD)  to create a terrific website. As far as educational purposes are concerned, principles, standards, and professional advice to user-Centred Design (UCD) provided by the South Devon University Centre College and the Code Institute have been valuable in creating a helpful web page.
+Generally, Fun Gym hopes to help keep our community motivated to work out regularly in the UK. The site will target trainers, professionals, students looking for cooperation, local councils and charities willing to support the disabled and vulnerable to socialise and keep themselves fit. Moreover, this website will benefit families with children and companies who value their staff to see precisely when and where they must join to get the most of it.  
+
+Finally, the developer/owner has been endeavoured to bridge the gap between design and technology by applying User Experience Design (UXD) to create a terrific website. As far as educational purposes are concerned, principles, standards, and professional advice to user-Centred Design (UCD) provided by the South Devon University Centre College and the Code Institute have been constructive in creating a prized website.
 
 [Have Fun Gym just here!](https://amir-rastkhadiv.github.io/fun-gym/) 
 
 Enjoy it and happy, healthy and wealthy fit coding activity!
 
- ![Fun Gym Webpage on multiple devices nice mockups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fun-gym-responsive.png)
 
+ ![Fun Gym Webpage on multiple devices nice mockups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fun-gym-responsive.png)
+ 
 
 ## User Experience (UX)
 
