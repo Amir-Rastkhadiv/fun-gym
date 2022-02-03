@@ -3,13 +3,13 @@
 # FUN GYM - WEBSITE 
 User-Centric Frontend Development Milestone Project-1 for Code Institute course: Leading Technologies HTML5 and CSS3.
 
-## Introduction
+## INTRODUCTION 
 
-Fun Gym is a responsive and accessible static website for gym members and potential members who want to know about the gym and its procedures. It aims to help a range of visitors get connected to the gym by the best experience they could expect. 
+Fun Gym is a responsive, accessible, and easy-to-understand static website designed to serve gym members and potential members who are curious about the gym's procedures. It aims to connect people to the gym by providing them with the best possible experience.
 
-Generally, Fun Gym hopes to help keep our community motivated to work out regularly in the UK. The site will target trainers, professionals, students looking for cooperation, local councils and charities willing to support the disabled and vulnerable to socialise and keep themselves fit. Moreover, this website will benefit families with children and companies who value their staff to see precisely when and where they must join to get the most of it.  
+A general goal is to keep our community motivated to exercise frequently in the UK. Trainers, professionals, students looking for assistance, local councils, and charities supporting the disabled and vulnerable can benefit from the website. Further, it will help families with children and companies that value their employees by showing them when and where they must join to get the most out of it.
 
-Finally, the developer/owner has been endeavoured to bridge the gap between design and technology by applying User Experience Design (UXD) to create a terrific website. As far as educational purposes are concerned, principles, standards, and professional advice to user-Centred Design (UCD) provided by the South Devon University Centre College and the Code Institute have been constructive in creating a prized website.
+As a final point, the developer/owner has combined design and technology to create a terrific website by applying User Experience Design (UXD). Also, a valued website inevitably comes through a user-centred design (UCD) based upon principles, standards, and professional advice provided by the South Devon University Centre College and the Code Institute.
 
 [Have Fun Gym just here!](https://amir-rastkhadiv.github.io/fun-gym/) 
 
@@ -18,6 +18,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mockups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fun-gym-responsive.png)
  
+## TABLE OF CONTENTS:
 
 ## User Experience (UX)
 
