@@ -1,8 +1,10 @@
 <h1 align="center">COMING SOON! </h1> 
 
-# Fun Gym Website 
+# FUN GYM - WEBSITE 
+User-Centric Frontend Development Milestone Project-1 for Code Institute course: Leading Technologies HTML5 and CSS3.
 
 ## Introduction
+
 Fun Gym is a responsive and accessible static website for gym members and potential members who want to know about the gym and its procedures. It aims to help a range of visitors get connected to the gym by the best experience they could expect. 
 
 Generally, Fun Gym hopes to help keep our community motivated to work out regularly in the UK. The site will target trainers, professionals, students looking for cooperation, local councils and charities willing to support the disabled and vulnerable to socialise and keep themselves fit. Moreover, this website will benefit families with children and companies who value their staff to see precisely when and where they must join to get the most of it.  
