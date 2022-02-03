@@ -1,7 +1,15 @@
 <h1 align="center">COMING SOON! </h1> 
 
 # FUN GYM - WEBSITE 
-User-Centric Frontend Development Milestone Project-1 for Code Institute course: Leading Technologies HTML5 and CSS3.
+
+## ABSTRACT 
+
+I am impressed with your interest in reading the Fun Gym [Website](https://amir-rastkhadiv.github.io/fun-gym/) README file. I am pleased to announce that I will present the User-Centric Frontend Development Milestone Project-1 for Code Institute's Leading Technologies HTML5 and CSS3 course. 
+
+I promise to convey everything that I know. Ask me anything! I welcome ideas, suggestions, feedback, and the occasional rant.
+
+If you need to contact me, you can visit the Fun Gym [website](https://amir-rastkhadiv.github.io/fun-gym/). Or submit an issue on this [repository](https://github.com/Amir-Rastkhadiv/fun-gym). Please do!
+
 
 ## INTRODUCTION 
 
