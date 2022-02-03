@@ -4,7 +4,7 @@
 
 ## ABSTRACT 
 
-I am impressed with your interest in reading the Fun Gym [Website](https://amir-rastkhadiv.github.io/fun-gym/) README file. I am pleased to announce that I will present the User-Centric Frontend Development Milestone Project-1 for Code Institute's Leading Technologies HTML5 and CSS3 course. 
+I am impressed with your interest in reading the Fun Gym's [Website](https://amir-rastkhadiv.github.io/fun-gym/) README file. I am pleased to announce that I will present the User-Centric Frontend Development Milestone Project-1 for Code Institute's Leading Technologies HTML5 and CSS3 course. 
 
 I promise to convey everything that I know. Ask me anything! I welcome ideas, suggestions, feedback, and the occasional rant.
 
