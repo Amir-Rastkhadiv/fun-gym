@@ -52,7 +52,7 @@ Let's only explore HTML and CSS here. Google Chrome also comes with a set of web
 
 Please read the following sections to gain further insight.
 
--  ### A webpage? What is a Website? How about a good one? 
+-  ### A WEBPAGE? WHAT IS A WEBSITE? HOW ABOUT A GOOD ONE? 
 
 This project aims to answer these questions. I used the simple, Nobel and versatile "Wh" technique at all stages. What steps should I take? Which resources can I consult? There are several steps.
 
@@ -61,7 +61,21 @@ Here's what the [Code Institute](https://codeinstitute.net/blog/makes-good-websi
 [Share your thoughts!](https://amir-rastkhadiv.github.io/fun-gym/)  
 
 
--  ### Terminology:
+-  ### TERMINILOGY:
+   -  #### UXD
+   User experience refers to how something affects a person.
+This discipline ensures that a product works is simple, intuitive, and enjoyable to use.
+Embedding user experience strategies at the beginning of the development process is essential. UX is all about ensuring "yes" at all times.
+
+   -  #### UCD
+   By using user-centered design, we can achieve a positive user experience. In fact, user-centered design ensures that your product will be loved by users over and over again.
+
+   -  #### UID
+   In human-computer interaction (HCI), a user interface is the interface between humans and machines. In this way, the machine is controlled and operated from the human end, while simultaneously providing information to aid the operator's decision-making.
+
+My work on the Fun Gym Website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.
+
+
 
 
 
