@@ -45,11 +45,10 @@ Click [stream-one](https://amir-rastkhadiv.github.io/my-brilliant-template/index
  Three parts make up the modern web. Front-end, back-end, and middleware . Each layer includes a set of technologies. Examples include: 
 The structure is HTML, the facade is CSS, and the functionality is JavaScript.
 
-Python, PHP, and Ruby interact with the database, web service, or other data source to provide the end-user with their requested data. To accomplish this:
-Responses and requests for HTTP;
-Setup a connection;
-API interaction;
-Manage URL routing, authentication, and sessions.
+On the backend, languages such as Python, PHP, and Ruby interact with databases, web services, and other data sources to provide users with the information they need. A middleware layer relays information between the front and backend.
+Obtaining responses and requests for HTTP,
+Accessed APIs,
+authentication, routing, and sessions.
 
 Let's only explore HTML and CSS here. Google Chrome also comes with a set of web development tools. I'll use this as my primary tool. I can inspect and analyze a web page (test CSS style changes and debug code).
 
