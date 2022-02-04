@@ -30,8 +30,43 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
 - [ABSTRACT](#ABSTRACT)
 - [INTRODUCRION](#INTRODUCTION)
+- [INTERLUDE](#INTERLUDE)
 - [USER EXPERIENCE](#UX)
 
+
+## INTERLUDE
+
+
+
+ - ### TOOLKITS:
+While I will use HTML and CSS to implement a static front-end web application, I will also use many other tools and technologies. 
+Click [stream-one](https://amir-rastkhadiv.github.io/my-brilliant-template/index.html) to make things easier.  
+ Using the Code Institute module in LMS, I learned to code, gather technical information, and create a robust toolkit. To add further I exhibit here:  [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+
+
+ -  ### Web Development of the Modern Era:
+
+
+
+
+
+
+
+
+
+
+
+ 
+-  ### What makes a good website?
+-  ### Toolkits:
+-  ### Terminology:
+
+
+
+
+
+
+## User Experience (UX)
 
 
 ## User Experience (UX)
@@ -82,7 +117,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
 -   Interactive elements
 
-## Technologies Used
+## TECHNOLOGIES-USED
 
 ### Languages Used
 
