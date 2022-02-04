@@ -58,7 +58,7 @@ This project aims to answer these questions. I used the simple, Nobel and versat
 
 Here's what the [Code Institute](https://codeinstitute.net/blog/makes-good-website/) says about the above question. What do you think? 
 
-[Share your thoughts!](https://8000-mirastkhadiv-fungym-mmu20s09q0g.ws-eu30.gitpod.io/)  
+[Share your thoughts!](https://amir-rastkhadiv.github.io/fun-gym/)  
 
 
 -  ### Terminology:
