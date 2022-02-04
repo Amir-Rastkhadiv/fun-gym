@@ -45,15 +45,22 @@ Click [stream-one](https://amir-rastkhadiv.github.io/my-brilliant-template/index
  Three parts make up the modern web. Front-end, back-end, and middleware . Each layer includes a set of technologies. Examples include: 
 The structure is HTML, the facade is CSS, and the functionality is JavaScript.
 
-On the backend, languages such as Python, PHP, and Ruby interact with databases, web services, and other data sources to provide users with the information they need. A middleware layer relays information between the front and backend.
-Obtaining responses and requests for HTTP,
-Accessed APIs,
+Backend languages such as Python, PHP, and Ruby can access databases, web services, and other data sources. A middleware layer relays information between the front and backend. Obtaining responses and requests for HTTP, Accessed APIs,
 authentication, routing, and sessions.
 
 Let's only explore HTML and CSS here. Google Chrome also comes with a set of web development tools. I'll use this as my primary tool. I can inspect and analyze a web page (test CSS style changes and debug code).
 
+Please read the following sections to gain further insight.
 
--  ### What makes a good website?
+-  ### A webpage? What is a Website? How about a good one? 
+
+This project aims to answer these questions. I used the simple, Nobel and versatile "Wh" technique at all stages. What steps should I take? Which resources can I consult? There are several steps.
+
+Here's what the [Code Institute](https://codeinstitute.net/blog/makes-good-website/) says about the above question. What do you think? 
+
+[Share your thoughts!](https://8000-mirastkhadiv-fungym-mmu20s09q0g.ws-eu30.gitpod.io/)  
+
+
 -  ### Terminology:
 
 
