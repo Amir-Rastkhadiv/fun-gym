@@ -61,7 +61,7 @@ Here's what the [Code Institute](https://codeinstitute.net/blog/makes-good-websi
 [Share your thoughts!](https://amir-rastkhadiv.github.io/fun-gym/)  
 
 
--  ### TERMINILOGY:
+-  ### TERMINOLOGY:
    -  #### UXD
    User experience refers to how something affects a person.
 This discipline ensures that a product works is simple, intuitive, and enjoyable to use.
@@ -73,16 +73,18 @@ Embedding user experience strategies at the beginning of the development process
    -  #### UID
    In human-computer interaction (HCI), a user interface is the interface between humans and machines. In this way, the machine is controlled and operated from the human end, while simultaneously providing information to aid the operator's decision-making.
 
-My work on the Fun Gym Website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.
+   - #### What does Software Craftsmanship entail?
+   A software craftsman believes that software design is more than just hammering the keyboard until your program works as it should. A good approach is to consider the total cost of ownership of a product - e.g., the costs of developing the software and fixing all the defects and maintaining it for many years to come.
 
+My work on the Fun Gym website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.When you fully understand the framework's intricacies, it's enjoyable to write beautiful, well-factored code along with a deadline.
 
+Love Gym? Thriled to code? What about Coding Gym? 
 
-
-
-
-
+[Contact Fun Gym Engineer/Architect to Get started!](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/)
 
 ## User Experience (UX)
+
+- GETTING STARTED 
 
 
 ## User Experience (UX)
