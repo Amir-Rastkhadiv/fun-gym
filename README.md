@@ -36,29 +36,22 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
 ## INTERLUDE
 
-
-
  - ### TOOLKITS:
 While I will use HTML and CSS to implement a static front-end web application, I will also use many other tools and technologies. 
 Click [stream-one](https://amir-rastkhadiv.github.io/my-brilliant-template/index.html) to make things easier.  
- Using the Code Institute module in LMS, I learned to code, gather technical information, and create a robust toolkit. To add further I exhibit here:  [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+ Using the Code Institute module in LMS, I learned to code, gather technical information, and create a robust toolkit. To add further:[TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+
+ -  ### WEB DEVELOPMENT OF THE MODERN ERA:
+ Three parts make up the modern web. Front-end, back-end, and middleware Each layer includes a set of technologies. Examples include: 
+The structure is HTML, the facade is CSS, and the functionality is JavaScript. Let's only explore HTML and CSS here. Google Chrome also comes with a set of web development tools. I'll use this as my primary tool. I can inspect and analyze a web page (test CSS style changes and debug code).
+Python, PHP, and Ruby interact with the database, web service, or other data source to provide the end-user with their requested data. To accomplish this:
+Responses and requests for HTTP;
+Setup a connection;
+API interaction;
+Manage URL routing, authentication, and sessions.
 
 
- -  ### Web Development of the Modern Era:
-
-
-
-
-
-
-
-
-
-
-
- 
 -  ### What makes a good website?
--  ### Toolkits:
 -  ### Terminology:
 
 
