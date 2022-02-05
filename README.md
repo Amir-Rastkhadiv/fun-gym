@@ -45,7 +45,17 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   
 - [USER EXPERIENCE](#UX)
 
-  - [GETTING STARTED](#GETTIN-STARTED)
+  - [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE?)
+  - [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT?)
+  - [#](#)
+  - [#](#)
+  - [#](#)
+  - [#](#)
+  - [#](#)
+
+
+
+  
 
 
 
@@ -106,9 +116,9 @@ To begin, let's review the essential What, Who, Which, and Where questions. Visu
 -  ### WHAT EXACTLY IS USER EXPERIENCE?
 In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success. 
 
-  - #### WHAT IS THIS PRODUCT?
+- ### WHAT IS THIS PRODUCT?
     In this case, the [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) website is a product. 
-    
+
 
 
 
