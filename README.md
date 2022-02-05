@@ -66,7 +66,7 @@ Please read the following sections to gain further insight.
 
 -  ### A WEBPAGE? WHAT IS A WEBSITE? HOW ABOUT A GOOD ONE? 
 
-This project aims to answer these questions. I used the simple, Nobel and versatile "Wh" technique at all stages. What steps should I take? Which resources can I consult? There are several steps.
+This project aims to answer these questions. I used the simple, noble and versatile "WH Questions" technique at all stages. What steps should I take? Which resources can I consult? There are several steps.
 
 Here's what the [Code Institute](https://codeinstitute.net/blog/makes-good-website/) says about the above question. What do you think? 
 
@@ -96,10 +96,10 @@ Love Gym? Thriled to code? What about Coding Gym?
 
 ## User Experience (UX)
 
-- GETTING STARTED 
+- [GETTING STARTED](#GETTING STARTED)
 
 
-## User Experience (UX)
+## 
 
 
 
