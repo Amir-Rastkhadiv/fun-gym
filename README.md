@@ -150,16 +150,18 @@ Thus, having a hero image from the target audience would be great.
 
 Top tips for branding the Fun Gym Website: 
 
-1) Short and memorable 
-2) Unique and different from other local brands. 
-3) Links to the core principle of the Gym Website.
-4) Create a strong Impression. 
-5) Domain name 
+1) Short and memorable name
+2) Unique and different from other local brands 
+3) Consistent with the gym's underlying principles
+4) Create a strong impression
+5) Specific constraints on domain names
 6) Clearly define the business
 7) Target market
-8) Thinking to all users 
+8) Thinking to all users
+9) Project directory rules   
+10) GitHub Repository/Pages conventions 
 
-Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, etc. I learned about domain generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce? What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
+Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, Code Institue etc. I learned about domain generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce? What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
 
 
 ## 
