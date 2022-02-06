@@ -114,83 +114,88 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
 
 - ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
-- ### WHAT IS THIS PRODUCT?
-
-    Gym Website is the product here. 
-
-- ### WHO ARE FUN GYM PROJECT USERS?
-  - #### Gym Members
-  - #### Member's Family-Friends
-  - #### Gym Prospective Members
-  - #### Experts, specialists, champions
-  -  #### Students
-  -  #### Potential Employees
-  -  #### Staff
-  -  #### Management
-  -  #### Public Visitors
-  -  #### Charities
-  -  #### Local Government/Local Council 
-  -  #### Our Partners
-  -  #### Our Competitors
-  -  #### Web Design Team
-     - #### Client: Fun Gym Project
-     - #### UX/UI Developer: Amir Rastkhadivmaosuleh
-     - #### Fellow Cohort: Slack Members
-     - #### Colleagues:
-        #### 1) Assessment team: University Center South Devon College
-        #### 2) Tuturing/Menoring: Code Institute Team
-  - #### Potential Investors: 
-     - #### Potential Investors
-     - #### Developers
-     - #### Tech Companies 
-  - #### Universities/Colleges/Institutes 
-  - #### Owner: Amir Rastkhadivmasouleh
-
-- ### What are the things worth doing?  
-Project Focus: 
-
-
-
-
-- ### What are you trying to accomplish?
-
-I am trying to achieve the following:
-1)  Develop a gym enthusiast's website. 
-2) Compile an industrial work portfolio.
-3) Produce an Academic project template. 
-4) Enjoy all aspects and say yes to all challenges.  
-4) Learn new skills. 
-5) Manage time and deadlines effectively.
-6) Comply with all high-level assessment requirements.
-7) Attained distinction marks.  
-
 - ### What are the things worth doing?  
 
-- ### What is the value of this service? 
+According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions." His point is essential: preparation has excellent value to problem-solving. Problems are necessary for the accomplishment of any worthwhile task.
+
+My efforts: 
+The Project name is the most critical part of the website name. It is choosing a  noble title for what you will make. Write your expectations. Then, it is worth spending time making user stories. Divide the project into minor problems and concentre on each of them. Analyse your options by determining the pros and cons of each decision. 
+
+
+  - ### WHAT IS THIS PRODUCT?
+
+      Gym Website is the product here. 
+
+  - ### WHO ARE FUN GYM PROJECT USERS?
+      - #### Gym Members
+      - #### Member's Family-Friends
+      - #### Gym Prospective Members
+      - #### Experts, specialists, champions
+      - #### Students
+      - #### Potential Employees
+      - #### Staff
+      - #### Management
+      - #### Public Visitors
+      - #### Charities
+      - #### Local Government/Local Council 
+      - #### Our Partners
+      - #### Our Competitors
+      - #### Web Design Team
+        - #### Client: Fun Gym Project
+        - #### UX/UI Developer: Amir Rastkhadivmaosuleh
+        - #### Fellow Cohort: Slack Members
+        - #### Colleagues:
+          #### 1) Assessment team: University Center South Devon College
+          #### 2) Tuturing/Menoring: Code Institute Team
+      - #### Potential Investors:
+        - #### Fan/Federation
+        - #### Developers
+        - #### Tech Companies 
+        - #### Universities/Colleges/Institutes 
+    - #### Owner: Amir Rastkhadivmasouleh
+
+  
+
+
+  - ### What are you trying to accomplish?
+
+  I am trying to achieve the following:
+  1)  Develop a gym enthusiast's website. 
+  2) Compile an industrial work portfolio.
+  3) Produce an Academic project template. 
+  4) Enjoy all aspects and say yes to all challenges.  
+  4) Learn new skills. 
+  5) Manage time and deadlines effectively.
+  6) Comply with all high-level assessment requirements.
+  7) Attained distinction marks.  
+
+  - ### What are the things worth doing?  
+
+  - ### What is the value of this service? 
 
 
 
-- ### WHO IS THE TARGET AUDIENCE FOR GYMS?
+  - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
 
-Thus, having a hero image from the target audience would be great. 
+  Thus, having a hero image from the target audience would be great. 
 
-- ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
+  - ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
 
-Top tips for branding the Fun Gym Website: 
+  Top tips for branding the Fun Gym Website: 
 
-1) Short and memorable name
-2) Unique and different from other local brands 
-3) Consistent with the gym's underlying principles
-4) Create a strong impression
-5) Specific constraints on domain names
-6) Clearly define the business
-7) Target market
-8) Thinking to all users
-9) Project directory rules   
-10) GitHub Repository/Pages conventions 
+  1) Short and memorable name
+  2) Unique and different from other local brands 
+  3) Consistent with the gym's underlying principles
+  4) Create a strong impression
+  5) Specific constraints on domain names
+  6) Clearly define the business
+  7) Target market
+  8) Thinking to all users
+  9) Project directory rules   
+  10) GitHub Repository/Pages conventions 
 
-Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, Code Institue etc. I learned about domain generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce? What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
+  Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of     research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, Code Institue etc. I learned about domain     generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before     I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce?     What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
 
 ## 
 
