@@ -39,6 +39,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [GETTING STARTED](#GETTING-STARTED)
   * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE)
   * [WHAT IS THE UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR)
+  * [STRATEGY OVERVIEW (DESIGN AND BUSINESS)](#Strategy-overview-design-and-business)
   * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT)
   * [WHO ARE FUN GYM PROJECT USERS?](#WHO-ARE-FUN-GYM-PROJECT-USERS)
   * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS)
@@ -111,6 +112,8 @@ There are five phases in UX: strategy, scope, structure, skeleton, and surface. 
 Using the above design system helps you do two things well:
 Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
 
+- ### ASTRATEGY OVERVIEW (DESIGN AND BUSINESS)
+
 - ### WHAT IS THIS PRODUCT?
 
     Gym Website is the product here. 
@@ -143,7 +146,28 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
   - #### Universities/Colleges/Institutes 
   - #### Owner: Amir Rastkhadivmasouleh
 
+- ### What are the things worth doing?  
+Project Focus: 
+
+
+
+
 - ### What are you trying to accomplish?
+
+I am trying to achieve the following:
+1)  Develop a gym enthusiast's website. 
+2) Compile an industrial work portfolio.
+3) Produce an Academic project template. 
+4) Enjoy all aspects and say yes to all challenges.  
+4) Learn new skills. 
+5) Manage time and deadlines effectively.
+6) Comply with all high-level assessment requirements.
+7) Attained distinction marks.  
+
+- ### What are the things worth doing?  
+
+- ### What is the value of this service? 
+
 
 
 - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
