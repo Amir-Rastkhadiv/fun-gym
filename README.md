@@ -114,10 +114,49 @@ Love Gym? Thriled to code? What about Coding Gym?
 To begin, let's review the essential What, Who, Which, and Where questions. Visual learners tend to find these simple WH questions easy since you can use visual aids, like a picture or an object, as hints. Then, it is simple to move on to asking "When," "Why," and "How."
 
 -  ### WHAT EXACTLY IS USER EXPERIENCE?
-In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success. 
-
+In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success.
+-  ### WHAT IS THE  UX SYSTEM IS USED FOR? 
+Using the above design system helps you do two things well:
+Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
 - ### WHAT IS THIS PRODUCT?
-    In this case, the [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) website is a product. 
+    In this case, the [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) website is a product.
+
+- ### WHO ARE FUN GYM PROJECT USERS?
+  - #### Gym Members
+  - #### Member's Family-Friends
+  - #### Gym Prospective Members
+  - #### Experts, specialists, champions
+  -  #### Students
+  -  #### Potential Employees
+  -  #### Staff
+  -  #### Management
+  -  #### Public Visitors
+  -  #### Charities
+  -  #### Local Government/Local Council 
+  -  #### Our Partners
+  -  #### Our Competitors
+  -  #### Web Design Team
+     - #### Client: Fun Gym Project
+     - #### UX/UI Developer: Amir Rastkhadivmaosuleh
+     - #### Fellow Cohort: Slack Members
+     - #### Colleagues:
+        #### 1) Assessment team: University Center South Devon College
+        #### 2) Tuturing/Menoring: Code Institute Team
+  - #### Potential Investors: 
+     - #### Potential Investors
+     - #### Developers
+     - #### Tech Companies 
+  - #### Universities/Colleges/Institutes 
+
+- ### WHO IS THE TARGET AUDIENCE FOR GYMS?
+Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
+
+Thus, having a hero image from the target audience would be great. 
+
+
+
+
+
 
 
 
