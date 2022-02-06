@@ -104,6 +104,8 @@ To begin, let's review the essential What, Who, Which, and Where questions. Visu
 
 In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success.
 
+There are five phases in UX: strategy, scope, structure, skeleton, and surface. These include tasks, functionality, and information. Therefore, it would be better to prioritize a specific project goal while simultaneously dealing with data.
+
 - ### WHAT IS THE UX SYSTEM IS USED FOR? 
 
 Using the above design system helps you do two things well:
@@ -141,6 +143,9 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
   - #### Universities/Colleges/Institutes 
   - #### Owner: Amir Rastkhadivmasouleh
 
+- ### What are you trying to accomplish?
+
+
 - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
 
@@ -162,7 +167,6 @@ Top tips for branding the Fun Gym Website:
 10) GitHub Repository/Pages conventions 
 
 Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, Code Institue etc. I learned about domain generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce? What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
-
 
 ## 
 
