@@ -34,8 +34,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [TOOLKITS](#TOOLKITS)
   * [WEB DEVELOPMENT OF THE MODERN ERA](#WEB-DEVELOPMENT-OF-THE-MODERN-ERA)
   * [TERMINOLOGY](#TERMINOLOGY)
-  * [WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?](#WHAT-DOES-SOFTWARE-CRAFTMANSHIP-ENTAIL?)
-
+  * [WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?](#What-does-sofware-craftmanship-entail?)
 - [USER EXPERIENCE (UX)](#user-experience-ux)
 
   * TOOLKITS
