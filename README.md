@@ -34,7 +34,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [TOOLKITS](#TOOLKITS)
   * [WEB DEVELOPMENT OF THE MODERN ERA](#WEB-DEVELOPMENT-OF-THE-MODERN-ERA)
   * [TERMINOLOGY](#TERMINOLOGY)
-  * [WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?](#WHAT-DOES-SOFTWARE-CRAFTMANSHIP-ENTAIL-?)
+  * [WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?](#WHAT-DOES-SOFTWARE-CRAFTMANSHIP-ENTAIL?)
 
 - [USER EXPERIENCE (UX)](#user-experience-ux)
 
@@ -87,7 +87,7 @@ Embedding user experience strategies at the beginning of the development process
    -  #### UID
    In human-computer interaction (HCI), a user interface is the interface between humans and machines. In this way, the machine is controlled and operated from the human end, while simultaneously providing information to aid the operator's decision-making.
 
-   - #### What does Software Craftsmanship entail?
+   - #### WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?
    A software craftsman believes that software design is more than just hammering the keyboard until your program works as it should. A good approach is to consider the total cost of ownership of a product, e.g., the costs of developing the software and fixing all the defects and maintaining it for many years to come.
 
 My work on the Fun Gym website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.When you fully understand the framework's intricacies, it's enjoyable to write beautiful, well-factored code along with a deadline.
