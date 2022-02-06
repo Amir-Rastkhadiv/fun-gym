@@ -42,6 +42,9 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT)
   * [WHO ARE FUN GYM PROJECT USERS?](#WHO-ARE-FUN-GYM-PROJECT-USERS)
   * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS)
+  * [WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?](#WHAT-TIPS-DO-YOU-HAVE-FOR-NAMEING-A-GYM-PROJECT)
+
+
 
 ## INTERLUDE
 
@@ -143,24 +146,20 @@ Segmentation analyses indicate that females are the target audience for gyms. Sp
 
 Thus, having a hero image from the target audience would be great. 
 
+- ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
 
+Top tips for choosing the Fun Gym Website: 
 
+1) Short and memorable 
+2) Unique and different from other local brands. 
+3) Links to the core principle of the Gym Website.
+4) Create a strong Impression. 
+5) Domain name 
+6) Clearly define the business
+7) Target market
+8) Thinking to all users 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, etc. I learned about domain generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before I decided on the current name. Last but not least, my website users catch them, inspire them, easy for them to pronounce. I remember I asked several developers, family friends etc. 
 
 
 ## 
