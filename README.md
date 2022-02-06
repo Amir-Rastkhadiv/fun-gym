@@ -147,6 +147,7 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
      - #### Developers
      - #### Tech Companies 
   - #### Universities/Colleges/Institutes 
+  - #### Owner: Amir Rastkhadivmasouleh
 
 - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
