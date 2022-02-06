@@ -112,7 +112,7 @@ There are five phases in UX: strategy, scope, structure, skeleton, and surface. 
 Using the above design system helps you do two things well:
 Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
 
-- ### ASTRATEGY OVERVIEW (DESIGN AND BUSINESS)
+- ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
 - ### WHAT IS THIS PRODUCT?
 
