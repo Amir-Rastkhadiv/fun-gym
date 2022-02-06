@@ -114,17 +114,13 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
 
 - ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
-- ### What are the things worth doing?  
-
+  - ### What are the things worth doing?
+  - ### WHAT is this product?  
+  - ### What is the value of each decision? 
 According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions." His point is essential: preparation has excellent value to problem-solving. Problems are necessary for the accomplishment of any worthwhile task.
 
 My efforts: 
-The Project name is the most critical part of the website name. It is choosing a  noble title for what you will make. Write your expectations. Then, it is worth spending time making user stories. Divide the project into minor problems and concentre on each of them. Analyse your options by determining the pros and cons of each decision. 
-
-
-  - ### WHAT IS THIS PRODUCT?
-
-      Gym Website is the product here. 
+* The project name is the most critical part of the business. Also, It is all about choosing a noble title for what you will make. Write your expectations. Then, it is worth spending time making user stories. Divide the project into minor problems and concentre on each of them. Analyse your options by determining the pros and cons of each decision. How much time do you estimate for each task? What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
   - ### WHO ARE FUN GYM PROJECT USERS?
       - #### Gym Members
@@ -154,11 +150,7 @@ The Project name is the most critical part of the website name. It is choosing a
         - #### Universities/Colleges/Institutes 
     - #### Owner: Amir Rastkhadivmasouleh
 
-  
-
-
-  - ### What are you trying to accomplish?
-
+  - ###  What are you trying to accomplish?
   I am trying to achieve the following:
   1)  Develop a gym enthusiast's website. 
   2) Compile an industrial work portfolio.
@@ -166,19 +158,13 @@ The Project name is the most critical part of the website name. It is choosing a
   4) Enjoy all aspects and say yes to all challenges.  
   4) Learn new skills. 
   5) Manage time and deadlines effectively.
-  6) Comply with all high-level assessment requirements.
-  7) Attained distinction marks.  
-
-  - ### What are the things worth doing?  
-
-  - ### What is the value of this service? 
-
-
+  6) Comply with all high-level assessment requirements.  
 
   - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
+
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
 
-  Thus, having a hero image from the target audience would be great. 
+Thus, having a hero image from the target audience would be great. 
 
   - ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
 
