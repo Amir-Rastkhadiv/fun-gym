@@ -36,7 +36,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * A WEBPAGE? WHAT IS A WEBSITE? HOW ABOUT A GOOD ONE?
   * TERMINOLOGY
   * WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?
-- [USER EXPERIENCE](#UX)
+- [USER EXPERIENCE (UX)](#USER-EXPERIENCE-(UX)) 
   * WHAT EXACTLY IS USER EXPERIENCE?
   * WHAT IS THIS PRODUCT?
   * WHO IS THE TARGET AUDIENCE FOR GYMS?
@@ -89,7 +89,7 @@ Love Gym? Thriled to code? What about Coding Gym?
 
 [Contact Fun Gym Engineer/Architect to Get started!](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/)
 
-## User Experience (UX)
+## USER EXPERIENCE (UX)
 
 - ### GETTING STARTED
 
