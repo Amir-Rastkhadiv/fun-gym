@@ -31,32 +31,24 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 - [ABSTRACT](#ABSTRACT)
 - [INTRODUCRION](#INTRODUCTION)
 - [INTERLUDE](#INTERLUDE) 
-
   - [TOOLKITS](#TOOLKITS)
-
   - [WEB DEVELOPMENT OF THE MODERN ERA](#WEB-DEVELOPMENT-OF-TH-MODERN-ERA)
 
   - [A WEBPAGE? WHAT IS A WEBSITE? HOW ABOUT A GOOD ONE?](#A-WEBPAGE?-WHAT-IS-A-WEBSITE?-HOW-ABOUT-A-GOOD-ONE?)
 
-  - [TERMINOLOGY](TERMINOLOGY)
+  - [TERMINOLOGY](#TERMINOLOGY)
+  - [WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?](#WHAT-DOES-SOFTWARE-CRAFTMANSHIP-ENTAIL?)
 
-  - [WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?](WHAT-DOES-SOFTWARE-CRAFTMANSHIP-ENTAIL?)
-
-  
 - [USER EXPERIENCE](#UX)
-
   - [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE?)
   - [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT?)
-  - [#](#)
-  - [#](#)
-  - [#](#)
-  - [#](#)
-  - [#](#)
+  - [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDENCE-FOR-GYMS)
 
 
-
-  
-
+  - [#](#)
+  - [#](#)
+  - [#](#)
+  - [#](#)
 
 
 ## INTERLUDE
@@ -119,8 +111,7 @@ In a nutshell, a helpful, usable, and valuable product is user experience(UX). I
 Using the above design system helps you do two things well:
 Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
 - ### WHAT IS THIS PRODUCT?
-    In this case, the [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) website is a product.
-
+    Gym Website is the product here. 
 - ### WHO ARE FUN GYM PROJECT USERS?
   - #### Gym Members
   - #### Member's Family-Friends
@@ -153,6 +144,10 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
 
 Thus, having a hero image from the target audience would be great. 
+
+-- ### WHO IS THE TARGET AUDIENCE FOR GYMS?
+
+
 
 
 
