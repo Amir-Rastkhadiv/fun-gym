@@ -101,7 +101,7 @@ To begin, let's review the essential What, Who, Which, and Where questions. Visu
 
 In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success.
 
-- ### WHAT IS THE  UX SYSTEM IS USED FOR? 
+- ### WHAT IS THE UX SYSTEM IS USED FOR? 
 
 Using the above design system helps you do two things well:
 Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
