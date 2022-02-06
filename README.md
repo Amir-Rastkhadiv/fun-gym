@@ -113,6 +113,8 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
 
 - ### WHO ARE FUN GYM PROJECT USERS?
 
+
+
   - #### Gym Members
   - #### Member's Family-Friends
   - #### Gym Prospective Members
@@ -145,7 +147,7 @@ Segmentation analyses indicate that females are the target audience for gyms. Sp
 
 Thus, having a hero image from the target audience would be great. 
 
--- ### WHO IS THE TARGET AUDIENCE FOR GYMS?
+
 
 
 
