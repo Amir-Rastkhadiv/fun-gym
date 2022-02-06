@@ -37,12 +37,11 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [TERMINOLOGY](#TERMINOLOGY)
 - [USER EXPERIENCE (UX)](#user-experience-ux)
   * [GETTING STARTED](#GETTING-STARTED)
-  * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE-?)
-  * [WHAT IS THE  UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR-?)
-  * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT-?)
+  * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE?)
+  * [WHAT IS THE  UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR?)
+  * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT?)
   * [WHO ARE FUN GYM PROJECT USERS?](#WHO-ARE-FUN-GYM-PROJECT-USERS?)
-  * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS-?)
-  
+  * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS?)
 
 ## INTERLUDE
 
@@ -112,9 +111,6 @@ Improve consistency, and you receive coded patterns that you can quickly impleme
     Gym Website is the product here. 
 
 - ### WHO ARE FUN GYM PROJECT USERS?
-
-
-
   - #### Gym Members
   - #### Member's Family-Friends
   - #### Gym Prospective Members
