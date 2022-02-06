@@ -37,10 +37,12 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [TERMINOLOGY](#TERMINOLOGY)
 - [USER EXPERIENCE (UX)](#user-experience-ux)
   * [GETTING STARTED](#GETTING-STARTED)
-  * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE?)
-  * [WHAT IS THE  UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR?)
-  * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT?)
-  * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS?)
+  * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE-?)
+  * [WHAT IS THE  UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR-?)
+  * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT-?)
+  * [WHO ARE FUN GYM PROJECT USERS?](#WHO-ARE-FUN-GYM-PROJECT-USERS?)
+  * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS-?)
+  
 
 ## INTERLUDE
 
@@ -97,13 +99,20 @@ Love Gym? Thriled to code? What about Coding Gym?
 To begin, let's review the essential What, Who, Which, and Where questions. Visual learners tend to find these simple WH questions easy since you can use visual aids, like a picture or an object, as hints. Then, it is simple to move on to asking "When," "Why," and "How."
 
 - ### WHAT EXACTLY IS USER EXPERIENCE?
+
 In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success.
+
 - ### WHAT IS THE  UX SYSTEM IS USED FOR? 
+
 Using the above design system helps you do two things well:
 Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
+
 - ### WHAT IS THIS PRODUCT?
+
     Gym Website is the product here. 
+
 - ### WHO ARE FUN GYM PROJECT USERS?
+
   - #### Gym Members
   - #### Member's Family-Friends
   - #### Gym Prospective Members
