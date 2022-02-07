@@ -134,7 +134,7 @@ Generally, problems are necessary for the accomplishment of any worthwhile task.
 
 The task is to define a project by identifying questions and analyzing each issue. Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
-  Q1)   What is this product? 
+  Q1)What is this product?  
 
   Q2)   Who are project users? 
 
@@ -171,6 +171,20 @@ The task is to define a project by identifying questions and analyzing each issu
   Q18)  Which content types are attractive to users?
 
   Q19)  What contents are practical?
+
+  Q20)  What do gym goers do in their routine?
+
+  Q21)  What do gym goers do in their routine?
+
+  Q22)  What is the purpose of using the gym website?
+
+  Q23) 
+
+
+
+
+
+
    
 - ### WHAT IS THIS PRODUCT?
 
@@ -421,4 +435,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   
 -  
 
-
+[Back to table of contents](TABLE-OF-CONTENTS:)
