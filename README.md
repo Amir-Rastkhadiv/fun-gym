@@ -120,7 +120,12 @@ Click [here](https://ozchen.com/5-planes-content-strategy/) for more information
 - ### WHAT IS THE UX SYSTEM IS USED FOR? 
 
 Using the above design system helps you do two things well: Improve consistency and receive coded patterns that you can quickly implement for the following project.
+A UX is composed of connected planes. Planes will exchange information, resulting in a complete product. In this process, flexibility is paramount.
 
+
+![FIGURE 3: A UX is composed of connected planes.](./assets/img/fig-3-ux.png)
+
+Click [here](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) for more information. 
 - ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
 According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions."
