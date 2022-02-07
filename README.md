@@ -166,8 +166,12 @@ The task is to define a project by identifying questions and analyzing each issu
 
   Q16)  What would you put off doing? 
 
-  Q17)  What would you put off doing?
+  Q17)  What about the contents?
 
+  Q18)  Which content types are attractive to users?
+
+  Q19)  What contents are practical?
+   
 - ### WHAT IS THIS PRODUCT?
 
 Gym Website is the product here. 
