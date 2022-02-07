@@ -137,7 +137,7 @@ The task is to define a project by identifying questions and analyzing each issu
 
   Q4)   What are you trying to accomplish?
 
-  Q5)   What is the audience expected to see?
+  Q5)   What are first-time audiences expected to see?
 
   Q6)   What are its most common uses? 
 
