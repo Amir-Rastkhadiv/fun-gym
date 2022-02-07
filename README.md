@@ -26,7 +26,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
-## [TABLE OF CONTENTS:](#TABLE-OF-CONTENTS:)
+## TABLE OF CONTENTS:
 
 - [ABSTRACT](#ABSTRACT)
 - [INTRODUCRION](#INTRODUCTION)
