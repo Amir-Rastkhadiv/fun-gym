@@ -156,19 +156,17 @@ The task is to define a project by identifying questions and analyzing each issu
 
   Q11)  What tech matters?
 
-  Q12)  What tech matters?
+  Q12)  What experience do you have? 
 
-  Q13)  What experience do you have? 
+  Q13)  What action can I take now? 
 
-  Q14)  What action can I take now? 
+  Q14)  What are the skills I need to acquire?  
 
-  Q15)  What are the skills I need to acquire?  
+  Q15)  What are the expected deadline and current situations, and how much time can each task likely take?
 
-  Q16)  What are the expected deadline and current situations, and how much time can each task likely take?
+  Q16)  What would you put off doing? 
 
-  Q17)  What would you put off doing? 
-
-  Q18)  What would you put off doing?
+  Q17)  What would you put off doing?
 
 - ### WHAT IS THIS PRODUCT?
 
