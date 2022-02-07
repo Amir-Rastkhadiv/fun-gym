@@ -383,9 +383,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-- In creating the Fun Gym website under construction page, the developer adapted the [balsamic](#https://balsamiq.com) free media icon and mixed it with heart and victory icons for the logo.
+- In creating the Fun Gym website under construction page, the developer adapted the [Balsamic](https://balsamiq.com) free media icon and mixed it with heart and victory icons for the logo.
 
 - ["Am I Responsive"](http://ami.responsivedesign.is/) website was used to make the initial mock-ups shown in Figure-1.
+
+- I took Figure-2 from [Ozchen's website](https://ozchen.com/5-planes-content-strategy/) and modified it for the UX design section. 
+
 
 
 
