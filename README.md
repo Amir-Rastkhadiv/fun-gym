@@ -40,11 +40,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE)
   * [WHAT IS THE UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR)
   * [STRATEGY OVERVIEW (DESIGN AND BUSINESS)](#Strategy-overview-design-and-business)
-  * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT)
-  * [WHO ARE FUN GYM PROJECT USERS?](#WHO-ARE-FUN-GYM-PROJECT-USERS)
-  * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS)
-  * [WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?](#WHAT-TIPS-DO-YOU-HAVE-FOR-NAMEING-A-GYM-PROJECT)
-
+  
 
 
 ## INTERLUDE
@@ -109,62 +105,100 @@ There are five phases in UX: strategy, scope, structure, skeleton, and surface. 
 
 - ### WHAT IS THE UX SYSTEM IS USED FOR? 
 
-Using the above design system helps you do two things well:
-Improve consistency, and you receive coded patterns that you can quickly implement for the following project.
+Using the above design system helps you do two things well: Improve consistency and receive coded patterns that you can quickly implement for the following project.
 
 - ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
-  - ### What are the things worth doing?
-  - ### WHAT is this product?  
-  - ### What is the value of each decision? 
-According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions." His point is essential: preparation has excellent value to problem-solving. Problems are necessary for the accomplishment of any worthwhile task.
+According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions."
 
-My efforts: 
-* The project name is the most critical part of the business. Also, It is all about choosing a noble title for what you will make. Write your expectations. Then, it is worth spending time making user stories. Divide the project into minor problems and concentre on each of them. Analyse your options by determining the pros and cons of each decision. How much time do you estimate for each task? What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
+Generally, problems are necessary for the accomplishment of any worthwhile task. In wise terms, preparation is a valuable tool in solving problems. 
 
-  - ### WHO ARE FUN GYM PROJECT USERS?
-      - #### Gym Members
-      - #### Member's Family-Friends
-      - #### Gym Prospective Members
-      - #### Experts, specialists, champions
-      - #### Students
-      - #### Potential Employees
-      - #### Staff
-      - #### Management
-      - #### Public Visitors
-      - #### Charities
-      - #### Local Government/Local Council 
-      - #### Our Partners
-      - #### Our Competitors
-      - #### Web Design Team
-        - #### Client: Fun Gym Project
-        - #### UX/UI Developer: Amir Rastkhadivmaosuleh
-        - #### Fellow Cohort: Slack Members
-        - #### Colleagues:
-          #### 1) Assessment team: University Center South Devon College
-          #### 2) Tuturing/Menoring: Code Institute Team
-      - #### Potential Investors:
-        - #### Fan/Federation
-        - #### Developers
-        - #### Tech Companies 
-        - #### Universities/Colleges/Institutes 
-    - #### Owner: Amir Rastkhadivmasouleh
+The task is to define a project by identifying questions and analyzing each issue. Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
-  - ###  What are you trying to accomplish?
-  I am trying to achieve the following:
-  1)  Develop a gym enthusiast's website. 
-  2) Compile an industrial work portfolio.
-  3) Produce an Academic project template. 
-  4) Enjoy all aspects and say yes to all challenges.  
-  4) Learn new skills. 
-  5) Manage time and deadlines effectively.
-  6) Comply with all high-level assessment requirements.  
+  Q1)   What is this product? 
 
-  - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
+  Q2)   Who are project users? 
+
+  Q3)   Who is the target audience for gyms?
+
+  Q4)   What are you trying to accomplish?
+
+  Q5)   What is the audience expected to see?
+
+  Q6)   What are its most common uses? 
+
+  Q7)   What are the things worth doing?
+
+  Q8)   What is the value of each decision? 
+
+  Q9)   What do users expect to see on their first use?
+
+  Q10)  What makes your project a brand?  
+
+  Q11)  What tech matters?
+
+  Q12)  What tech matters?
+
+  Q13)  What experience do you have? 
+
+  Q14)  What action can I take now? 
+
+  Q15)  What are the skills I need to acquire?  
+
+  Q16)  What are the expected deadline and current situations, and how much time can each task likely take?
+
+  Q17)  What would you put off doing? 
+
+  Q18)  What would you put off doing?
+
+- ### WHAT IS THIS PRODUCT?
+
+Gym Website is the product here. 
+
+- ### WHO ARE PROJECT USERS?
+  - ##### Gym Members
+  - ##### Member's Family-Friends
+  - ##### Gym Prospective Members
+  - ##### Experts, specialists, champions
+  - ##### Students
+  - ##### Potential Employees
+  - ##### Staff
+  - ##### Management
+  - ##### Public Visitors
+  - ##### Charities
+  - ##### Local Government/Local Council 
+  - ##### Our Partners
+  - ##### Our Competitors
+  - ##### Web Design Team
+  - ##### Client: Fun Gym Project
+  - ##### UX/UI Developer: Amir Rastkhadivmaosuleh
+  - ##### Fellow Cohort: Slack Members
+        ##### 1) Assessment team: University Center South Devo  College
+     ##### 2) Tuturing/Menoring: Code Institute Team
+  - ##### Potential Investors:
+        - ##### Fan/Federation
+  - ##### Developers
+  - ##### Tech Companies 
+   - ##### Universities/Colleges/Institutes 
+    - ##### Owner: Amir Rastkhadivmasouleh
+
+- ### WHO IS THE TARGET AUDIENCE FOR GYMS?
 
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
 
 Thus, having a hero image from the target audience would be great. 
+
+
+  - ### WHAT ARE YOU TRYING TO ACCOMPLISH?
+
+  I am trying to achieve the following:
+  - Develop a gym enthusiast's website. 
+  - Compile an industrial work portfolio.
+  - Produce an Academic project template. 
+  - Enjoy all aspects and say yes to all challenges.  
+  - Learn new skills. 
+  - Manage time and deadlines effectively.
+  - Comply with all high-level assessment requirements.  
 
   - ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
 
@@ -182,9 +216,6 @@ Thus, having a hero image from the target audience would be great.
   10) GitHub Repository/Pages conventions 
 
   Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of     research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, Code Institue etc. I learned about domain     generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before     I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce?     What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
-
-## 
-
 
 
 -   ### User stories
