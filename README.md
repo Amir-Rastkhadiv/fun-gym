@@ -1,6 +1,6 @@
 <h1 align="center">COMING SOON! </h1> 
 
-# FUN GYM - WEBSITE 
+# FUN GYM - WEBSITE                                         
 
 ## ABSTRACT 
 
@@ -26,7 +26,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
-## TABLE OF CONTENTS:
+## TABLE OF CONTENTS:      
 
 - [ABSTRACT](#ABSTRACT)
 - [INTRODUCRION](#INTRODUCTION)
@@ -45,7 +45,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS)
   * [WHAT ARE YOU TRYING TO ACCOMPLISH?](#WHAT-ARE-YOU-TRYING-TO-ACCOMPLISH)
   * [WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?](#WHAT-TIPS)
-  * [](#)
+  * [1](#)
   
   
 
@@ -180,12 +180,9 @@ The task is to define a project by identifying questions and analyzing each issu
 
   Q23) 
 
+-------------------------------------------------------------------    <button> [Back To Top](#) </button>-------------------------------------------------
 
 
-
-
-
-   
 - ### WHAT IS THIS PRODUCT?
 
 Gym Website is the product here. 
@@ -435,7 +432,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   
 -  
 
-
-
-
-- [TABLE OF CONTENTS:](#TABLE-OF-CONTENTS:)
+## -----------------------------------------------------------------<button> [Back To Top](#) </button>-------------------------------------------------
