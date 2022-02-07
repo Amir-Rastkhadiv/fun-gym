@@ -223,7 +223,7 @@ Thus, having a hero image from the target audience would be great.
 
 - ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
 
-  Top tips for branding the Fun Gym Website: 
+  Top tips for branding the gym website:
 
   1) Short and memorable name
   2) Unique and different from other local brands 
@@ -236,7 +236,11 @@ Thus, having a hero image from the target audience would be great.
   9) Project directory rules   
   10) GitHub Repository/Pages conventions 
 
-  Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of     research, for example, looking for top brand names, like Facebook, Instagram, Twitter, Apple, Code Institue etc. I learned about domain     generators, and it's crucial to get a term to be appearing on search engine results. Also, I considered several other gym competitors before     I decided on the current name. Lastly, I should consider my website users. Do they find it inspiring? And is it easy for them to pronounce?     What comes to mind when they hear it? I thought this was an interesting question to ask developers, family members, etc. 
+  Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, Meta or Facebook, Instagram, Twitter, Apple, Code Institue, Virgin etc. 
+  
+  Thankfully, there are domain generators, and it's crucial to get a term appearing on search engine results. Also, I considered several other gym competitors before I decided on the current name. Last but not least, I should think of my website users. Do they find it inspiring? And is it easy for them to pronounce? What comes to mind when they hear it? Quite an interesting question to ask developers, parents, etc. 
+
+In conclusion, the website was named Fun Gym. 
 
 
 -   ### User stories
