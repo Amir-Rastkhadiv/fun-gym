@@ -24,7 +24,7 @@ As a final point, the developer/owner has combined design and technology to crea
 Enjoy it and happy, healthy and wealthy fit coding activity!
 
 
- ![Fun Gym Webpage on multiple devices nice mockups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fun-gym-responsive.png)
+ ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
 ## TABLE OF CONTENTS:
 
@@ -112,7 +112,7 @@ There are five phases in UX: strategy, scope, structure, skeleton, and surface. 
 
 Figure 2 illustrates precisely how the process works. 
 
-![Figure 2: Process For UX Design(https://ozchen.com)](/assets/img/figure-2-uxd.png)
+![Figure 2: Process For UX Design(https://ozchen.com)](./assets/img/figure-2-uxd.png)
 
 Click [here](https://ozchen.com/5-planes-content-strategy/) for more information. 
 
