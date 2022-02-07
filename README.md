@@ -38,6 +38,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 - [USER EXPERIENCE (UX)](#user-experience-ux)
   * [GETTING STARTED](#GETTING-STARTED)
   * [WHAT EXACTLY IS USER EXPERIENCE?](#WHAT-EXACTLY-IS-USER-EXPERIENCE)
+  * [STRATEGY OVERVIEW (DESIGN AND BUSINESS)](#STRATEGY-OVERVIEW-DESIGN-AND-BUSINESS))
   * [WHAT IS THE UX SYSTEM IS USED FOR?](#WHAT-IS-THE-UX-SYSTEM-IS-USED-FOR)
   * [WHAT IS THIS PRODUCT?](#WHAT-IS-THIS-PRODUCT?)
   * [WHO ARE PROJECT USERS?](#WHO-ARE-PROJECT-USERS?)
@@ -199,7 +200,7 @@ Segmentation analyses indicate that females are the target audience for gyms. Sp
 Thus, having a hero image from the target audience would be great. 
 
 
-  - ### WHAT ARE YOU TRYING TO ACCOMPLISH?
+- ### WHAT ARE YOU TRYING TO ACCOMPLISH?
 
   I am trying to achieve the following:
   - Develop a gym enthusiast's website. 
@@ -210,7 +211,7 @@ Thus, having a hero image from the target audience would be great.
   - Manage time and deadlines effectively.
   - Comply with all high-level assessment requirements.  
 
-  - ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
+- ### WHAT TIPS DO YOU HAVE FOR NAMEING A GYM PROJECT?
 
   Top tips for branding the Fun Gym Website: 
 
