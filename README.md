@@ -110,6 +110,13 @@ In a nutshell, a helpful, usable, and valuable product is user experience(UX). I
 
 There are five phases in UX: strategy, scope, structure, skeleton, and surface. These include tasks, functionality, and information. Therefore, it would be better to prioritize a specific project goal while simultaneously dealing with data.
 
+Figure 2 illustrates precisely how the process works. 
+
+![Figure 2: Process For UX Design(https://ozchen.com)](/assets/img/figure-2-uxd.png)
+
+Click [here](https://ozchen.com/5-planes-content-strategy/) for more information. 
+
+
 - ### WHAT IS THE UX SYSTEM IS USED FOR? 
 
 Using the above design system helps you do two things well: Improve consistency and receive coded patterns that you can quickly implement for the following project.
