@@ -394,6 +394,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - I took Figure-2 from [Ozchen's website](https://ozchen.com/5-planes-content-strategy/) and modified it for the UX design section. 
 
+- Figure-3 contents are from the [Code Institute](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) 
+
+
 
 
 
