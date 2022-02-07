@@ -170,17 +170,21 @@ Gym Website is the product here.
   - ##### Our Partners
   - ##### Our Competitors
   - ##### Web Design Team
-  - ##### Client: Fun Gym Project
-  - ##### UX/UI Developer: Amir Rastkhadivmaosuleh
-  - ##### Fellow Cohort: Slack Members
-        ##### 1) Assessment team: University Center South Devo  College
-     ##### 2) Tuturing/Menoring: Code Institute Team
+    - ##### Client: Fun Gym Project
+    - ##### UX/UI Developer: Amir Rastkhadivmaosuleh
+    - ##### Fellow Cohort: Slack Members
+    - ##### Colleauges: 
+
+       ##### 1) Assessment team: University Center South Devo  College
+
+       ##### 2) Tuturing/Menoring: Code Institute Team
+
   - ##### Potential Investors:
-        - ##### Fan/Federation
-  - ##### Developers
-  - ##### Tech Companies 
-   - ##### Universities/Colleges/Institutes 
-    - ##### Owner: Amir Rastkhadivmasouleh
+     - ##### Fan/Federation
+     - ##### Developers
+     - ##### Tech Companies 
+     - ##### Universities/Colleges/Institutes 
+     - ##### Owner: Amir Rastkhadivmasouleh
 
 - ### WHO IS THE TARGET AUDIENCE FOR GYMS?
 
