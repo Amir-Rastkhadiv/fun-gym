@@ -256,16 +256,16 @@ Thus, having a hero image from the target audience would be great.
 
   Top tips for branding the gym website:
 
-  1) Short and memorable name
-  2) Unique and different from other local brands 
-  3) Consistent with the gym's underlying principles
-  4) Create a strong impression
-  5) Specific constraints on domain names
-  6) Clearly define the business
-  7) Target market
-  8) Thinking to all users
-  9) Project directory rules   
-  10) GitHub Repository/Pages conventions 
+  - Short and memorable name
+  - Unique and different from other local brands 
+  - Consistent with the gym's underlying principles
+  - Create a strong impression
+  - Specific constraints on domain names
+  - Clearly define the business
+  - Target market
+  - Thinking to all users
+  - Project directory rules   
+  - GitHub Repository/Pages conventions 
 
   Choosing a name was one of the most challenging decisions I've ever made as a designer, developer, and website owner. I did a lot of research, for example, looking for top brand names, Meta or Facebook, Instagram, Twitter, Apple, Code Institue, Virgin etc. 
   
@@ -282,21 +282,26 @@ Hence:
 
 -   #### First Time Visitor Goals All Groups 
 
-    1. First-time visitor, so I want to see the initial message by the business to new visitors. Visitors could get a discount on membership or access to working hours, gym locations, and facilities by viewing an encouraging photo or content. 
 
-    2. The purpose of visiting the site for the first time is to quickly understand the site's purpose and learn more about the organization.
 
-    3. For a first-time visitor, I must navigate the site efficiently to find information quickly.
+    - If I visit a website, I look for something nearly similar to the market or relevant to the business. Having some uniqueness, though, would be great, as well as something that motivates me to delve deeper into the website. 
 
-    4. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media.
+    - The first impression can be a welcome message, a nice logo, an affable hero image, whatever catches my eye at first glance. It may offer a great deal/discount/features compared to its competitors.
+    
+    - First-time visitor, I am looking for a responsive and accesible website providing access to working hours, gym locations, and facilities clasess, by viewing an encouraging photo or content. - A memorable experience could motivate me to visit the terms and conditions of membership quickly and easily. 
+ 
+    - The purpose of a first visit to the site is to learn more about the organization and understand the site purpose.
 
-    5. Aa first time vistors I want to have an acess to the conatct details. 
+    - For a first-time visitor, I must navigate the site efficiently to find information quickly.
 
+    -  To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media. 
+
+    - I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
 
 
     -   #### Returning Visitor Goals
 
-        1. 
+        1. A memorable experience could motivate me to visit the terms and conditions for extending membership quickly and easily or applying for furtehr services. 
         2. 
         3. 
 
