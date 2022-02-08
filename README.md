@@ -128,6 +128,7 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 ![FIGURE 3: A UX is composed of connected planes.](./assets/img/fig-3-ux.png)
 
 Click [here](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) for more information. 
+
 - ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
 According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions."
@@ -282,13 +283,11 @@ Hence:
 
 -   #### First Time Visitor Goals All Groups 
 
-
-
     - If I visit a website, I look for something nearly similar to the market or relevant to the business. Having some uniqueness, though, would be great, as well as something that motivates me to delve deeper into the website. 
 
     - The first impression can be a welcome message, a nice logo, an affable hero image, whatever catches my eye at first glance. It may offer a great deal/discount/features compared to its competitors.
     
-    - First-time visitor, I am looking for a responsive and accesible website providing access to working hours, gym locations, and facilities clasess, by viewing an encouraging photo or content. - A memorable experience could motivate me to visit the terms and conditions of membership quickly and easily. 
+    - First-time visitor, I am looking for a responsive and accesible website providing access to working hours, gym locations, and facilities clasess, by viewing an encouraging photo or content. A memorable experience could motivate me to visit the terms and conditions of membership quickly and easily. 
  
     - The purpose of a first visit to the site is to learn more about the organization and understand the site purpose.
 
@@ -297,6 +296,18 @@ Hence:
     -  To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media. 
 
     - I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
+
+    - It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
+
+
+    -  #### First Time Visitor Goals Investors:
+
+     - I am an investor interested in learning who owns FUN GYM. 
+     - I want to have a contact form or contact email or  phone number to be connectend to the owner/manager 
+
+
+
+
 
 
     -   #### Returning Visitor Goals
@@ -309,6 +320,23 @@ Hence:
         1. 
         2. 
         3. 
+
+- ### SCOPE OVERVIEW (FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS)
+Currently, we are trying to align the goals with the strategic objectives and use WH questioning techniques to move slowly forward with the scope of work, but we will need to modify our approach. Why?  
+
+According to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), "We cannot solve our problems by using the same reasoning we utilized to produce them."
+
+That depends on requirements, features, and content. 
+For instance, what qualities do we wish to include on the site? 
+
+Here is where agile methodology comes into play. Obtain a clear picture of what is currently available in terms of content and features. Describe what is now known as well as what is unknown. Streamlining the documentation will make a big difference. An agile approach implies committing to small, bite-sized pieces of development that will allow the team to learn as it goes.
+
+
+
+
+
+
+
 
 -   ### Design
     -   #### Colour Scheme
