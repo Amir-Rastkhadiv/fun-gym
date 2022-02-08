@@ -280,17 +280,17 @@ Fun Gym websites cater to a significant segment of the population. Gym users, lo
 
 Hence: 
 
-    -   #### First Time Visitor Goals All Groups 
+-   #### First Time Visitor Goals All Groups 
 
-        1. First-time visitor, so I want to see the initial message by the business to new visitors. Visitors could get a discount on membership or access to working hours, gym locations, and facilities by viewing an encouraging photo or content. 
+    1. First-time visitor, so I want to see the initial message by the business to new visitors. Visitors could get a discount on membership or access to working hours, gym locations, and facilities by viewing an encouraging photo or content. 
 
-        2. The purpose of visiting the site for the first time is to quickly understand the site's purpose and learn more about the organization.
+    2. The purpose of visiting the site for the first time is to quickly understand the site's purpose and learn more about the organization.
 
-        3. For a first-time visitor, I must navigate the site efficiently to find information quickly.
+    3. For a first-time visitor, I must navigate the site efficiently to find information quickly.
 
-        3. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media.
+    4. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media.
 
-        5. Aa first time vistors I want to have an acess to the conatct details. 
+    5. Aa first time vistors I want to have an acess to the conatct details. 
 
 
 
