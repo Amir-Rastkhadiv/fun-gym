@@ -140,21 +140,7 @@ The task is to define a project by identifying questions and analyzing each issu
 
 Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
-
-
-
-
-
-
-
-
-
-
-[]()
-
-
-The following are the questions used in this project:
-
+The following are the most questions used in this project at this stage?
   Q1)What is this product?  
 
   Q2)   Who are project users? 
@@ -290,11 +276,23 @@ In conclusion, the website was named Fun Gym.
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+Fun Gym websites cater to a significant segment of the population. Gym users, local communities, health and fitness professionals, tech companies, universities, research institutions, and colleges, as well as potential business investors.
 
-        1. 
-        2. 
-        3.   
+Hence: 
+
+    -   #### First Time Visitor Goals All Groups 
+
+        1. First-time visitor, so I want to see the initial message by the business to new visitors. Visitors could get a discount on membership or access to working hours, gym locations, and facilities by viewing an encouraging photo or content. 
+
+        2. The purpose of visiting the site for the first time is to quickly understand the site's purpose and learn more about the organization.
+
+        3. For a first-time visitor, I must navigate the site efficiently to find information quickly.
+
+        3. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media.
+
+        5. Aa first time vistors I want to have an acess to the conatct details. 
+
+
 
     -   #### Returning Visitor Goals
 
