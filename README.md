@@ -1,4 +1,4 @@
-<h1 align="center">COMING SOON! </h1> 
+<h1 align="center">COMING SOON! </h1>
 
 # FUN GYM - WEBSITE                                         
 
@@ -104,6 +104,8 @@ Love Gym? Thriled to code? What about Coding Gym?
 
 To begin, let's review the essential What, Who, Which, and Where questions. Visual learners tend to find these simple WH questions easy since you can use visual aids, like a picture or an object, as hints. Then, it is simple to move on to asking "When," "Why," and "How."
 
+[Keep Things on Track by Asking the Right Questions](https://amir-rastkhadiv.github.io/fun-gym/)
+
 - ### WHAT EXACTLY IS USER EXPERIENCE?
 
 In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success.
@@ -132,7 +134,26 @@ According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minute
 
 Generally, problems are necessary for the accomplishment of any worthwhile task. In wise terms, preparation is a valuable tool in solving problems. 
 
-The task is to define a project by identifying questions and analyzing each issue. Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
+The task is to define a project by identifying questions and analyzing each issue. All it takes is some questions, some research, and some planning.
+
+![Figure 4: UX design scheme from scratch to finished product..](./assets/img/fig-4-uxd-s.png)
+
+Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
+
+
+
+
+
+
+
+
+
+
+
+[]()
+
+
+The following are the questions used in this project:
 
   Q1)What is this product?  
 
@@ -152,33 +173,43 @@ The task is to define a project by identifying questions and analyzing each issu
 
   Q9)   What do users expect to see on their first use?
 
-  Q10)  What makes your project a brand?  
+  Q10) Who else is buliding this? 
 
-  Q11)  What tech matters?
+  Q11) What are they doing? 
 
-  Q12)  What experience do you have? 
+  Q12) What are they missing?
 
-  Q13)  What action can I take now? 
+  Q13) what could they do better? 
 
-  Q14)  What are the skills I need to acquire?  
+  Q14)  What makes your project a brand?  
 
-  Q15)  What are the expected deadline and current situations, and how much time can each task likely take?
+  Q15)  What tech matters?
 
-  Q16)  What would you put off doing? 
+  Q16)  What experience do you have? 
 
-  Q17)  What about the contents?
+  Q17)  What action can I take now? 
 
-  Q18)  Which content types are attractive to users?
+  Q18)  What are the skills I need to acquire?  
 
-  Q19)  What contents are practical?
+  Q19)  What are the expected deadline and current situations, and how much time can each task likely take?
 
-  Q20)  What do gym goers do in their routine?
+  Q20)  What would you put off doing? 
 
-  Q21)  What do gym goers do in their routine?
+  Q21)  What about the contents?
 
-  Q22)  What is the purpose of using the gym website?
+  Q22)  Which content types are attractive to users?
 
-  Q23) 
+  Q23)  What contents are practical?
+
+  Q24)  What do gym goers do in their routine?
+
+  Q25)  What do gym goers do in their routine?
+
+  Q26)  What is the purpose of using the gym website? Does it offer what I want? 
+
+  Q27)  Why would a user need this? 
+
+  Q28) What are the benefits of staying and returning? 
 
 -------------------------------------------------------------------    <button> [Back To Top](#) </button>-------------------------------------------------
 
@@ -207,7 +238,7 @@ Gym Website is the product here.
     - ##### Fellow Cohort: Slack Members
     - ##### Colleauges: 
 
-       ##### 1) Assessment team: University Center South Devo  College
+       ##### 1) Assessment team: University Center South Devon College
 
        ##### 2) Tuturing/Menoring: Code Institute Team
 
@@ -223,7 +254,6 @@ Gym Website is the product here.
 Segmentation analyses indicate that females are the target audience for gyms. Specifically, Zone Fitness targets women aged 25-40. In health and fitness centres, working-class women enjoy exercising while they relax.
 
 Thus, having a hero image from the target audience would be great. 
-
 
 - ### WHAT ARE YOU TRYING TO ACCOMPLISH?
 
@@ -413,6 +443,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Figure-3 contents are from the [Code Institute](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) 
 
+- Figure-4 [](https://crowdfavorite.com/the-value-of-balancing-desirability-feasibility-and-viability/)
+
 
 
 
@@ -432,4 +464,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   
 -  
 
-## -----------------------------------------------------------------<button> [Back To Top](#) </button>-------------------------------------------------
+# -----------------------------------------[Back To Top](#) ---------------------------
