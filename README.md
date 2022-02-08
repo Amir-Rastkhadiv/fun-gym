@@ -336,6 +336,13 @@ Often, sprints are short.  It is common for sprints to include collaboration and
 
 To avoid scope creep or to create an ineffectual product, our scope must not be too broad or excessively narrow. Focus on features agreed upon at the strategy level to meet deadlines. 
 
+![Figure 8: Three sprint components in an agile approach](./assets/img/agile-sprints.png)
+
+
+
+
+
+
 
 
 
@@ -480,6 +487,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Figure-3 contents are from the [Code Institute](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) 
 
 - Figure-4: Screenshot with bit change in design by the developer from  ['Crowd Favourite'](https://crowdfavorite.com/the-value-of-balancing-desirability-feasibility-and-viability/) website.
+
+- The image in Figure 8 is from [SolDevelo](https://www.soldevelo.com/blog/is-agile-always-the-best-solution-for-software-development-projects/).
+
 
 
 
