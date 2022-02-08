@@ -329,7 +329,12 @@ According to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), "
 That depends on requirements, features, and content. 
 For instance, what qualities do we wish to include on the site? 
 
-Here is where agile methodology comes into play. Obtain a clear picture of what is currently available in terms of content and features. Describe what is now known as well as what is unknown. Streamlining the documentation will make a big difference. An agile approach implies committing to small, bite-sized pieces of development that will allow the team to learn as it goes.
+Here is where Agile methodology comes into play. Obtain a clear picture of what is currently available in terms of content and features. Describe what is now known as well as what is unknown. Streamlining the documentation will make a big difference. An agile approach implies committing to small, bite-sized pieces of development that will allow the team to learn as it goes.
+
+Agile sprints are defined based on their duration. 
+Often, sprints are short.  It is common for sprints to include collaboration and development for a few days. 
+
+To avoid scope creep or to create an ineffectual product, our scope must not be too broad or excessively narrow. Focus on features agreed upon at the strategy level to meet deadlines. 
 
 
 
