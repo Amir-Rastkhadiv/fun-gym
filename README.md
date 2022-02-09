@@ -318,8 +318,9 @@ Hence:
 
     - My job is to run a business and be a fan. Even at the beginning, you should advertise something about your business to respect your users and to ensure that they are treated appropriately if you can tell them that the site is under construction. Perhaps it will be just a simple webpage.  
 
-    - I am Amir Rastkhadivmasouleh. I am in charge of design. For this project, I'm responsible for creating the Fun Gym website that addresses the above expectation to the best of my ability and handling any problems that may arise. Also, as an owner, I've been following all presented strategies and followed three plans offered here by the time. 
+    - I am Amir Rastkhadivmasouleh. As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectation to the best of my ability and handling any problems. Also, as an owner, I have been following all presented strategies, and for my views, I provided the following strategy plans offered here by the time. 
 
+    
     -  #### Returning visitor goals:  Time Visitor Goals Investors:
 
      - I am an investor interested in learning who owns FUN GYM. 
