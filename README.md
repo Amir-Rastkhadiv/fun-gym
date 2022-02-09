@@ -279,6 +279,8 @@ In conclusion, the website was named Fun Gym.
 
 Fun Gym websites cater to a significant segment of the population. Gym users, local communities, health and fitness professionals, tech companies, universities, research institutions, and colleges, as well as potential business investors.
 
+“When you have a clear vision of your goal, it’s easier to take the first step toward it.” [L.L. Cool J., rapper and actor](https://www.menshealth.com/fitness/a19547200/best-fitness-quotes-of-all-time/)
+
 Hence: 
 
 -   #### First Time Visitor Goals: 
@@ -507,6 +509,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Figure-4: Screenshot with bit change in design by the developer from  ['Crowd Favourite'](https://crowdfavorite.com/the-value-of-balancing-desirability-feasibility-and-viability/) website.
 
 - The image in Figure 8 is from [SolDevelo](https://www.soldevelo.com/blog/is-agile-always-the-best-solution-for-software-development-projects/).
+
+- The stories section includes a quote from the [Men'sHealth](https://www.menshealth.com/fitness/a19547200/best-fitness-quotes-of-all-time/) website.
 
 
 
