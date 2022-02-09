@@ -354,6 +354,11 @@ Hence:
 
         ![Strategy Map 1 (Figure 5)](/assets/img/strategy-1-fig-5.png)
         ![Strategy Map 2 (Figure 6)](/assets/img/strategy-2-fig-6.png)
+        ![Strategy Map 3 (Figure 7)](/assets/img/strategy-3-fig-7.png)
+
+        
+
+
         
 
 
