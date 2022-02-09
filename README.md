@@ -26,7 +26,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
-## TABLE OF CONTENTS:      
+ ## TABLE OF CONTENTS:
 
 - [ABSTRACT](#ABSTRACT)
 - [INTRODUCRION](#INTRODUCTION)
@@ -281,7 +281,7 @@ Fun Gym websites cater to a significant segment of the population. Gym users, lo
 
 Hence: 
 
--   #### First Time Visitor Goals All Groups 
+-   #### First Time Visitor Goals: 
 
     - If I visit a website, I look for something nearly similar to the market or relevant to the business. Having some uniqueness, though, would be great, as well as something that motivates me to delve deeper into the website. 
 
@@ -297,10 +297,24 @@ Hence:
 
     - I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
 
-    - It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
+    - As a design team, I expect a website with a structured layout and a main navigation menu. 
 
 
-    -  #### First Time Visitor Goals Investors:
+    - It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends, colleagues, teams  to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
+
+    - As a design team, my goal is to develop a front-end web application that reflects the principles of usability, accessibility, and responsiveness-a structured website with the main navigation menu. I am also anticipating three to more pages. As a design team first visitor, I hope the page shows photos/ logo featuring fun, hours, or gym schedule. It would be great if it sounded like a real-world project. The learner has documented a detailed rationale for the real-world application and provided an in-depth description of the project’s execution.
+
+    - I am an investor interested in learning who owns FUN GYM.
+
+    -  As a charity, I expect a donation box or page on the website of the gym.  
+
+    -  I am new to the site as a student, so I am looking for a student membership page. A voluntary page would also be an option. 
+    
+    - I am looking for a career page as a potential employee, trainer, or professional. 
+
+    - It's an honour to be a partner/federation. There is a need for an event page for public visitors for my organization.   
+
+    -  #### Returning visitor goals:  Time Visitor Goals Investors:
 
      - I am an investor interested in learning who owns FUN GYM. 
      - I want to have a contact form or contact email or  phone number to be connectend to the owner/manager 
@@ -484,7 +498,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - I took Figure-2 from [Ozchen's website](https://ozchen.com/5-planes-content-strategy/) and modified it for the UX design section. 
 
-- Figure-3 contents are from the [Code Institute](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) 
+- Figure-3 contents are from the [Code Institute](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first). 
 
 - Figure-4: Screenshot with bit change in design by the developer from  ['Crowd Favourite'](https://crowdfavorite.com/the-value-of-balancing-desirability-feasibility-and-viability/) website.
 
