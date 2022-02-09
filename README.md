@@ -353,7 +353,9 @@ Hence:
         I am [Amir Rastkhadivmasouleh](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/index.html). As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectations and handling any problems to the best of my ability. Furthermore, as an owner, I considered all the presented purposes methodologies, and I have provided the following strategic plans offered here at the time to reflect my view.
 
         ![Strategy Map 1 (Figure 5)](/assets/img/strategy-1-fig-5.png)
+        ![Strategy Map 2 (Figure 6)](/assets/img/strategy-2-fig-6.png)
         
+
 
 
     
