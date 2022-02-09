@@ -44,9 +44,9 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [WHO ARE PROJECT USERS?](#WHO-ARE-PROJECT-USERS)
   * [WHO IS THE TARGET AUDIENCE FOR GYMS?](#WHO-IS-THE-TARGET-AUDIENCE-FOR-GYMS)
   * [WHAT ARE YOU TRYING TO ACCOMPLISH?](#WHAT-ARE-YOU-TRYING-TO-ACCOMPLISH)
-  * [WHAT TIPS DO YOU HAVE FOR NAMING A GYM PROJECT](#WWHAT-TIPS-DO-YOU-HAVE-FOR-NAMING-A-GYM-PROJECT)
+  * [WHAT TIPS DO YOU HAVE FOR NAMING A GYM PROJECT?](#WWHAT-TIPS-DO-YOU-HAVE-FOR-NAMING-A-GYM-PROJECT)
   * [USER STORIES](#USER-STORIES)
-  
+
   
   
 
@@ -254,7 +254,7 @@ Thus, having a hero image from the target audience would be great.
   - Manage time and deadlines effectively.
   - Comply with all high-level assessment requirements.  
 
-- ### WHAT TIPS DO YOU HAVE FOR NAMING A GYM PROJECT
+- ### WHAT TIPS DO YOU HAVE FOR NAMING A GYM PROJECT?
 
   Top tips for branding the gym website:
 
