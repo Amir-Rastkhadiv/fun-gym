@@ -275,14 +275,13 @@ Thus, having a hero image from the target audience would be great.
 In conclusion, the website was named Fun Gym. 
 
 
--   ### User stories
+-   ### USER STORIES
 
 Fun Gym websites cater to a significant segment of the population. Gym users, local communities, health and fitness professionals, tech companies, universities, research institutions, and colleges, as well as potential business investors.
 
 “When you have a clear vision of your goal, it’s easier to take the first step toward it.” [L.L. Cool J., rapper and actor](https://www.menshealth.com/fitness/a19547200/best-fitness-quotes-of-all-time/)
 
 Hence: 
-
 -   #### First Time Visitor Goals: 
 
     - If I visit a website, I look for something nearly similar to the market or relevant to the business. Having some uniqueness, though, would be great, as well as something that motivates me to delve deeper into the website. 
@@ -298,9 +297,6 @@ Hence:
     -  To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media. 
 
     - I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
-
-    - As a design team, I expect a website with a structured layout and a main navigation menu. 
-
 
     - It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends, colleagues, teams  to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
 
@@ -318,29 +314,53 @@ Hence:
 
     - My job is to run a business and be a fan. Even at the beginning, you should advertise something about your business to respect your users and to ensure that they are treated appropriately if you can tell them that the site is under construction. Perhaps it will be just a simple webpage.  
 
-    - I am Amir Rastkhadivmasouleh. As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectation to the best of my ability and handling any problems. Also, as an owner, I have been following all presented strategies, and for my views, I provided the following strategy plans offered here by the time. 
+-  #### Returning visitor goals: 
 
-    
-    -  #### Returning visitor goals:  Time Visitor Goals Investors:
+     - As a return visitor, I'm interested in learning about personal trainers, their expertise, and classes in general. 
+     - Along with the customer service/client care team, please provide the contact information of the key staff and how to reach each department.
+     - Pictures of important events would be helpful. Membership Achievements. If heroes exist, please include them. 
 
-     - I am an investor interested in learning who owns FUN GYM. 
-     - I want to have a contact form or contact email or  phone number to be connectend to the owner/manager 
+     - Visualizing actual events is essential. Achievement registries If heroes exist, list them. 
 
+     - Updates to the website should be consistent with the previous page. Users will find it too frustrating if the site map is drastically changed. Like my first visit, I expect that it maintains the same valuable features. 
 
+     - I am interested in viewing or downloading the Fun Gym white paper.
 
+     - I want to see advice on how to complete the registration form step by step—something like completed sample forms and a list of requirements before attending in personal information for corresponding address or post box. 
+ 
+     - As a student/parent,  I'm interested in learning about holiday packages. Or any events for half term. 
 
+     -  Designers expect images to be of adequate resolution, so they do not appear pixelated or stretched, and external links open in a new tab when clicked.Implement a website whose purpose is
 
+     - Further aims from the design team's point of view are that developing a website that aims for an easy-to-understand solution is evident to a new user without consulting supporting documentation.Describe the needs and expectations associated with the user stories.
 
-    -   #### Returning Visitor Goals
+      - As an investor/ocharities/organizations/ public visitors we are looking for the way to book meeting with the managers or the owner for our cooperation. 
 
-        1. A memorable experience could motivate me to visit the terms and conditions for extending membership quickly and easily or applying for furtehr services. 
-        2. 
-        3. 
+      -  Professional visitors/investors/charities/organizations/public visitors are interested in meeting /seating with the managers or the owner for further engagements and potential cooperation. Therefore, we need access to the appropriate contact page. 
+
+      - As an applicant, I expect to see details about the job opportunities and the efficient way to apply. 
 
     -   #### Frequent User Goals
-        1. 
-        2. 
-        3. 
+        1. A memorable experience could motivate me to visit the terms and conditions for extending membership quickly and easily or applying for further services. Thus, I expect it to maintain its value as I join and to keep it super and upper. So, I am interested in giving feedback page. 
+
+        2. It would be great to have a page for membership cancellations or complaints.
+
+        3. The frequent users of the fun gym are eagerly awaiting new features, content, classes, staff, challenging matches, and new branches for engaging further with a fun gym. 
+
+        4.  The design team, web developers, colleagues seek outstanding craftsmanship in all phases of fun gym web development, namely design, development, and implementation. 
+
+    -   #### Owner/Developer/Designer strategy plans  
+        I am Amir Rastkhadivmasouleh. As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectations and handling any problems to the best of my ability. Furthermore, as an owner, I considered all the presented purposes methodologies, and I have provided the following strategic plans offered here at the time to reflect my view.
+
+        
+
+
+
+
+
+
+
+
 
 - ### SCOPE OVERVIEW (FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS)
 Currently, we are trying to align the goals with the strategic objectives and use WH questioning techniques to move slowly forward with the scope of work, but we will need to modify our approach. Why?  
