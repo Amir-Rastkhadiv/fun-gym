@@ -28,7 +28,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
  
  ## TABLE OF CONTENTS:
 
-- [ABSTRACT](#ABSTRACT)
+- [ABSTRACT](#ABSTRACT)                                          
 - [INTRODUCRION](#INTRODUCTION)
 - [INTERLUDE](#INTERLUDE) 
   * [TOOLKITS](#TOOLKITS)
@@ -49,6 +49,16 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
   
   
+  ## TABLE OF FIGURES:
+* [Figure-1](Figure-1)
+* [Figure-2](Figure-2)
+* [Figure-3](Figure-3)
+* [Figure-4](Figure-4)
+* [Figure-5](Figure-5)
+* [Figure-6](Figure-6)
+* [Figure-7](Figure-7)
+
+
 
 
 ## INTERLUDE
