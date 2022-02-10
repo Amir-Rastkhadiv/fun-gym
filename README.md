@@ -437,9 +437,24 @@ It is possible to consider them if there is enough time and information. It may 
 
 <p align="center">Figure-8</p>
 
+"When two forces unite, their efficiency double."[Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) 
+
+To stress Fun Gym positively, let's add a bit of intelligent load. How? 
+
+I recommend the following method for your consideration: 
+
+A Minimum Viable Product (MVP) meets a minimum set of requirements.
+
+Minimum viable products are early product versions that contain just enough features for early users to use them. In my opinion, this is the simplest possible version of Fun Gym that addresses a problem. 
+
+Using this method would be suitable for the page under construction. Performing Initial settings makes it simple to deploy one page, and it'll run the minimum goals responsively, then you can add more pages. Social media integration is then a snap. That's why I implemented it first. The aim is to increase your flexibility while lowering your stiffness with a safety factor by pushing and pulling.   
+
+
 
 
 ![Figure 9: Minimum Viable Product(MVP)](./assets/img/figure-9-mvp.png)
+
+<p align="center">Figure-8</p>
 
 - #### Content Requitements 
 
