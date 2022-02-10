@@ -26,8 +26,11 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
- #### 
-                                Figure-1
+ ## Figure-1
+ ---
+
+ ---
+
  
  ## TABLE OF CONTENTS:
 
@@ -52,7 +55,9 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [SCOPE OVERVIEW FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS](#SCOPE-OVERVIEW-FUNCTIONAL-SPECIFICATIONS-AND-CONTENT-REQUIREMENTS)
   * [STRUCTURE PLANE OVERVIEW](#STRUCTURE-PLANE-OVERVIEW)
 
+---
 
+---
 
   ## TABLE OF FIGURES:
 * [Figure-1](Figure-1)
@@ -65,7 +70,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-8](Figure-8)
 
 
-
+---
+---
 
 ## INTERLUDE
 
@@ -133,7 +139,9 @@ Figure 2 illustrates precisely how the process works.
 
 ![Figure 2: Process For UX Design(https://ozchen.com)](./assets/img/figure-2-uxd.png)
 
-####  Figure-2
+---
+##  Figure-2
+---
 
 Click [here](https://ozchen.com/5-planes-content-strategy/) 
 
@@ -563,9 +571,7 @@ I may need to think about security, environmental impact, and scalability.
          - ##### How to convey the path to visitors(page number, indication of where they are)?
          - ##### How should the users be notified when there is an error or maintenance? How can they obtain additional information? 
 
-
-
-     - #### 
+     - #### Information architecture: 
 
      - #### 
 
