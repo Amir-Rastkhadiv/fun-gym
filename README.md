@@ -484,10 +484,11 @@ Visitors, booking information.
 
   - With the ease of access
   - Consistency
-  - User Control for media links 
+  - Different types of media with varying sizes are available for user control.   
   - Confirmation: Users’ actions are validated, and they always receive feedback. 
   -  Accessibility with clear guidelines. 
   - Whenever possible, links to further resources. 
+  - The virtual presentation of an entire business, including technologies, skills, and complex work applied, including fantastic fun gym's team design, supporters and fans.  
 
 - #### Releases 
   - Development of Fun Gym's front-end:
@@ -502,18 +503,6 @@ Visitors, booking information.
      - Release 4: Backend Development (After initial assessments)
 
      - Release 5: Full Stack Development(A few months later, receiving all feedback having all techs and skills on the table.)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -   ### Design
