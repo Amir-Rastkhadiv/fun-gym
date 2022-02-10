@@ -718,7 +718,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The image in Figure 8 is from [SolDevelo](https://www.soldevelo.com/blog/is-agile-always-the-best-solution-for-software-development-projects/).
 
-- Figure 9: Screenshot of the Minimum Viable Product (MVP) after the developer slight changes the design. 
+- Figure 9: Screenshot of the Minimum Viable Product (MVP) after the developer slightly changes the design from [CLEVEROAD](https://www.netguru.com/glossary/minimum-viable-product). 
 
 - The stories section includes a quote from the [Men'sHealth](https://www.menshealth.com/fitness/a19547200/best-fitness-quotes-of-all-time/) website.
 
