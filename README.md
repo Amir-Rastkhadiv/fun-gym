@@ -26,7 +26,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
- <p align="center">Figure-1</p>
+ #### <p align="center">Figure-1</p>
  
  ## TABLE OF CONTENTS:
 
@@ -132,7 +132,7 @@ Figure 2 illustrates precisely how the process works.
 
 Click [here](https://ozchen.com/5-planes-content-strategy/) 
 
-<p align="center">Figure-2</p>
+#### <p align="center">Figure-2</p>
 
 for more information. 
 
@@ -144,7 +144,7 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 
 ![FIGURE 3: A UX is composed of connected planes.](./assets/img/fig-3-ux.png)
 
-<p align="center">Figure-3</p>
+#### <p align="center">Figure-3</p>
 
 Click [here](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) for more information. 
 
@@ -158,7 +158,7 @@ The task is to define a project by identifying questions and analyzing each issu
 
 ![Figure 4: UX design scheme from scratch to finished product..](./assets/img/fig-4-uxd-s.png)
 
-<p align="center">Figure-4</p>
+##### <p align="center">Figure-4</p>
 
 Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
@@ -375,15 +375,15 @@ Hence:
 
         ![Strategy Map 1 (Figure 5)](/assets/img/strategy-1-fig-5.png)
 
-        <p align="center">Figure-5</p>
+        #### <p align="center">Figure-5</p>
 
         ![Strategy Map 2 (Figure 6)](/assets/img/strategy-2-fig-6.png)
 
-        <p align="center">Figure-6</p>
-
+        #### <p align="center">Figure-6</p>
+       
         ![Strategy Map 3 (Figure 7)](/assets/img/strategy-3-fig-7.png)
-
-        <p align="center">Figure-7</p>
+        
+        #### <p align="center">Figure-7</p>
 
 
 
