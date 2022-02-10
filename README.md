@@ -49,9 +49,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [WHAT ARE YOU TRYING TO ACCOMPLISH?](#WHAT-ARE-YOU-TRYING-TO-ACCOMPLISH)
   * [WHAT TIPS DO YOU HAVE FOR NAMING A GYM PROJECT?](#WHAT-TIPS-DO-YOU-HAVE-FOR-NAMING-A-GYM-PROJECT) 
   * [USER STORIES](#USER-STORIES)
+  * [SCOPE OVERVIEW FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS](#SCOPE-OVERVIEW-FUNCTIONAL-SPECIFICATIONS-AND-CONTENT-REQUIREMENTS)
 
-  
-  
   ## TABLE OF FIGURES:
 * [Figure-1](Figure-1)
 * [Figure-2](Figure-2)
@@ -470,9 +469,9 @@ Visitors, booking information.
   - FAQ
   - Links to external sites (partners, charities, local amenities )  
   - Student membership/ seasonal deals on holidays
-  - vacancies 
+  - Vacancies /Job opportunities  
   - Membership terms and conditions 
-  - Join 
+  - Encouragement to join
   - Events/News 
   - Positive Vibes( quotes .images, message etc)
 
