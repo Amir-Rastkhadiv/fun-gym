@@ -50,6 +50,9 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [WHAT TIPS DO YOU HAVE FOR NAMING A GYM PROJECT?](#WHAT-TIPS-DO-YOU-HAVE-FOR-NAMING-A-GYM-PROJECT) 
   * [USER STORIES](#USER-STORIES)
   * [SCOPE OVERVIEW FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS](#SCOPE-OVERVIEW-FUNCTIONAL-SPECIFICATIONS-AND-CONTENT-REQUIREMENTS)
+  * [STRUCTURE PLANE OVERVIEW](#STRUCTURE-PLANE-OVERVIEW)
+
+
 
   ## TABLE OF FIGURES:
 * [Figure-1](Figure-1)
@@ -514,6 +517,66 @@ I may need to think about security, environmental impact, and scalability.
 
  - ### STRUCTURE PLANE OVERVIEW
      During this phase, our project structure could be built gradually. Utilizing "WH" questioning techniques in higher levels by asking most of the time How? and Where?
+
+     I used the following questions to shape the Fun Gym structure step by step. In which functionality and content appear:
+
+
+     - #### How will the user navigate through content and features intuitively?
+
+        - ##### In what way will a location be accessible?
+
+        - ##### How do we proceed?
+
+        - ##### How will categories of information appear? And where will they appear?
+
+        - ##### How are you going to make it intuitive and interactive?
+
+        - ##### Which structure will we use? 
+
+     - #### User interaction:
+
+        - ##### How to mitigate the chance of user error?
+
+        - ##### When will users be made aware of system changes? How? 
+
+        - ##### How will we reveal workflows?
+
+        - ##### Precisely how will interactivity and functionality be communicated?
+
+        - ##### How will we link content and details? 
+
+        - ##### Describe how interactive elements will be structured and acted by users?
+
+     - #### The distinction should only take place in cases where it can improve things. The consistency and predictability of Fun Gym services.
+
+        - #####  How to keep conventions - navbar, buttons, etc., as expected by users. 
+        - #####  How to maintain a consistent colour scheme and theme?
+        - #####  How to ensure transitions, rollovers, and tooltips work smoothly?
+
+        - ##### How to create compatible imagery? 
+
+    - #### Aesthetic, attainable, obtainable:  
+
+         - #####  How to keep conventions - navbar, buttons, etc., as expected by users. 
+         - #####  Where must every element be easy to use and locate? 
+         - #####  How could Fun Gym fulfil visitors' expectations? 
+         - ##### How to convey the path to visitors(page number, indication of where they are)?
+         - ##### How should the users be notified when there is an error or maintenance? How can they obtain additional information? 
+
+
+
+     - #### 
+
+     - #### 
+
+     - #### 
+
+     - #### 
+
+     - #### 
+
+
+
 
      
     
