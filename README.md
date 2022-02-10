@@ -488,7 +488,15 @@ Visitors, booking information.
   - Confirmation: Users’ actions are validated, and they always receive feedback. 
   -  Accessibility with clear guidelines. 
   - Whenever possible, links to further resources. 
-  - The virtual presentation of an entire business, including technologies, skills, and complex work applied, including fantastic fun gym's team design, supporters and fans.  
+  - The virtual presentation of an entire business, including technologies, skills, and complex work applied, including fantastic fun gym's team design, supporters and fans.
+
+  - #### Non-functional requirements:
+
+To what extent does the Fun Gym website adhere to these constraints?
+
+I may need to think about security, environmental impact, and scalability.
+
+[How is the distinction between functional and non-functional requirements essential?](https://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/) 
 
 - #### Releases 
   - Development of Fun Gym's front-end:
@@ -647,6 +655,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The stories section includes a quote from the [Men'sHealth](https://www.menshealth.com/fitness/a19547200/best-fitness-quotes-of-all-time/) website.
 
+-  The link in the scope chapter is from the [ReQuest](https://reqtest.com) website. 
 
 
 
