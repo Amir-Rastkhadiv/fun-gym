@@ -476,16 +476,18 @@ Visitors, booking information.
   - Positive Vibes( quotes .images, message etc)
 
 
-- #### Content Requitements 
+- #### Functionality requirements:
 
+  - Easily navigate the website with an 
+  informationhierarchy and categorize contents.
+  - Browse the website on different platforms,     accessible to search.
 
-
-
-
-
-
-
-
+  - With the ease of access
+  - Consistency
+  - User Control for media links 
+  - Confirmation: Users’ actions are validated, and they always receive feedback. 
+  -  Accessibility with clear guidelines. 
+  - Whenever possible, links to further resources. 
 
 - #### Releases 
   - Development of Fun Gym's front-end:
