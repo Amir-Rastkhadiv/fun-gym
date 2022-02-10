@@ -419,23 +419,64 @@ Hence:
 
 
 - ### SCOPE OVERVIEW (FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS)
+
 Currently, we are trying to align the goals with the strategic objectives and use WH questioning techniques to move slowly forward with the scope of work, but we will need to modify our approach. Why?  
 
 According to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), "We cannot solve our problems by using the same reasoning we utilized to produce them."
 
 That depends on requirements, features, and content. 
-For instance, what qualities do we wish to include on the site? 
+
+Here are some examples: 
+
+-  What qualities do we wish to include on the site? 
+-  What fun gym users say they need? 
+-  Precisely what do they need? 
+-  What do they not realize they need?
+
+It was essential to align the website's features with the website's intended purpose. The website's traits fall into two categories, namely content and functionality.
 
 Here is where Agile methodology comes into play. Obtain a clear picture of what is currently available in terms of content and features. Describe what is now known as well as what is unknown. Streamlining the documentation will make a big difference. An agile approach implies committing to small, bite-sized pieces of development that will allow the team to learn as it goes.
 
 Agile sprints are defined based on their duration. 
-Often, sprints are short.  It is common for sprints to include collaboration and development for a few days. 
+Often, sprints are short. It is common for sprints to include collaboration and development for a few days. 
 
 To avoid scope creep or to create an ineffectual product, our scope must not be too broad or excessively narrow. Focus on features agreed upon at the strategy level to meet deadlines. 
+
+Voici some examples: 
+What do they not realize they need?
+
+- How can gym users have fun at the gym? 
+- In terms of thechnology? what about Faviction? 
+- What about cookies?
+- Is it necessary to add additional languages to our website?
+
+It is possible to consider them if there is enough time and information. It may be necessary to wait for the users' feedback and reflections before deciding. 
 
 ![Figure 8: Three sprint components in an agile approach](./assets/img/agile-sprints.png)
 
 <p align="center">Figure-8</p>
+
+- #### Content Requitements 
+
+  - On the Fun Gym website, a user will find:
+  -  The information provided an overview of the facility, including a description of the equipment, workout areas, and steam room.
+  - Services offered include gym products,  activities and instructors.
+Contact and location details
+  - Transparency: information about the gym and its members, staff, managers 
+Visitors, booking information. 
+  - Social links
+  - Deals and Promotions
+  - Site map 
+  - FAQ
+  - Links to external sites (partners, charities, local amenities )  
+  - Student membership/ seasonal deals on holidays
+  - vacancies 
+  - Membership terms and conditions 
+  - Join 
+  - Events/News 
+  - Positive Vibes( quotes .images, message etc)
+
+
 
 
 
