@@ -26,6 +26,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
  ![Fun Gym Webpage on multiple devices nice mock-ups including its logo with heart, victory vibes and cheerful, funny smile in black, white and red colours with the nice shadow.](/assets/img/fig-1-mock-ups.png)
  
+ <p align="center">Figure-1</p>
+ 
  ## TABLE OF CONTENTS:
 
 - [ABSTRACT](#ABSTRACT)                                          
@@ -57,6 +59,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-5](Figure-5)
 * [Figure-6](Figure-6)
 * [Figure-7](Figure-7)
+* [Figure-8](Figure-8)
 
 
 
@@ -127,8 +130,11 @@ Figure 2 illustrates precisely how the process works.
 
 ![Figure 2: Process For UX Design(https://ozchen.com)](./assets/img/figure-2-uxd.png)
 
-Click [here](https://ozchen.com/5-planes-content-strategy/) for more information. 
+Click [here](https://ozchen.com/5-planes-content-strategy/) 
 
+<p align="center">Figure-2</p>
+
+for more information. 
 
 - ### WHAT IS THE UX SYSTEM IS USED FOR? 
 
@@ -137,6 +143,8 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 
 
 ![FIGURE 3: A UX is composed of connected planes.](./assets/img/fig-3-ux.png)
+
+<p align="center">Figure-3</p>
 
 Click [here](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) for more information. 
 
@@ -149,6 +157,8 @@ Generally, problems are necessary for the accomplishment of any worthwhile task.
 The task is to define a project by identifying questions and analyzing each issue. All it takes is some questions, some research, and some planning.
 
 ![Figure 4: UX design scheme from scratch to finished product..](./assets/img/fig-4-uxd-s.png)
+
+<p align="center">Figure-4</p>
 
 Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
@@ -364,8 +374,18 @@ Hence:
         I am [Amir Rastkhadivmasouleh](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/index.html). As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectations and handling any problems to the best of my ability. Furthermore, as an owner, I considered all the presented purposes methodologies, and I have provided the following strategic plans offered here at the time to reflect my view.
 
         ![Strategy Map 1 (Figure 5)](/assets/img/strategy-1-fig-5.png)
+
+        <p align="center">Figure-5</p>
+
         ![Strategy Map 2 (Figure 6)](/assets/img/strategy-2-fig-6.png)
+
+        <p align="center">Figure-6</p>
+
         ![Strategy Map 3 (Figure 7)](/assets/img/strategy-3-fig-7.png)
+
+        <p align="center">Figure-7</p>
+
+
 
         
 
@@ -411,6 +431,8 @@ Often, sprints are short.  It is common for sprints to include collaboration and
 To avoid scope creep or to create an ineffectual product, our scope must not be too broad or excessively narrow. Focus on features agreed upon at the strategy level to meet deadlines. 
 
 ![Figure 8: Three sprint components in an agile approach](./assets/img/agile-sprints.png)
+
+<p align="center">Figure-8</p>
 
 
 
