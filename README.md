@@ -450,11 +450,16 @@ Minimum viable products are early product versions that contain just enough feat
 Using this method would be suitable for the page under construction. Performing Initial settings makes it simple to deploy one page, and it'll run the minimum goals responsively, then you can add more pages. Social media integration is then a snap. That's why I implemented it first. The aim is to increase your flexibility while lowering your stiffness with a safety factor by pushing and pulling.   
 
 
-
-
 ![Figure 9: Minimum Viable Product(MVP)](./assets/img/figure-9-mvp.png)
 
-<p align="center">Figure-8</p>
+<p align="center">Figure-9</p>
+
+Figure 9 clearly illustrates the points made earlier. 
+
+Please see the following links for additional information about MVP. 
+
+- [CLEVERROAD](https://www.cleveroad.com/blog/who-benefits-with-an-mvp--minimum-viable-product-as-launching-pad-for-startups)
+- [Successful Businesses That Started With MVP Development but Now Are Rocking the World](https://medium.com/keenethics-blog/successful-businesses-that-started-with-mvp-development-but-now-are-rocking-the-world-bb776bb86c54)
 
 - #### Content Requitements 
 
