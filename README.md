@@ -399,35 +399,6 @@ Hence:
         #### <p align="center">Figure-7</p>
 
 
-
-        
-
-
-        
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
 - ### SCOPE OVERVIEW (FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS)
 
 Currently, we are trying to align the goals with the strategic objectives and use WH questioning techniques to move slowly forward with the scope of work, but we will need to modify our approach. Why?  
@@ -465,6 +436,10 @@ It is possible to consider them if there is enough time and information. It may 
 ![Figure 8: Three sprint components in an agile approach](./assets/img/agile-sprints.png)
 
 <p align="center">Figure-8</p>
+
+
+
+![Figure 9: Minimum Viable Product(MVP)](./assets/img/figure-9-mvp.png)
 
 - #### Content Requitements 
 
