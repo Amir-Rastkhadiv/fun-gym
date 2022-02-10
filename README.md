@@ -512,7 +512,7 @@ I may need to think about security, environmental impact, and scalability.
 
      - Release 5: Full Stack Development(A few months later, receiving all feedback having all techs and skills on the table.)
 
-     - ### STRUCTURE PLANE OVERVIEW
+ - ### STRUCTURE PLANE OVERVIEW
      During this phase, our project structure could be built gradually. Utilizing "WH" questioning techniques in higher levels by asking most of the time How? and Where?
 
      
