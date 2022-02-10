@@ -476,6 +476,31 @@ Visitors, booking information.
   - Positive Vibes( quotes .images, message etc)
 
 
+- #### Content Requitements 
+
+
+
+
+
+
+
+
+
+
+- #### Releases 
+  - Development of Fun Gym's front-end:
+     - Release 1: Revealing the name, the website link, and the links to the documentation to your design team in particular colleagues along with a simple comic illustration showing heart as love, fitness and health, and a victory sign as the hope for people as well as a message to keep them awake by showing progress bar with a percentage that fun gym is soon to arrive.  Make sure it is responsive on all devices. 
+     - Release 2: Part of website, final logo, background colour, hero image, e.g. navbar and footer. 
+
+     - Release 3: Show off the Static Website/end of front end milestone one development.
+
+
+  - Future Development: (Out of the scope of milestone project 1)
+
+     - Release 4: Backend Development (After initial assessments)
+
+     - Release 5: Full Stack Development(A few months later, receiving all feedback having all techs and skills on the table.)
+
 
 
 
