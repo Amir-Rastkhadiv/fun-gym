@@ -437,7 +437,7 @@ It is possible to consider them if there is enough time and information. It may 
 
 <p align="center">Figure-8</p>
 
-"When two forces unite, their efficiency double."[Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) 
+"When two forces unite, their efficiency double." [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) 
 
 To stress Fun Gym positively, let's add a bit of intelligent load. How? 
 
