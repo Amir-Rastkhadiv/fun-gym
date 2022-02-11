@@ -42,7 +42,7 @@
 
                 .pleased {
                     position: relative;
-                    max-width: 100%;
+                    max-width: 667px;
                     margin-bottom: 100px;
                     text-align: center;
                     overflow-wrap: 600px;
@@ -83,7 +83,7 @@
                     margin-top: -10px;
                     font-weight: 600;
                     text-align: left;
-                    transform: translateX(100%);
+                    transform: translateX(667px);
                     animation: moving 15s linear infinite;
                     z-index: -1;
                 }
@@ -94,11 +94,11 @@
 
                 @keyframes moving {
                     0% {
-                        transform: translateX(100%);
+                        transform: translateX(667);
                     }
 
                     100% {
-                        transform: translateX(-100%);
+                        transform: translateX(-667px);
                     }
                 }
 
@@ -176,6 +176,16 @@
                     #announcement{
                         max-width: 90%;
                         text-overflow: hidden;
+
+                    }
+                    @keyframes moving {
+                        0% {
+                            transform: translateX(667px);
+                        }
+    
+                        100% {
+                            transform: translateX(-667px);
+                        }
                     }
                 }
             </style>
