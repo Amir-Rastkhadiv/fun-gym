@@ -171,13 +171,66 @@
                         width: 0%;
                     }
                 }
-
+<!---------------------------------     Media under 800px size  -->
                 @media screen and (max-width: 800px){
                     #announcement{
-                        max-width: 90%;
-                        text-overflow: hidden;
+                        max-width: 100%;
+                        overflow:scroll;
+                        overflow-x: hidden !important;
 
                     }
+                    .pleased {
+                        position: relative;
+                        max-width: 667px;
+                        margin-bottom: 100px;
+                        text-align: center;
+                        overflow-wrap: 600px;
+                    }
+
+                    .warning {
+                        font-style: italic;
+                        font-size: 50px;
+                        text-transform: uppercase;
+                        padding: 20px;
+                        letter-spacing: 4px;
+                        font-weight: 600;
+                        z-index: 2;
+                        display: contents;
+                        display:inline-block;
+                        color: crimson;
+                        margin-bottom: 15px;
+                        margin-top: -500px;
+                    }
+
+                    .message {
+                        height: 40px;
+                        background-color: #0a0debf3;
+                        overflow: hidden;
+                        color: #fff;
+                        position: relative;
+                        text-transform: uppercase;
+                        letter-spacing: 4px;
+                        font-size: 15px;
+                        font-weight: 600;
+                        align-content: center;
+                        left: 12px;
+                    }
+    
+                    .message {
+                        max-width: 667px;
+                        margin-bottom: -180px;
+                        margin-top: -10px;
+                        font-weight: 600;
+                        text-align: left;
+                        transform: translateX(667px);
+                        animation: moving 15s linear infinite;
+                        z-index: -1;
+                    }
+    
+                    span {
+                        text-transform: lowercase;
+                    }
+                
                     @keyframes moving {
                         0% {
                             transform: translateX(667px);
