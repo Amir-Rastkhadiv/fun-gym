@@ -524,57 +524,61 @@ I may need to think about security, environmental impact, and scalability.
      I used the following questions to shape the Fun Gym structure step by step. In which functionality and content appear:
 
 
-     - #### How will the user navigate through content and features intuitively?
+     -  How will the user navigate through content and features intuitively?
 
-        - ##### In what way will a location be accessible?
+        - In what way will a location be accessible?
 
-        - ##### How do we proceed?
+        -  How do we proceed?
 
-        - ##### How will categories of information appear? And where will they appear?
+        - How will categories of information appear? And where will they appear?
 
-        - ##### How are you going to make it intuitive and interactive?
+        - How are you going to make it intuitive and interactive?
 
-        - ##### Which structure will we use? 
+        -  Which structure will we use? 
 
-     - #### User interaction:
+     - User interaction:
 
-        - ##### How to mitigate the chance of user error?
+        -  How to mitigate the chance of user error?
 
-        - ##### When will users be made aware of system changes? How? 
+        -  When will users be made aware of system changes? How? 
 
-        - ##### How will we reveal workflows?
+        -  How will we reveal workflows?
 
-        - ##### Precisely how will interactivity and functionality be communicated?
+        -  Precisely how will interactivity and functionality be communicated?
 
-        - ##### How will we link content and details? 
+        - How will we link content and details? 
 
-        - ##### Describe how interactive elements will be structured and acted by users?
+        -  Describe how interactive elements will be structured and acted by users?
 
-     - #### The distinction should only take place in cases where it can improve things. The consistency and predictability of Fun Gym services.
+     - The distinction should only take place in cases where it can improve things. The consistency and predictability of Fun Gym services.
 
-        - #####  How to keep conventions - navbar, buttons, etc., as expected by users. 
-        - #####  How to maintain a consistent colour scheme and theme?
-        - #####  How to ensure transitions, rollovers, and tooltips work smoothly?
+        -   How to keep conventions as users expect?
+        -  How to maintain a consistent colour scheme and theme?
+        -   How to ensure transitions, rollovers, and tooltips work smoothly?
 
-        - ##### How to create compatible imagery? 
+        -  How to create compatible imagery? 
 
-    - #### Aesthetic, attainable, obtainable:  
+    -  Aesthetic, attainable, obtainable:  
 
-         - #####  How to keep conventions - navbar, buttons, etc., as expected by users. 
-         - #####  Where must every element be easy to use and locate? 
-         - #####  How could Fun Gym fulfil visitors' expectations? 
-         - ##### How to convey the path to visitors(page number, indication of where they are)?
-         - ##### How should the users be notified when there is an error or maintenance? How can they obtain additional information? 
+         -   Where must every element be easy to use and locate? 
+         -   How could Fun Gym fulfil visitors' expectations? 
+         - How to convey the path to visitors(page number, indication of where they are)?
+         -  How should the users be notified when there is an error or maintenance? How can they obtain additional information? 
 
-     - #### Information architecture: 
+     -  Information architecture: 
 
-     - #### 
+        - What kind of structure does Fun Gym need? For what reason? How would I apply it?
 
-     - #### 
+        - How would you describe the following structures? 
+          - Hieriachial tree structures 
+          - Nested list 
+          - Hub and spoke 
+          - Dashboard 
 
-     - #### 
+     - How do you feel about Fung Gym's principles? 
+     
 
-     - #### 
+    
 
 
 
