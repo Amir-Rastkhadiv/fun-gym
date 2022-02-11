@@ -16,13 +16,12 @@
     <svg>
         <foreignObject width="100%" height="100%">
             <style>
-
                 * {
                     margin: 0;
                     padding: 0;
                     box-sizing: border-box;
-                  }
-            
+                }
+
                 html {
                     background-color: white;
                     height: 100%;
@@ -38,8 +37,8 @@
                     display: table;
                     opacity: 1;
                     animation: fadein 3s forwards;
-                    overflow:scroll;
-                    overflow-x:hidden;
+                    overflow: scroll;
+                    overflow-x: hidden;
                 }
 
                 .pleased {
@@ -58,24 +57,25 @@
                     font-weight: 600;
                     z-index: 2;
                     display: contents;
-                    display:inline-block;
+                    display: inline-block;
                     color: crimson;
                     margin-bottom: 15px;
                     margin-top: -500px;
                 }
 
                 .message {
-                    height: 100px;
+                    height: 120px;
                     background-color: #0a0debf3;
                     overflow: hidden;
                     color: #fff;
                     position: relative;
                     text-transform: uppercase;
                     letter-spacing: 2px;
-                    font-size: 20px;
+                    font-size: 16px;
                     font-weight: 400;
                     align-content: center;
                     left: 12px;
+                    text-align: center;
                 }
 
                 .message {
@@ -173,18 +173,21 @@
                     }
                 }
 
-                @media only screen and (max-width: 768px){
-                    
+                @media only screen and (max-width: 768px) {
+
                     body {
                         width: 100%;
                     }
+
                     .pleased {
                         max-width: 80%;
                     }
+
                     .warning {
                         max-width: 70%;
                     }
-                    .message{
+
+                    .message {
                         max-width: 100%;
                         height: 10px;
                         font-size: 4px;
@@ -192,17 +195,21 @@
                         letter-spacing: 0;
                     }
                 }
-                @media screen and (max-width: 900px){
+
+                @media screen and (max-width: 900px) {
                     body {
                         width: 100%;
                     }
+
                     .pleased {
                         max-width: 80%;
                     }
+
                     .warning {
                         max-width: 70%;
                     }
-                    .message{
+
+                    .message {
                         width: 65%;
                         height: 130%;
                         font-size: 14px;
@@ -217,12 +224,14 @@
 
 <body>
     <section>
-        <div id="announcement"  class="pleased">
+        <div id="announcement" class="pleased">
             <div class="warning"> Opening announcement</div>
             <div class="message">
                 <p>
-                    Happy to inform that Fun Gym's website will be up next week. Got a question?
-                    <p>Email:<span>comeback.fungym@gmail.com</span></p>
+                    Happy to inform that Fun Gym's website will be up next week.
+                    Got a question? 
+                    <p>Email:</p>
+                    <p><span>comeback.fungym@gmail.com</span></p>
                 </p>
             </div>
         </div>
