@@ -38,9 +38,74 @@
                     animation: fadein 3s forwards;
                 }
 
+                .pleased {
+                    position: reletaive;
+                    max-width: 100%;
+                    margin-bottom: 100px;
+                    padding-top: 0px;
+                    padding-left: 150px;
+                    text-align: center;
+                    vertical-align: middle;
+                }
+
+                .warning {
+                    position: absolute;
+                    font-style: italic;
+                    font-size: 50px;
+                    background: red;
+                    text-transform: uppercase;
+                    margin-top: -130px;
+                    margin-left: 150px;
+                    padding: 20px;
+                    letter-spacing: 4px;
+                    font-weight: 600;
+                    z-index: 2;
+                    float: right;
+                }
+
+                .message {
+                    height: 30px;
+                    background-color: #0a0debf3;
+                    overflow: hidden;
+                    color: #fff;
+                    position: relative;
+                    text-transform: uppercase;
+                    letter-spacing: 4px;
+                    font-size: 30px;
+                    font-weight: 600;
+                    display: flex;
+                    align-content: center;
+                    left: 12px;
+                }
+
+                .message {
+                    width: 150%;
+                    margin: 0;
+                    margin-bottom: -90px;
+                    font-weight: 600;
+                    text-align: left;
+                    text-shadow: #00b98b;
+                    transform: translateX(100%);
+                    animation: moving 22s linear infinite;
+                }
+
+                span {
+                    text-transform: lowercase;
+                }
+
+                @keyframes moving {
+                    0% {
+                        transform: translateX(100%);
+                    }
+
+                    100% {
+                        transform: translateX(-100%);
+                    }
+                }
+
                 h2 {
                     font-weight: 300;
-                    margin-bottom: 25px;
+                    margin-bottom: 10px;
                 }
 
                 img {
@@ -56,6 +121,7 @@
                 #main {
                     vertical-align: middle;
                     display: table-cell;
+                    margin-top: 0%;
                 }
 
                 /* Progress bar */
@@ -75,7 +141,7 @@
                     padding: 2px 0;
                     background-color: #00b98b;
                     /* Fill colour */
-                    width: 71%;
+                    width: 84%;
                     /* Bar percentage, change text below also */
                     border-radius: 25px;
                     /* Roundness */
@@ -113,6 +179,16 @@
 
 <body>
     <section>
+        <div class="pleased">
+            <div class="warning"> Opening announcement</div>
+            <div class="message">
+                <p>
+                    Next week, Fun Gym will have a website up. Got a question?
+                    Email:<span>comeback.fungym@gmail.com</span>
+                </p>
+            </div>
+        </div>
+
         <div id="main">
             <img src="assets/img/temporary-logo.png"
                 alt="Fun Gym exclusive logo with heart, victory vibes and cheerful, funny smile in black and red." />
@@ -122,7 +198,7 @@
             <div id="progress">
                 <div id="fill">
                     <div id="barpercent">
-                        <h3>71%</h3>
+                        <h3>84%</h3>
                     </div>
                 </div>
             </div>
@@ -142,7 +218,7 @@
         <h3><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></h3>
 
         <p>Thanks for visiting us</p>
-        
+
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
