@@ -589,7 +589,20 @@ Therefore, Fun Gym should be consistent, predictable, learnable, visible, and pr
 
      To reflect on all matters relating to this project, the Fun Gym began with a flat page. The page contained a link to social media and information about the project's progress, along with an email address. 
 
-     Figure 10  illustrates the information architecture for releases 2 and 3 and the reliable structure for releases 4 and 5. The 'WH' questions method and search and mapping techniques allowed me to accomplish this. 
+     Figure 10 illustrates the information architecture for releases 2 and 3 and the reliable structure for releases 4 and 5. The 'WH' questions method and search and mapping techniques allowed me to accomplish this. 
+
+     Fun Gym uses  Co-existing Hierarchies as it is flexible, customised, and meets complex requirements for a professional and educated audience. The navigation will be a hamburger menu for mobile devices to make it mobile-friendly.  
+
+     ![Figure 10: Information Architecture ](./assets/img/fig-10-infoart.png)
+
+<p align="center">Figure-10</p>
+
+Here is a helpful link I found. 
+
+-  [How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
+
+
+
 
 
 
