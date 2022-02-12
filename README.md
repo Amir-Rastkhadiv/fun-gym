@@ -504,6 +504,9 @@ I may need to think about security, environmental impact, and scalability.
 
 [How is the distinction between functional and non-functional requirements essential?](https://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/) 
 
+  - #### Bussines ruless:
+There needs to be a set of rules that takes into account the user stories and their interactions with the system as well as what is realistically possible. This requires me  to develop a means of turning these stories into reality. Below are my planned releases:
+
 - #### Releases 
   - Development of Fun Gym's front-end:
      - Release 1: Revealing the name, the website link, and the links to the documentation to your design team in particular colleagues along with a simple comic illustration showing heart as love, fitness and health, and a victory sign as the hope for people as well as a message to keep them awake by showing progress bar with a percentage that fun gym is soon to arrive.  Make sure it is responsive on all devices. 
@@ -521,6 +524,8 @@ I may need to think about security, environmental impact, and scalability.
  - ### STRUCTURE PLANE OVERVIEW
      During this phase, our project structure could be built gradually. Utilizing "WH" questioning techniques in higher levels by asking most of the time How? and Where?
 
+     How do I get to a specific place, for example? Then, where do I go next? So, where do I put this information?
+
      I used the following questions to shape the Fun Gym structure step by step. In which functionality and content appear:
 
 
@@ -534,11 +539,14 @@ I may need to think about security, environmental impact, and scalability.
 
         - How are you going to make it intuitive and interactive?
 
-        -  Which structure will we use? 
+        -  Which structure will we use? Simple or Complex? Linear or Non-Linear? How about something flexible?
 
      - User interaction:
 
-        -  How to mitigate the chance of user error?
+     There are five main concerns in interaction design.
+Therefore, Fun Gym should be consistent, predictable, learnable, visible, and provide clear and intuitive feedback.
+
+        -  How to mitigate the chance of user error? Where do users go? How can they return to the safety page? How could they report it?  
 
         -  When will users be made aware of system changes? How? 
 
@@ -548,7 +556,7 @@ I may need to think about security, environmental impact, and scalability.
 
         - How will we link content and details? 
 
-        -  Describe how interactive elements will be structured and acted by users?
+        -  Describe how interactive elements in Fun Gym will be structured and acted by users?
 
      - The distinction should only take place in cases where it can improve things. The consistency and predictability of Fun Gym services.
 
@@ -575,8 +583,10 @@ I may need to think about security, environmental impact, and scalability.
           - Hub and spoke 
           - Dashboard 
 
-     - How do you feel about Fung Gym's principles? 
-     
+     - How do you feel about Fung Gym's appropriate principles? 
+
+     The Fun Gym application appeals to consumers, educators, businesses, and investors. Depending on the needs of my users, I may need to consider geography, time, and technology. 
+
 
     
 
@@ -606,7 +616,10 @@ I may need to think about security, environmental impact, and scalability.
     -   Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
 )
 
+## User Journey 
 ## Features
+
+
 
 -   Responsive on all device sizes
 
