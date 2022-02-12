@@ -598,14 +598,63 @@ Here is a helpful link I found:
 
 [How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
 
--   ### SKELETON PLANE: DESIGN OVERVIEW
+-   ### SKELETON PLANE: DESIGN OVERVIEW  
 
-One step closer to the Fun Gym design, structure planning, such as interaction design and information architecture, is now incorporated into the skeleton plan, focusing on interface and navigation design. The term appears in conjunction with design, but much more.
+     One step closer to the Fun Gym design, structure planning, such as interaction design and information architecture, is now incorporated into the skeleton plan, focusing on interface and navigation design. The term appears in conjunction with design, but much more. 
 
-In this stage, I meant releases 1 through 3 of the project. I am primarily concerned with the presentation of data to users; I am not concerned with data manipulation or dealing with data at rest. We will discuss these issues in future releases according to the strategic plan. Thus, UI is the primary target for Release 3. According to the majority of users, the interface is everything.  
+     In this stage, I meant releases 1 through 3 of the project. I am primarily concerned with the presentation of data to users; I am not concerned with data manipulation or dealing with data at rest. We will discuss these issues in future releases according to the strategic plan. Thus, UI is the primary target for Release 3. According to the majority of users, the interface is everything.  
+
+     Generally, when I designed the Fun Gym website, I focused more on the following areas:
+
+    - How can the website capture the audience's attention on the first visit? 
+
+    - What counts as the usefulness of the page? 
+
+    - Contents and their value to users, namely icons, nav bars items, clickable buttons Etc.
+
+    - What could I do to deliver the information when users need it and direct them to where they want it? 
+
+    - Make sure that fun gym web pages are familiar for users by repeating specific spaces across all pages, namely, the navigation bar and footer so that the user will not get surprised and can experience more. 
+
+    - How to make the overall experience more positive?
+
+    - How can we provide optimal features and content usefulness?
+    - How can you make navigation easy using colour, lists, and filtering?  
+    - What about metaphors? Ensure the navigation bar, tabs, clicking buttons. Design it as unobtrusive as possible, but be honest to the contents, thorough, innovative, and eco-friendly.
+
+    - Are Fun Gym pages can order information properly? Is it necessary to have a map?  
+
+    - How do I design forms? Keeping forms simple decreases error rates.
+
+    - How intuitively obvious are the shortcuts?
+
+    
 
 
-Generally, when I designed the Fun Gym website, I focused more on the following areas:
+
+
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+      
 
 
 
