@@ -594,7 +594,7 @@ There needs to be a set of rules that takes into account the user stories and th
 
 Fun Gym uses  Co-existing Hierarchies as it is flexible, customised, and meets complex requirements for a professional and educated audience. The navigation will be a hamburger menu for mobile devices to make it mobile-friendly.  
 
-Here is a helpful link I found. 
+Here is a helpful link I found: 
 
 -  [How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
 
@@ -768,7 +768,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -  The link in the scope chapter is from the [ReQuest](https://reqtest.com) website. 
 
-- The 
+- Figure 10 is available on the [altexSoft] website(https://www.altexsoft.com/blog/uxdesign/information-architecture/)
+
 
 
 
