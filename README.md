@@ -587,6 +587,16 @@ Therefore, Fun Gym should be consistent, predictable, learnable, visible, and pr
 
      The Fun Gym application appeals to consumers, educators, businesses, and investors. Depending on the needs of my users, I may need to consider geography, time, and technology. 
 
+     To reflect on all matters relating to this project, the Fun Gym began with a flat page. The page contained a link to social media and information about the project's progress, along with an email address. 
+
+     Figure 10  illustrates the information architecture for releases 2 and 3 and the reliable structure for releases 4 and 5. The 'WH' questions method and search and mapping techniques allowed me to accomplish this. 
+
+
+
+
+
+
+
 
     
 
