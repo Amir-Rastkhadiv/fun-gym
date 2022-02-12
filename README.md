@@ -631,9 +631,36 @@ Here is a helpful link I found:
 
     - Are Fun Gym pages can order information properly? Is it necessary to have a map?  
 
-    - How do I design forms? Keeping forms simple decreases error rates.
+    - How do I design forms? 
+
+      Keeping forms simple decreases error rates.
 
     - How intuitively obvious are the shortcuts?
+
+
+-  ### Wireframes
+
+Wireframes emerge from the skeleton plane. They are a visible part of the design. 
+
+The developer benefited from paper and penned simple pages for the fun gym design, then created a balsamic wireframe to see how each screen fits into the whole site and how it will look. 
+
+Wireframes and paper sketches helped pace the design determine what links and content are required to meet users' needs. The process gives a better vision of your design. I believe the wireframes are just a way to get started touching the surface plane. 
+
+They are two-dimensional. Colour is not necessary since it cannot precisely represent the design colour. However, I used colours for reminders or even to make their use easier for my eyes wherever I felt needed. 
+
+Click the following links to find Fun Gym wireframes.
+
+  Home page  Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
+
+   Mobile Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
+
+ Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
+
+
+
 
 
 
@@ -691,16 +718,7 @@ Here is a helpful link I found:
     -   #### Imagery
         -   
 
-*   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
-)
-
-    -   Mobile Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
-)
-
-    -   Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
-)
 
 ## User Journey 
 ## Features
