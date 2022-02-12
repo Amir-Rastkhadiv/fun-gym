@@ -541,10 +541,7 @@ There needs to be a set of rules that takes into account the user stories and th
 
         -  Which structure will we use? Simple or Complex? Linear or Non-Linear? How about something flexible?
 
-     - User interaction:
-
-     There are five main concerns in interaction design.
-Therefore, Fun Gym should be consistent, predictable, learnable, visible, and provide clear and intuitive feedback.
+     - User interaction: There are five main concerns in interaction design.Therefore, Fun Gym should be consistent, predictable, learnable, visible, and provide clear and intuitive feedback.
 
         -  How to mitigate the chance of user error? Where do users go? How can they return to the safety page? How could they report it?  
 
@@ -591,11 +588,11 @@ Therefore, Fun Gym should be consistent, predictable, learnable, visible, and pr
 
      Figure 10 illustrates the information architecture for releases 2 and 3 and the reliable structure for releases 4 and 5. The 'WH' questions method and search and mapping techniques allowed me to accomplish this. 
 
-     Fun Gym uses  Co-existing Hierarchies as it is flexible, customised, and meets complex requirements for a professional and educated audience. The navigation will be a hamburger menu for mobile devices to make it mobile-friendly.  
-
      ![Figure 10: Information Architecture ](./assets/img/fig-10-infoart.png)
 
 <p align="center">Figure-10</p>
+
+Fun Gym uses  Co-existing Hierarchies as it is flexible, customised, and meets complex requirements for a professional and educated audience. The navigation will be a hamburger menu for mobile devices to make it mobile-friendly.  
 
 Here is a helpful link I found. 
 
