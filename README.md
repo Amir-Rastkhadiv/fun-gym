@@ -54,6 +54,12 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [USER STORIES](#USER-STORIES)
   * [SCOPE OVERVIEW FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS](#SCOPE-OVERVIEW-FUNCTIONAL-SPECIFICATIONS-AND-CONTENT-REQUIREMENTS)
   * [STRUCTURE PLANE OVERVIEW](#STRUCTURE-PLANE-OVERVIEW)
+  * [SKELETON PLANE: DESIGN OVERVIEW](#SKELETON-PLANE-DESIGNOVERVIEW)
+
+
+
+
+  SKELETON PLANE: DESIGN OVERVIEW 
 
 ---
 
@@ -68,6 +74,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-6](Figure-6)
 * [Figure-7](Figure-7)
 * [Figure-8](Figure-8)
+
 
 
 ---
@@ -628,7 +635,7 @@ Here is a helpful link I found:
 
     - How intuitively obvious are the shortcuts?
 
-    
+
 
 
 
