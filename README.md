@@ -596,7 +596,16 @@ Fun Gym uses  Co-existing Hierarchies as it is flexible, customised, and meets c
 
 Here is a helpful link I found: 
 
--  [How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
+[How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
+
+-   ### SKELETON PLANE: DESIGN OVERVIEW
+
+One step closer to the Fun Gym design, structure planning, such as interaction design and information architecture, is now incorporated into the skeleton plan, focusing on interface and navigation design. The term appears in conjunction with design, but much more.
+
+In this stage, I meant releases 1 through 3 of the project. I am primarily concerned with the presentation of data to users; I am not concerned with data manipulation or dealing with data at rest. We will discuss these issues in future releases according to the strategic plan. Thus, UI is the primary target for Release 3. According to the majority of users, the interface is everything.  
+
+
+Generally, when I designed the Fun Gym website, I focused more on the following areas:
 
 
 
@@ -608,16 +617,17 @@ Here is a helpful link I found:
 
 
 
-    
 
 
 
 
-     
-    
 
 
--   ### Design
+
+
+
+
+
     -   #### Colour Scheme
         -   
     -   #### Typography
