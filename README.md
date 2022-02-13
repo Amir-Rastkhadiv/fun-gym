@@ -67,7 +67,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 ---
 
   ## TABLE OF FIGURES:
-* [Figure-1](Figure-1)
+* [Figure-1](/readme/readme-figures/fig-1-mock-ups.png)
 * [Figure-2](Figure-2)
 * [Figure-3](Figure-3)
 * [Figure-4](Figure-4)
