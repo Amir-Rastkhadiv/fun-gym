@@ -854,7 +854,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-- In creating the Fun Gym website under construction page, the developer adapted the [Balsamic](https://balsamiq.com) free media icon and mixed it with heart and victory icons for the logo.
+- In creating the Fun Gym website under construction page, the developer adapted the [Balsamic](https://balsamiq.com) free media icon and mixed it with heart and victory icons for the logo.AAdditionally, the Balsamiq website has ten principles for effective wireframes mentioned on page 2 of the wireframe layouts.
 
 - Scientists and celebrities have been quoted in the document whenever the author felt it was appropriate and inspiring, namely,  Albert Einstein, Isaac Newton, L.L. Cool J. There is a link to the author's Wiki when this sentence appears.   
 
