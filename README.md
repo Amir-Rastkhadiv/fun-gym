@@ -68,13 +68,17 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
   ## TABLE OF FIGURES:
 * [Figure-1](/readme/readme-figures/fig-1-mock-ups.png)
-* [Figure-2](Figure-2)
-* [Figure-3](Figure-3)
-* [Figure-4](Figure-4)
-* [Figure-5](Figure-5)
-* [Figure-6](Figure-6)
-* [Figure-7](Figure-7)
-* [Figure-8](Figure-8)
+* [Figure-2](/readme/readme-figures/fig-2-uxd.png)
+* [Figure-3](/readme/readme-figures/fig-3-ux.png)
+* [Figure-4](/readme/readme-figures/fig-4-uxd-s.png)
+* [Figure-5](/readme/readme-figures/fig-5-strategy-1.png)
+* [Figure-6](/readme/readme-figures/fig-6-strategy-2.png)
+* [Figure-7](/readme/readme-figures/fig-7-startegy-3.png)
+* [Figure-8](/readme/readme-figures/fig-8-agile-sprints.png)
+* [Figure-9](/readme/readme-figures/fig-9-mvp.png)
+* [Figure-10](/readme/readme-figures/fig-10-infoart.png)
+
+
 
 
 
