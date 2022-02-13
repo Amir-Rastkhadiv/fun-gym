@@ -56,7 +56,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [STRUCTURE PLANE OVERVIEW](#STRUCTURE-PLANE-OVERVIEW)
   * [(DESIGN) SKELETON PLANE ](#DESIGN-SKELETON-PLANE)
   * [LAYOUTS](#WIREFRAMES)
-    * [PEN-PAPER-SKETCHES](#PEN-PAPER-SKETCHES)
+    * [PEN AND PAPER SKETCHES](#PEN-AND-PAPER-SKETCHES)
     * [WIREFRAMES](#WIREFRAMES)
 
   SKELETON PLANE: DESIGN OVERVIEW 
@@ -647,9 +647,9 @@ Generally, when I designed the Fun Gym website, I focused more on the following 
 
   - How intuitively obvious are the shortcuts?
 
--  ### WIREFRAMES
+-  ### LAYOUTS
 
-Wireframes emerge from the skeleton plane. They are a visible part of the design. 
+Layouts emerge from the skeleton plane. They are a visible part of the design. 
 
 The developer benefited from paper and penned simple pages for the fun gym design, then created a balsamic wireframe to see how each screen fits into the whole site and how it will look. 
 
@@ -657,7 +657,20 @@ Wireframes and paper sketches helped pace the design determine what links and co
 
 They are two-dimensional. Colour is not necessary since it cannot precisely represent the design colour. However, I used colours for reminders or even to make their use easier for my eyes wherever I felt needed. 
 
-Click the following links to find Fun Gym wireframes.
+
+-  ### PEN AND PAPER SKETCHES
+
+The Fun Gym Project Pen and Paper Sketches can be viewed by following the link below or visiting the  layouts folder in the project repository. 
+
+[pen-paper-sketches](/layouts/pen-paper-sketches/)
+
+
+-  ### WIREFRAMES
+The Fun Gym Project Wireframes can be viewed by following the link below or visiting the  layouts folder in the project repository. 
+
+[wireframes](/layouts/wireframes/)
+
+
 
   Home page  Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
 )
