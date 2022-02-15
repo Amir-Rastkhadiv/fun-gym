@@ -1,275 +1,101 @@
+<!--                  /workspace/fun-gym/index.html-->
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-
+<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="Description" content="Enter your description here" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Fun Gym</title>
-    <!------------------------------------------ /* Styiling the code */ --------------------------------------------->
 
-    <svg>
-        <foreignObject width="100%" height="100%">
-            <style>
-                * {
-                    margin: 0;
-                    padding: 0;
-                    box-sizing: border-box;
-                }
+  <!-- meta   tags -->
 
-                html {
-                    background-color: white;
-                    height: 100%;
-                    cursor: default;
-                }
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-                body {
-                    font-family: "Roboto", sans-serif;
-                    /* Default font */
-                    width: 100%;
-                    height: 100%;
-                    text-align: center;
-                    display: table;
-                    opacity: 1;
-                    animation: fadein 3s forwards;
-                    overflow: scroll;
-                    overflow-x: hidden;
-                }
+  <!--Apply viewport meta tag for responsive design-->
 
-                .pleased {
-                    position: relative;
-                    max-width: 100%;
-                    margin-bottom: 100px;
-                    text-align: center;
-                }
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-                .warning {
-                    font-style: italic;
-                    font-size: 35px;
-                    text-transform: uppercase;
-                    padding-bottom: 20px;
-                    letter-spacing: 4px;
-                    font-weight: 600;
-                    z-index: 2;
-                    display: contents;
-                    display: inline-block;
-                    color: crimson;
-                    margin-bottom: 15px;
-                    margin-top: -500px;
-                }
+  <!--There are now 167 characters and 31 words for description snippets. Standards met. -->
 
-                .message {
-                    height: 120px;
-                    background-color: #0a0debf3;
-                    overflow: hidden;
-                    color: #fff;
-                    position: relative;
-                    text-transform: uppercase;
-                    letter-spacing: 2px;
-                    font-size: 16px;
-                    font-weight: 400;
-                    align-content: center;
-                    left: 12px;
-                    text-align: center;
-                }
+  <meta name="description"
+    content="The Fun Gym is the best place and top exercise facilities to get fit, be happy, stay healthy, build a great body and an intelligent mind, and make your community rich.">
 
-                .message {
-                    max-width: 50%;
-                    margin-bottom: -180px;
-                    margin-top: -10px;
-                    font-weight: 600;
-                    text-align: left;
-                    transform: translateX(5%);
-                    animation: moving 15s linear infinite;
-                    z-index: -2;
-                }
+  <!--Search engines recognize this Fun Gym's  URL  as the main page.-->
 
-                span {
-                    text-transform: lowercase;
-                }
+  <link rel="canonical" href="https://github.com/Amir-Rastkhadiv/fun-gym" />
 
-                @keyframes moving {
-                    0% {
-                        transform: translateX(100%);
-                    }
+  <meta name="author" content="AMIR RASTKHADIVMASOULEH">
 
-                    100% {
-                        transform: translateX(-100%);
-                    }
-                }
+  <!--Means index and follow this webpage.-->
 
-                h2 {
-                    font-weight: 300;
-                    margin-bottom: 10px;
-                }
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#faebd7" />
 
-                img {
-                    width: 20%;
-                    /* Image width */
-                    border: 10;
-                    /* For IE */
-                    /* Aspect ratio of image, gives initial dimension to prevent text moving down once image is loaded */
-                    /* When changing logo, change this also */
-                    aspect-ratio: 100 / 50;
-                }
+  <!-- Make your title tag unique for every page within 60 characters. -->
 
-                #main {
-                    vertical-align: middle;
-                    display: table-cell;
-                    margin-top: 0%;
-                    margin-bottom: -100px;
-                    margin-top: 10px;
-                }
+  <title> How to join? Open 24/7 | Free Entry | Get shape |Fun Gym </title>
 
-                /* Progress bar */
-                #progress {
-                    width: 45%;
-                    /* Bar width */
-                    margin: 0 auto;
-                    border-radius: 10px;
-                    /* Roundness */
-                    background-color: #a8a8a8;
-                    /* Background colour */
-                    padding: 7px 5px;
-                    /* border: 5px solid #a8a8a8; Border */
-                }
+  <!-- extra open graph meta tags. social media syncing is easier with these tags. -->
 
-                #fill {
-                    padding: 2px 0;
-                    background-color: #00b98b;
-                    /* Fill colour */
-                    width: 96%;
-                    /* Bar percentage, change text below also */
-                    border-radius: 25px;
-                    /* Roundness */
-                    animation: proanimate 2s;
-                }
+  <!-- Google is available, Facebook and LinkedIn etc., for subsequent releases.-->
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="How to join? Open 24/7 | Free Entry | Get shape | Fun Gym" />
+  <meta property="og:description"
+    content="The Fun Gym is the best place and top exercise facilities to get fit, be happy, stay healthy, build a great body and an intelligent mind, and make your community rich!" />
+  <meta property="og:image" name="Brand logo for Fun Gym" content="#/assets/img/logo.png" />
+  <meta property="og:image:alt" content="Fun Gym's vibrant, intense graphic logo is happy and refreshing.">
+  <meta property="og:url" content="https://mail.google.com/mail/u/0/?hl=en#imp" />
+  <meta property="og:site_name" content="Fun Gym" />
 
-                #barpercent h3 {
-                    color: white;
-                    /* Bar percentage text colour */
-                    margin: 0;
-                    padding: 0;
-                    opacity: 1;
-                    animation: fadein 3s forwards;
-                }
+  <!-- Twitter is nearly reday to test.-->
 
-                /* Fades in animation */
-                @keyframes fadein {
-                    from {
-                        opacity: 0;
-                    }
-                }
+  <meta name="twitter:card" content="Brand logo for Fun Gym">
+  <meta name="twitter:site" content="@fun-gym">
+  <meta name="twitter:creator" content="@amir-rastkhadivmasouleh">
+  <meta property="twitter:title" content="How to join? Open 24/7 | Free Entry | Get shape | Fun Gymm" />
+  <meta property="twitter:description"
+    content="The Fun Gym is the best place and top exercise facilities to get fit, be happy, stay healthy, build a great body and an intelligent mind, and make your community rich!" />
+  <meta name=" twitter:image" content="#/assets/img/logo.png">
+  <meta name="twitter:image:alt" content="Fun Gym's vibrant, intense graphic brnad logo is happy and refreshing.">
 
-                /* Animates bar on page load */
-                @keyframes proanimate {
-                    from {
-                        width: 0%;
-                    }
-                }
+  <!--     links                                          -->
 
-                @media only screen and (max-width: 768px) {
+  <!-- Reminder! Further languages links, Favicon, google tag manager for releases 4 AND 5. -->
 
-                    body {
-                        width: 100%;
-                    }
+  <!-- links for the current realease-->
 
-                    .pleased {
-                        max-width: 80%;
-                    }
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://kit.fontawesome.com/30c3e1568f.js" crossorigin="anonymous"></script>
 
-                    .warning {
-                        max-width: 70%;
-                        font-size: 80%;
-                    }
-
-                    .message {
-                        max-width: 100%;
-                        height: 10px;
-                        font-size: 3px;
-                        font-weight: 10%;
-                        letter-spacing: 0;
-                    }
-                }
-
-                @media screen and (max-width: 900px) {
-                    body {
-                        width: 100%;
-                    }
-
-                    .pleased {
-                        max-width: 80%;
-                    }
-
-                    .warning {
-                        max-width: 70%;
-                    }
-
-                    .message {
-                        width: 65%;
-                        height: 130%;
-                        font-size: 14px;
-                    }
-                }
-            </style>
-        </foreignObject>
-    </svg>
 </head>
 
-<!----------------------------  /* End of styling! */  --------------------------------------------------------------->
-
 <body>
-    <section>
-        <div id="announcement" class="pleased">
-            <div class="warning"> Opening announcement</div>
-            <div class="message">
-                <p>
-                    Happy to inform that Fun Gym's website will be up next week.
-                    Got a question? 
-                    <p>Email:</p>
-                    <p><span>comeback.fungym@gmail.com</span></p>
-                </p>
-            </div>
-        </div>
+  <!-- Logo and Top Navigation Menu: Added a custom style to the navigation-->
+  <header>
+    <a href="index.html">
+      <h1 id="logo">Fun Gym</h1>
+    </a>
+    <nav class="topnav">
+      <ul id="icon-bar">
+        <li>
+          <a class="active" href="menu/menu.html">Menu</a>
+        </li>
+        <li>
+          <a class="active" href="login/login.html">Login</a>
+        </li>
+        <li>
+          <a class="active" href="contact-us/contact-us.html">Contact Us</a>
+        </li>
+        <li>
+          <a class="active" href="index.html">Home</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
 
-        <div id="main">
-            <img src="assets/img/temporary-logo.png"
-                alt="Fun Gym exclusive logo with heart, victory vibes and cheerful, funny smile in black and red." />
-            <h1><strong>Fun Gym</strong></h1>
-            <h2>New website under construction.</h2>
-            <p> Thank you for being patient.</p>
-            <div id="progress">
-                <div id="fill">
-                    <div id="barpercent">
-                        <h3>96%</h3>
-                    </div>
-                </div>
-            </div>
-            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400" rel="stylesheet" />
-        </div>
-    </section>
 </body>
 
-<hr>
-
 <footer>
-    <h2> Follow us for updates here:</h4>
-
-        <h3><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></h3>
-        <h3><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a></h3>
-        <h3><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></h3>
-        <h3><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></h3>
-
-     <h4> &copy; 2022 Fun Gym. All rights reserved. Thanks for visiting our website.</h4>
 
 </footer>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 </html>
