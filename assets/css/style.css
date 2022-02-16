@@ -202,12 +202,43 @@ footer {
 
 .copy-rights {
 
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 4px;
+    text-transform: uppercase;
     margin-left: 30px;
     color: #fafafa;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 6px;
+    line-height: 35px;
 }
 
 #fungym-corights-col {
 
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 4px;
+    text-transform: uppercase;
     color: #e10a0a;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 6px;
+    line-height: 75px;
+}
 
+/* country-flag */
+
+.country-name {
+
+    text-decoration: none;
+    color: #fafafa;
+    line-height: 35px;
+    margin-right: 75px;
+    padding-right: 10px;
+}
+
+#flag {
+    float: right;
+    margin-right: 10px;
+    line-height: 35px;
+    padding: 10px 30px;
 }
