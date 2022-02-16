@@ -159,7 +159,10 @@ h1 {
 /* Footer */
 
 footer {
-    height: 150px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
 
 .social-media-links {
@@ -200,6 +203,16 @@ footer {
 
 }
 
+/* copy rights and the country-flag */
+
+
+h4 {
+    height: 160px;
+    width: 100%;
+    background: url("../img/uk-flag.png") no-repeat;
+    overflow: hidden;
+}
+
 .copy-rights {
 
     font-family: 'Open Sans', sans-serif;
@@ -211,9 +224,12 @@ footer {
     font-size: 14px;
     margin-top: 6px;
     line-height: 35px;
+    position: relative;
+    float: left;
+
 }
 
-#fungym-corights-col {
+#fungym-copyights-col {
 
     font-family: 'Open Sans', sans-serif;
     letter-spacing: 4px;
@@ -222,23 +238,32 @@ footer {
     font-weight: 400;
     font-size: 14px;
     margin-top: 6px;
-    line-height: 75px;
-}
-
-/* country-flag */
-
-.country-name {
-
-    text-decoration: none;
-    color: #fafafa;
     line-height: 35px;
-    margin-right: 75px;
-    padding-right: 10px;
+    position: absolute;
+    left: 10%;
+    width: 600px;
+    height: 170px;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 50px;
+    left: 60%;
+    top: 70%;
+    right: 100px;
+    top: 60%;
+    position: absolute;
+
 }
 
 #flag {
-    float: right;
-    margin-right: 10px;
-    line-height: 35px;
-    padding: 10px 30px;
+    position: absolute;
+    top: 70%;
+    left: 48%;
+    transform: translate(-50%, -70%);
+    -ms-transform: translate(-30%, -50%);
+    margin-right: 50px;
+    margin-left: 10%;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
 }
