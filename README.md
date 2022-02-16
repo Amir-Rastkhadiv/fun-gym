@@ -878,7 +878,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Figure 10 is available on the [altexSoft] website(https://www.altexsoft.com/blog/uxdesign/information-architecture/)
 
-- The hero image is from the [pickwizard](https://www.altexsoft.com/blog/uxdesign/information-architecture/) website.
+- The hero image is from the [pickwizard](https://pikwizard.com/?q=gym+ball) website.
+
 
 
 
