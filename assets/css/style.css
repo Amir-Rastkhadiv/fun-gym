@@ -25,6 +25,7 @@ body.header.nav.topnav {
 
 }
 
+
 h1,
 h2 {
     font-family: 'Open Sans', sans-serif;
@@ -43,7 +44,6 @@ h1 {
     margin-left: 30px;
 
 }
-
 
 /* navigation links */
 
@@ -66,7 +66,7 @@ h1 {
 
 #icon-bar a {
     text-decoration: none;
-    color: white;
+    color: #fafafa;
 }
 
 #icon-bar a:hover {
@@ -75,4 +75,83 @@ h1 {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+/* Hero image and cover text */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../img/fungym-hero.png") no-repeat center center;
+
+
+    /* Animates zoom effect on loading the page */
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+#cover-text,
+#cover-text h2 {
+    color: #fafafa;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 600px;
+    height: 170px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: #dd7474a6;
+    right: 200px;
+    top: 60%;
+    position: absolute;
+
+}
+
+/* Creates the button  on text image fot join now */
+
+.btn {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+    -ms-transform: translate(-50%, -40%);
+    background-color: #333333;
+    color: #e10a0a;
+    font-size: 65%;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #e10a0a;
+
+    color: #fafafa;
 }
