@@ -12,7 +12,7 @@
 html,
 body {
     font-family: Lato, sans-serif;
-    color: #777777;
+    color: #fafafa;
     background-color: #252525;
 
 }
@@ -31,7 +31,7 @@ h2 {
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #fafafa;
 }
 
 h1 {
@@ -70,7 +70,7 @@ h1 {
 }
 
 #icon-bar a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #e10a0a;
 }
 
 .active {
@@ -131,7 +131,7 @@ h1 {
 
 }
 
-/* Creates the button  on text image fot join now */
+/* Creates the button  on text image for join now */
 
 .btn {
     position: absolute;
@@ -140,8 +140,8 @@ h1 {
     transform: translate(-50%, -10%);
     -ms-transform: translate(-50%, -40%);
     background-color: #333333;
-    color: #e10a0a;
-    font-size: 65%;
+    color: #e1dc0a;
+    font-size: 85%;
     text-transform: uppercase;
     padding: 10px 30px;
     border: none;
@@ -150,11 +150,185 @@ h1 {
     text-align: center;
 }
 
+
 .btn:hover {
     background-color: #e10a0a;
 
     color: #fafafa;
 }
+
+
+/* five excellent missions in a fun gym from the left to right */
+
+#club-ethos {
+    height: 600px;
+    position: relative;
+
+}
+
+#welcome {
+    margin: 30px 0;
+    text-align: center;
+    font-size: 280%;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+    font-size: 120%;
+    text-align: justify;
+
+}
+
+.right-about-heading {
+    width: 75%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+    font-size: 120%;
+}
+
+.right-about-heading p {
+    text-align: justify;
+}
+
+.right-about-heading h2 {
+    text-align: justify;
+}
+
+
+.center-about-heading {
+    width: 450px;
+    height: 300px;
+    padding: 20px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    clear: both;
+    margin: 0 auto;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    font-size: 120%;
+    text-align: justify;
+}
+
+
+
+/* fun gym high-five image for its five extraordinary exclusive missions */
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: double;
+    border-color: #252525;
+    border-width: 1px;
+    border-radius: 500%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url("../img/fungym-highfive-5missions.png") no-repeat center center;
+    height: 90%;
+    border-radius: 50%;
+}
+
+/*  links decoration for its five extraordinary exclusive missions */
+
+#five-topic-click {
+
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #e1be0af0;
+
+}
+
+#five-topic-click a:hover {
+    border-bottom: 1px solid #fafafa;
+}
+
+
+.btn-high-five {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+    -ms-transform: translate(-50%, -40%);
+    background-color: #333333;
+    color: #29e014;
+    font-size: 100%;
+    text-transform: uppercase;
+    padding: 20px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+.btn-high-five:hover {
+    background-color: #e10a0a;
+
+    color: #fafafa;
+}
+
+
+/* Event times */
+
+#times {
+    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#times h2 {
+    color: #fafafa;
+}
+
 
 /* Footer */
 
