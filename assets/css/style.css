@@ -302,18 +302,47 @@ hr {
 }
 
 
-/* Event times */
+/* Three info parts */
 
-#times {
-    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+#part-1 {
+    background-image: url("../img/fungym-part-3.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
+    background-size: 25%;
+    background-position: 53%;
+    width: 90%;
     overflow: hidden;
+    padding-left: 30px;
+    margin-left: 30px;
+
 }
 
-#times div {
+#part-1 div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#part-1 h2 {
+    color: #fafafa;
+}
+
+#part-2 {
+    background-image: url("../img/fun-gym-part-2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+#part-2 div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
     width: 20%;
@@ -325,9 +354,63 @@ hr {
     box-sizing: border-box;
 }
 
-#times h2 {
+#part-2 h2 {
     color: #fafafa;
 }
+
+
+#part-3 div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#part-3 h2 {
+    color: #fafafa;
+}
+
+
+
+#map {
+    background-image: url("../img/fungym-map.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+#map {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 100%;
+    height: 250px;
+    float: right;
+    padding: 30px 0 0 30px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+
+#map-1 {
+    color: #252525;
+    float: right;
+    padding-right: 32%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding-top: 12%;
+}
+
+
 
 
 /* Footer */
