@@ -411,8 +411,6 @@ hr {
 }
 
 
-
-
 /* Footer */
 
 footer {
@@ -446,8 +444,8 @@ footer {
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
+    color: #1328e0;
+    background: #e1be0af0;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
