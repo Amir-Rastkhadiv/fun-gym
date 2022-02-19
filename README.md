@@ -686,71 +686,8 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
  Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
 )
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    -   #### Colour Scheme
-        -   
-    -   #### Typography
-        -  
-    -   #### Imagery
-        -   
-
-
-
 ## User Journey 
 ## Features
-
-
 
 -   Responsive on all device sizes
 
@@ -788,28 +725,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 )
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://amir-rastkhadiv.github.io/fun-gym/
 
-
-)
-
-### Testing User Stories from User Experience (UX) Section
-
--   #### First Time Visitor Goals
-
-
--   #### Returning Visitor Goals
-
-
--   #### Frequent User Goals
-
-    
-
 ### Further Testing
 
--   
+[test](/tests/test-header/)
 
-### Known Bugs
-
--   
 
 ## Deployment
 
@@ -885,36 +804,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The hero image is from the [pickwizard](https://pikwizard.com/?q=gym+ball) website.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Code
-
 ### Content
 
 -   All content was written by the developer.
-
-### Media
-
 
 ### Acknowledgements
 
