@@ -918,7 +918,14 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   
--  
+-   Thanks to my family, friends, and siblings who have supported me and my endeavours, I am grateful for their affection and support.
 
-# -----------------------------------------[Back To Top](#) ---------------------------
+- I am grateful for the fantastic support from my tutor at South Devon University-College.
+
+- My mentor provides continuous professional support and helpful feedback.
+
+- Thank you so much to the Code Institute tutor support staff for all your help.
+
+- The web developer community on Slack is also constructive.
+
+# -----------------------------------------[Back To Top](#) --------------------
