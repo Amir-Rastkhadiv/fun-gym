@@ -41,8 +41,6 @@ h1 {
 #logo {
     float: left;
     font-size: 280%;
-    margin-left: 30px;
-
 }
 
 /* navigation links */
@@ -56,6 +54,11 @@ h1 {
 #logo,
 #icon-bar {
     line-height: 75px;
+    margin: 0px;
+}
+
+#logo {
+    margin-left: 30px;
 }
 
 #icon-bar li {
@@ -409,7 +412,6 @@ hr {
     letter-spacing: 4px;
     padding-top: 12%;
 }
-
 
 /* Footer */
 
