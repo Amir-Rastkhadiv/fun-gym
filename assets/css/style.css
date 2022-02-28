@@ -422,6 +422,10 @@ footer {
     position: relative;
 }
 
+h4 {
+    margin-left: 30px;
+}
+
 .social-media-links {
     text-align: center;
 
