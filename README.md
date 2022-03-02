@@ -64,7 +64,6 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
     * [PEN AND PAPER SKETCHES](#PEN-AND-PAPER-SKETCHES)
     * [WIREFRAMES](#WIREFRAMES)
 
-  SKELETON PLANE: DESIGN OVERVIEW 
 
 ---
 
@@ -478,7 +477,6 @@ Please see the following links for additional information about MVP.
 - [Successful Businesses That Started With MVP Development but Now Are Rocking the World](https://medium.com/keenethics-blog/successful-businesses-that-started-with-mvp-development-but-now-are-rocking-the-world-bb776bb86c54)
 
 - #### Content Requitements 
-
   - On the Fun Gym website, a user will find:
   -  The information provided an overview of the facility, including a description of the equipment, workout areas, and steam room.
   - Services offered include gym products,  activities and instructors.
