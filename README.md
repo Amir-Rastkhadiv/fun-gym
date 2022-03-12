@@ -802,6 +802,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The hero image is from the [pickwizard](https://pikwizard.com/?q=gym+ball) website.
 
+- The developer took into account accessibility tutorials [w3schools](https://www.w3schools.com/accessibility/index.php) when writing the code.
+
+- Accessibility of social media icons? I found [Saavas](https://savvas.me/accessibility/problem-with-social-icons) website helpful.
 ### Content
 
 -   All content was written by the developer.
