@@ -63,15 +63,15 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [LAYOUTS](#WIREFRAMES)
     * [PEN AND PAPER SKETCHES](#PEN-AND-PAPER-SKETCHES)
     * [WIREFRAMES](#WIREFRAMES)
-  * [USER JOURNEY](#USER-JOURNEY)
-  * [FEATURES](#FEATURES)
-  * [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
-  * [TESTING](#TESTING)
-  * [FURTHER TESTING](#FURTHER-TESTING)
-  * [DEPLOYMENT](#DEPLOYMENT)
-  * [CREDITS](#CREDITS)
-  * [CONTENT](#CONTENT)
-  * [ACKNOWLEGEMENTS](#ACKNOWLEGEMENTS)
+- [USER JOURNEY](#USER-JOURNEY)
+- [FEATURES](#FEATURES)
+- [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+- [TESTING](#TESTING)
+- [FURTHER TESTING](#FURTHER-TESTING)
+- [DEPLOYMENT](#DEPLOYMENT)
+- [CREDITS](#CREDITS)
+- [CONTENT](#CONTENT)
+- [ACKNOWLEGEMENTS](#ACKNOWLEGEMENTS)
 
 ---
 
@@ -689,6 +689,7 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
 )
 
 ## USER-JOURNEY 
+
 ## FEATURES 
 
 -   Responsive on all device sizes
@@ -730,7 +731,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### FURTHER TESTING
 
 [tests](/tests/)
-
 
 ## DEPLOYMENT
 
@@ -809,11 +809,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The developer took into account accessibility tutorials [w3schools](https://www.w3schools.com/accessibility/index.php) when writing the code.
 
 - Accessibility of social media icons? I found [Saavas](https://savvas.me/accessibility/problem-with-social-icons) website helpful.
-### CONTENT
+
+## CONTENT
 
 -   All content was written by the developer.
 
-### ACKNOWLEGEMENTS
+## ACKNOWLEGEMENTS
 
 -   Thanks to my family, friends, and siblings who have supported me and my endeavours, I am grateful for their affection and support.
 
