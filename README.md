@@ -63,7 +63,15 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [LAYOUTS](#WIREFRAMES)
     * [PEN AND PAPER SKETCHES](#PEN-AND-PAPER-SKETCHES)
     * [WIREFRAMES](#WIREFRAMES)
-
+  * [USER JOURNEY](#User-JOURNRY)
+  * [FEATURES](#FEATURES]
+  * [TECHNOLOGIES-USED](#TECHNOLOGIES-USED]
+  * [TESTING](#TESTING)
+  * [FURTHER TESTING](#FURTHER-TESTING)
+  * [DEPLOYMENT](#DEPLOYMENT)
+  * [CREDITS](#CREDITS)
+  * [CONTENT](#CONTENT)
+  * [ACKNOWLEDGEMENTS](#ACKNOWLEDGEMENTS)
 
 ---
 
@@ -80,10 +88,6 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-8](/readme/readme-figures/fig-8-agile-sprints.png)
 * [Figure-9](/readme/readme-figures/fig-9-mvp.png)
 * [Figure-10](/readme/readme-figures/fig-10-infoart.png)
-
-
-
-
 
 ---
 ---
@@ -684,8 +688,8 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
  Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
 )
 
-## User Journey 
-## Features
+## USER JOURNEY 
+## FEATURES 
 
 -   Responsive on all device sizes
 
@@ -715,7 +719,7 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-## Testing
+## TESTING
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -723,12 +727,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 )
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://amir-rastkhadiv.github.io/fun-gym/
 
-### Further Testing
+### FURTHER TESTING
 
 [tests](/tests/)
 
 
-## Deployment
+## DEPLOYMENT
 
 ### GitHub Pages
 
@@ -776,7 +780,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-## Credits
+## CREDITS
 
 - In creating the Fun Gym website under construction page, the developer adapted the [Balsamic](https://balsamiq.com) free media icon and mixed it with heart and victory icons for the logo.AAdditionally, the Balsamiq website has ten principles for effective wireframes mentioned on page 2 of the wireframe layouts.
 
@@ -805,11 +809,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The developer took into account accessibility tutorials [w3schools](https://www.w3schools.com/accessibility/index.php) when writing the code.
 
 - Accessibility of social media icons? I found [Saavas](https://savvas.me/accessibility/problem-with-social-icons) website helpful.
-### Content
+### CONTENT
 
 -   All content was written by the developer.
 
-### Acknowledgements
+### ACKNOWLEGEMENTS
 
 -   Thanks to my family, friends, and siblings who have supported me and my endeavours, I am grateful for their affection and support.
 
