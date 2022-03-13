@@ -733,7 +733,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 )
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://amir-rastkhadiv.github.io/fun-gym/
 
-- [WAVE AIM] (https://wave.webaim.org/waverunner) Web Accessibility Evaluation Tool
+- The developer validated Fun Gym's website with a tool called  [WAVE AIM](https://wave.webaim.org/waverunner).
 
 ### FURTHER TESTING
 
