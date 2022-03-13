@@ -66,9 +66,14 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 - [USER JOURNEY](#USER-JOURNEY)
 - [FEATURES](#FEATURES)
 - [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+  * [LANGUAGES USED](#LANGUAGES-USED)
+  * [FRAMEWORKS,LIBRARIES & PROGRAMS USED](#FRAMEWORKS,-LIBRARIES-&-PROGRAMS-USED)
 - [TESTING](#TESTING)
-- [FURTHER TESTING](#FURTHER-TESTING)
+  * [FURTHER TESTING](#FURTHER-TESTING)
 - [DEPLOYMENT](#DEPLOYMENT)
+  * [GITHUB PAGES](#GITHUB-PAGES)
+  * [FORKING THE GITHUB REPOSITORY](#FORKING-THE-GITHUB-REPOSITORY])
+  * [MAKING A LOCAL CLONE](#MAKING-A-LOCAL-CLONE)
 - [CREDITS](#CREDITS)
 - [CONTENT](#CONTENT)
 - [ACKNOWLEGEMENTS](#ACKNOWLEGEMENTS)
@@ -698,12 +703,12 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
 
 ## TECHNOLOGIES-USED
 
-### Languages Used
+### LANGUAGES USED
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used
+### FRAMEWORKS,LIBRARIES & PROGRAMS USED
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
@@ -734,7 +739,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## DEPLOYMENT
 
-### GitHub Pages
+### GITHUB PAGES
 
 The project was deployed to GitHub Pages using the following steps...
 
@@ -746,7 +751,7 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-### Forking the GitHub Repository
+### FORKING THE GITHUB REPOSITORY
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
@@ -754,7 +759,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-### Making a Local Clone
+### MAKING A LOCAL CLONE
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. Under the repository name, click "Clone or download".
