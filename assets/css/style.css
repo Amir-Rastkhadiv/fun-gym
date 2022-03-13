@@ -529,6 +529,19 @@ h5 {
     text-align: center;
 }
 
+/* Adjust the colour contrast for accessibility */
+
+/* download icon - checked with google dev tool*/
+
+a {
+    color: #f4fce3;
+    text-decoration: none;
+}
+
+/* back to top, Wave verified that*/
+#btt-colour {
+    color: #98BFE1;
+}
 
 /* Media queries */
 
