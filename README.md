@@ -733,6 +733,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 )
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://amir-rastkhadiv.github.io/fun-gym/
 
+- [WAVE AIM] (https://wave.webaim.org/waverunner) Web Accessibility Evaluation Tool
+
 ### FURTHER TESTING
 
 [tests](/tests/)
@@ -814,6 +816,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The developer took into account accessibility tutorials [w3schools](https://www.w3schools.com/accessibility/index.php) when writing the code.
 
 - Accessibility of social media icons? I found [Saavas](https://savvas.me/accessibility/problem-with-social-icons) website helpful.
+
 
 ## CONTENT
 
