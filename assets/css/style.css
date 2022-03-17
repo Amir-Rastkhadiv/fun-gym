@@ -206,7 +206,6 @@ hr {
     margin-bottom: 50px;
     letter-spacing: 2px;
     font-size: 120%;
-    text-align: justify;
 
 }
 
@@ -220,15 +219,6 @@ hr {
     font-size: 120%;
 }
 
-.right-about-heading p {
-    text-align: justify;
-}
-
-.right-about-heading h2 {
-    text-align: justify;
-}
-
-
 .center-about-heading {
     width: 450px;
     height: 300px;
@@ -241,7 +231,6 @@ hr {
     top: 55%;
     left: 35%;
     font-size: 120%;
-    text-align: justify;
 }
 
 
