@@ -69,7 +69,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [LANGUAGES USED](#LANGUAGES-USED)
   * [FRAMEWORKS,LIBRARIES & PROGRAMS USED](#FRAMEWORKS,-LIBRARIES-&-PROGRAMS-USED)
 - [TESTING](#TESTING)
-  * [FURTHER TESTING](#FURTHER-TESTING)
+  * [RESULTS OF TESTS](#RESULTS-OF-TESTS)
 - [DEPLOYMENT](#DEPLOYMENT)
   * [GITHUB PAGES](#GITHUB-PAGES)
   * [FORKING THE GITHUB REPOSITORY](#FORKING-THE-GITHUB-REPOSITORY])
@@ -735,7 +735,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - The developer evaluated the Fun Gym website with a tool called  [WAVE AIM](https://wave.webaim.org/waverunner).
 
-### FURTHER TESTING
+### RESULTS OF TESTS
 
 [tests](/tests/)
 
