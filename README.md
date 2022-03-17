@@ -734,6 +734,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - The developer evaluated the Fun Gym website with a tool called  [WAVE- WEBAIM](https://wave.webaim.org/waverunner).
 
+- To meet the word limits for GitHub commits, meta tags, and so on, the project designer used[EASYWORDCOUNT](https://easywordcount.com/).
+
 ### RESULTS OF TESTS
 
 [tests](/tests/)
