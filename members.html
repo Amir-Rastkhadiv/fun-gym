@@ -9,9 +9,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <!--Apply viewport meta tag for responsive design-->
+    <!--Apply viewport meta tag for responsive desig -  restores pre-Safari  ios 9.0 behaviour.-->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
     <!--There are now 167 characters and 31 words for description snippets. Standards met. -->
 
@@ -132,7 +132,7 @@
 
         <div id="right-about">
             <div class="right-about-heading">
-                <h3><a id="five-topic-click" href="coaching-legends.html">Coaching legends</a></h3>
+                <h3><a id="five-topic-click" href="coaching-legend.html">Coaching legends</a></h3>
                 <hr>
                 <p>
                     An excellent way to motivate members is to have a motivational trainer. Fun gym coaches are
@@ -159,7 +159,7 @@
                 </div>
             </div>
             <div class="center-about-heading">
-                <h3><a id="five-topic-click" href="events-with-buddies.html">Events with buddies</a></h3>
+                <h3><a id="five-topic-click" href="events-with-bodies.html">Events with buddies</a></h3>
                 <hr>
                 <p>
                     Fancy a free Fun Gym high five? Our service engages the community, hosts charity events, holds
@@ -215,7 +215,7 @@
     <section id="part-2">
 
         <div>
-            <h2><a id="five-topic-click" href="coaching-legends.html">Coaching</a></h2>
+            <h2><a id="five-topic-click" href="coaching-legend.html">Coaching legends</a></h2>
             <h3>Trainer</h3>
             <h3>Bookings</h3>
             <h3>Prices</h3>
@@ -256,7 +256,7 @@
 
     </section>
 
-    <!-- Include 3 sections with the Fun Gym Adress. -->
+    <!-- Include 3 sections with the Fun Gym Address. -->
 
     <section>
         <div>
@@ -268,18 +268,15 @@
 
         <div>
 
+            <h2><a id="five-topic-click" href="index.html"> Client Support</a></h2>
 
+            <h3><a id="five-topic-click" href="login.html">Join Us</a></h3>
 
+            <h3><a id="five-topic-click" href="members.html">Members</a></h3>
 
-            <h2><a id="five-topic-click" href="facilities/facilities.html"> Client Support</a></h2>
+            <h3><a id="five-topic-click" href="contact-us.html">Contact Us</a></h3>
 
-            <h3><a id="five-topic-click" href="join/fun-gymming-now.html">Join Us</a></h3>
-
-            <h3><a id="five-topic-click" href="members/members.html">Members</a></h3>
-
-            <h3><a id="five-topic-click" href="contact-us/contact-us.html">Contact Us</a></h3>
-
-            <h3><a id="five-topic-click" href="contact-us/contact-us.html">Concerns</a></h3>
+            <h3><a id="five-topic-click" href="faqs.html">Concerns</a></h3>
 
         </div>
 
@@ -310,17 +307,11 @@
 
     </section>
 
-    <section>
-
-    </section>
-
-    <section>
-
-    </section>
-
 </body>
 
-<footer>
+<!-- Following the feedback, improve accessibility by adding the Role attribute to the footer, embedding Aria-labels on social media links, and implementing W3Schools' accessibility tutorial. -->
+
+<footer role="contentinfo">
 
     <section>
         <div id="footer-details" class="row">
@@ -367,20 +358,22 @@
                         <span class="sr-only"> Download link</span>
                     </a>
                 </p>
-                <p> <a href="#"><strong>BACK TO TOP</strong></a>
+                <p><a href="#"><span id="btt-colour">BACK TO TOP</span></a>
                 </p>
 
             </div>
         </div>
     </section>
 
+    <!-- Make your social links aria-labelled refrence: https://savvas.me/accessibility/problem-with-social-icons -->
 
     <ul class="social-media-links">
-        <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
-        <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a></li>
-        <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
-        <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="https://www.facebook.com" target="_blank" aria-label="follow fun gym on facebook"><i class="fab fa-facebook" aria-hidden="false"></i></a></li>
+        <li><a href="https://www.twitter.com" target="_blank" aria-label="follow fun gym on twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.youtube.com" target="_blank" aria-label="follow fun gym on youtube"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com" target="_blank" aria-label="follow fun gym on instagram"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
     </ul>
+
 
     <h5 id="flag" class="copy-rights country-name">
 
