@@ -170,10 +170,9 @@ h1 {
 }
 
 #welcome {
-    margin: 30px 0;
     text-align: center;
-    font-size: 280%;
 }
+
 
 #left-about {
     padding-top: 30px;
@@ -190,6 +189,8 @@ h1 {
 #center-about {
     width: 33%;
     margin: 0 auto;
+    float: left;
+    height: 100%;
 }
 
 hr {
@@ -203,10 +204,9 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     letter-spacing: 2px;
     font-size: 120%;
-
 }
 
 .right-about-heading {
@@ -214,26 +214,16 @@ hr {
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     letter-spacing: 2px;
     font-size: 120%;
 }
 
+
 .center-about-heading {
-    width: 450px;
-    height: 300px;
-    padding: 20px;
-    line-height: 20px;
-    letter-spacing: 1px;
-    clear: both;
-    margin: 0 auto;
-    position: absolute;
-    top: 55%;
-    left: 35%;
+    width: 90%;
     font-size: 120%;
 }
-
-
 
 /* fun gym high-five image for its five extraordinary exclusive missions */
 
@@ -368,8 +358,6 @@ hr {
     color: #fafafa;
 }
 
-
-
 #map {
     background-image: url("../img/fungym-map.png");
     background-repeat: no-repeat;
@@ -454,7 +442,6 @@ h4 {
 }
 
 /* copy rights and the country-flag */
-
 
 h5 {
     height: 150px;
@@ -550,7 +537,6 @@ a {
     #left-about,
     #right-about {
         width: 100%;
-        float: left;
         padding: 0;
     }
 
@@ -559,7 +545,29 @@ a {
         width: 100%;
         float: left;
         padding: 0;
+        height: 50%;
     }
+
+
+    .left-about-heading {
+        float: right;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
+
+    .right-about-heading {
+        float: left;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
+
+
 
     #part-1 div {
         width: 100%;
