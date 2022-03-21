@@ -263,9 +263,9 @@ The following are the most questions used in this project at this stage?
 
 ------------------------------------------------------------------- 
 
-<button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button> | 
-<button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>   |
-<button>[Back To Top ⇧⇧](#)</button> 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
 
 -------------------------------------------------------------------
 
