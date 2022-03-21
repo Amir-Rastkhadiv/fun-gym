@@ -190,6 +190,13 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 
 Click [here](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/?child=first) for more information. 
 
+------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
+
 - ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
 
 According to Einstein, "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions."
@@ -343,6 +350,12 @@ Thus, having a hero image from the target audience would be great.
 
 In conclusion, the website was named Fun Gym. 
 
+------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
 
 -   ### USER STORIES
 
