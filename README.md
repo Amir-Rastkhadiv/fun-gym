@@ -855,4 +855,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The web developer community on Slack is also constructive.
 
-# - [TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)-[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)---[Back To Top](#) 
+# - [TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS) 
+# -[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)
+# - [Back To Top ⇧⇧](#) 
