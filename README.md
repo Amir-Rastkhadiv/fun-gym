@@ -211,7 +211,8 @@ The task is to define a project by identifying questions and analyzing each issu
 
 Divide the project into minor problems and concentre on each of them. Analyze your options by determining the pros and cons of each decision. What is the best time not to repeat a procedure? What is your experience? Where can you find resources in your toolkit that might help?
 
-The following are the most questions used in this project at this stage?
+The following are the most questions used in this project at this stage.
+
   Q1)What is this product?  
 
   Q2)   Who are project users? 
@@ -264,7 +265,7 @@ The following are the most questions used in this project at this stage?
 
   Q26)  What is the purpose of using the gym website? Does it offer what I want? 
 
-  Q27)  Why would a user need this? 
+  Q27)  Why would a user need this?  
 
   Q28) What are the benefits of staying and returning? 
 
