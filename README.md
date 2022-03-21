@@ -64,6 +64,9 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
     * [PEN AND PAPER SKETCHES](#PEN-AND-PAPER-SKETCHES)
     * [WIREFRAMES](#WIREFRAMES)
   * [SURFACE PLANE](#SURFACE-PLANE)
+    * [COLOUR  SCHEME](#COLOUR-SCHEME)
+    * [TYPOGRAPHY](#TYPOGRAPHY)
+    * [IMAGERY](#IMAGERY)
 - [USER JOURNEY](#USER-JOURNEY)
 - [FEATURES](#FEATURES)
 - [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
@@ -851,4 +854,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The web developer community on Slack is also constructive.
 
-# -----------------------------------------[Back To Top](#) --------------------
+# - [TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)-[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)---[Back To Top](#) 
