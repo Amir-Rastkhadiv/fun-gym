@@ -66,7 +66,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [SURFACE PLANE](#SURFACE-PLANE)
     * [COLOUR  SCHEME](#COLOUR-SCHEME)
     * [TYPOGRAPHY](#TYPOGRAPHY)
-    * [IMAGERY](#IMAGERY)
+    * [IMAGERY](#)
+
 - [USER JOURNEY](#USER-JOURNEY)
 - [FEATURES](#FEATURES)
 - [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
