@@ -261,7 +261,13 @@ The following are the most questions used in this project at this stage?
 
   Q28) What are the benefits of staying and returning? 
 
--------------------------------------------------------------------    <button> [Back To Top](#) </button>-------------------------------------------------
+------------------------------------------------------------------- 
+
+<button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button> 
+<button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>
+<button>[Back To Top ⇧⇧](#)</button> 
+
+-------------------------------------------------------------------
 
 
 - ### WHAT IS THIS PRODUCT?
@@ -478,6 +484,13 @@ Minimum viable products are early product versions that contain just enough feat
 
 Using this method would be suitable for the page under construction. Performing Initial settings makes it simple to deploy one page, and it'll run the minimum goals responsively, then you can add more pages. Social media integration is then a snap. That's why I implemented it first. The aim is to increase your flexibility while lowering your stiffness with a safety factor by pushing and pulling.   
 
+------------------------------------------------------------------- 
+
+<button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button> 
+<button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>
+<button>[Back To Top ⇧⇧](#)</button> 
+
+-------------------------------------------------------------------
 
 ![Figure 9: Minimum Viable Product(MVP)](./assets/img/figure-9-mvp.png)
 
@@ -627,6 +640,14 @@ Fun Gym uses  Co-existing Hierarchies as it is flexible, customised, and meets c
 Here is a helpful link I found: 
 
 [How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
+
+------------------------------------------------------------------- 
+
+<button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button> 
+<button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>
+<button>[Back To Top ⇧⇧](#)</button> 
+
+-------------------------------------------------------------------
 
 - ### (DESIGN) SKELETON PLANE 
 
