@@ -696,6 +696,18 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
 
 -  ### SURFACE PLANE
 
+The surface plane deals with visual languages like colours, fonts, orders, and sequences in contents. Mainly we are concerned about the readability and the site identity at this stage. You should make sure that your content is legible, that the font contrasts with the background, and that there are consistent patterns.
+
+To design Fun Gym, the developer addressed the following questions: 
+
+- Describe what the final result will appear? 
+- Which colours, typography, and design elements will you use?
+- How can users interact with the design?
+- Which effects will you implement on the site?
+- Where can users click?
+- How will users navigate?
+- Which version of the information will appear on the screen in the end?
+
 ## USER-JOURNEY 
 
 ## FEATURES 
