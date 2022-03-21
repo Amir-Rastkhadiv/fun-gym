@@ -487,7 +487,7 @@ Using this method would be suitable for the page under construction. Performing 
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
 |--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
-|---<button>[Fun Gym Website](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
 
 -------------------------------------------------------------------
 
@@ -643,7 +643,7 @@ Here is a helpful link I found:
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
 |--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
-|---<button>[Fun Gym Website](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
 
 -------------------------------------------------------------------
 
@@ -877,6 +877,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
 |--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
-|---<button>[Fun Gym Website](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
 
 -------------------------------------------------------------------
