@@ -818,6 +818,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Accessibility of social media icons? I found [Saavas](https://savvas.me/accessibility/problem-with-social-icons) website helpful.
 
+- Heading tag structure guides on nomensa [nomensa](https://www.nomensa.com/blog/how-structure-headings-web-accessibility) and the [Code Institute-LMS](https://learn.codeinstitute.net) was impressive.
 
 ## CONTENT
 
