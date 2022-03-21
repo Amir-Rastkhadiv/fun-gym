@@ -485,10 +485,8 @@ Minimum viable products are early product versions that contain just enough feat
 Using this method would be suitable for the page under construction. Performing Initial settings makes it simple to deploy one page, and it'll run the minimum goals responsively, then you can add more pages. Social media integration is then a snap. That's why I implemented it first. The aim is to increase your flexibility while lowering your stiffness with a safety factor by pushing and pulling.   
 
 ------------------------------------------------------------------- 
-
-<button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button> 
-<button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>
-<button>[Back To Top ⇧⇧](#)</button> 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
 
 -------------------------------------------------------------------
 
@@ -642,10 +640,9 @@ Here is a helpful link I found:
 [How to Create Information Architecture for Web Design?](https://www.altexsoft.com/blog/uxdesign/information-architecture/)
 
 ------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
 
-<button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button> | 
-<button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>   |
-<button>[Back To Top ⇧⇧](#)</button> 
 -------------------------------------------------------------------
 
 - ### (DESIGN) SKELETON PLANE 
@@ -875,6 +872,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The web developer community on Slack is also constructive.
 
-# - [TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS) 
 # -[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)
-# - [Back To Top ⇧⇧](#) 
+# - [TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS) 
+# - [Back To Top ⇧⇧⇧](#) 
