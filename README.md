@@ -753,8 +753,6 @@ This summary of colour studies shows how Fun Gym's developer used those benefits
 
 -  Colour Psychology :
 
-
-
    * Red
 
       - Excitement and energy 
@@ -794,6 +792,12 @@ This summary of colour studies shows how Fun Gym's developer used those benefits
       - Dependeble 
       - Professional 
       - Wisdom 
+
+-  Colour Pallete :
+The Colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours.  
+
+
+
 
 
 - ####  TYPOGRAPHY
