@@ -797,22 +797,14 @@ Following our colour psychology section discussed earlier, warm colours like red
 Using warm and cool colours will not result in an aesthetically pleasing design. The solution is to use neutral colours. Colours in this category typically include black, white, grey, and various shades of brown. 
 
 
-
-
 ![Figure 9: Minimum Viable Product(MVP)](./assets/img/fig-11-colour-models.png)
 
 <p align="center">Figure-11</p>
 
 
 
-
-
-
 - ####  TYPOGRAPHY
 - ####  IMAGERY
-
-
-
 
 
 ## USER-JOURNEY 
