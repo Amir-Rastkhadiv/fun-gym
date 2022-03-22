@@ -790,7 +790,13 @@ This summary of colour studies shows how Fun Gym's developer used those benefits
 
 -  Colour Pallete :
 
-The Colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours.  
+The Colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours. The method of the Fun Gym website design includes model C. Indeed, The primary colours in an additive colour model are red, green, and blue (RGB). Also, the designer applied Hex triplets to represent RGB colours in the CSS style sheet.  
+
+Following our colour psychology section discussed earlier, Warm colours like red and yellow create passionate feelings; cool colours like blue and green create reliable and calming moods; neutral colours soften or enhance sophisticated consistencies. In general, primary colours exert powerful visual and psychological effects. 
+
+Using warm and cool colours will not result in an aesthetically pleasing design. The solution is to use neutral colours. Colours in this category typically include black, white, grey, and various shades of brown. 
+
+
 
 
 ![Figure 9: Minimum Viable Product(MVP)](./assets/img/fig-11-colour-models.png)
