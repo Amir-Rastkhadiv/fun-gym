@@ -98,6 +98,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-8](/readme/readme-figures/fig-8-agile-sprints.png)
 * [Figure-9](/readme/readme-figures/fig-9-mvp.png)
 * [Figure-10](/readme/readme-figures/fig-10-infoart.png)
+* [Figure-11](/readme/readme-figures/fig-11-colour-models.png)
+
 
 ---
 ---
