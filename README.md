@@ -794,7 +794,14 @@ This summary of colour studies shows how Fun Gym's developer used those benefits
       - Wisdom 
 
 -  Colour Pallete :
+
 The Colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours.  
+
+
+![Figure 9: Minimum Viable Product(MVP)](./assets/img/fig-11-colour-models.png)
+
+<p align="center">Figure-11</p>
+
 
 
 
