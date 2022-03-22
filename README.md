@@ -769,6 +769,12 @@ This summary of colour studies shows how Fun Gym's developer used those benefits
       - Purity
       - Stability and peace
 
+    *  Green (Website in construction - progress bar)
+
+      - Growth and development
+      - Ratio and balance 
+      - Calmness, coolness and peace 
+
     * Black 
 
       - Classic
