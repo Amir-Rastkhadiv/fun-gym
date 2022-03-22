@@ -745,6 +745,58 @@ To design Fun Gym, the developer addressed the following questions:
 - How will users navigate?
 - Which version of the information will appear on the screen in the end?
 
+- ####  COLOUR SCHEME
+
+Colour improves the aesthetic appeal of a website in more than one way. Colour can also influence and evoke certain kinds of emotions in users. Colour psychology has served as a powerful tool for logo branding and marketing. 
+
+This summary of colour studies shows how Fun Gym's developer used those benefits in the logo and on all of its pages:  
+
+-  Colour Psychology :
+
+
+
+   * Red
+
+      - Excitement and energy 
+      - Youththul
+      - Bold 
+      - Urgency
+
+   *  White
+
+      - Simplicity
+      - Clarity 
+      - Purity
+      - Stability and peace
+
+    * Black 
+
+      - Classic
+      - Elegance and stylish
+      - Powerful 
+
+    * Yellow
+
+      - Feeling of happiness and joy  
+      - Optimissm 
+      - Powerful 
+
+    * Blue 
+    
+      - Reliable 
+      - Trust and Truth 
+      - Dependeble 
+      - Professional 
+      - Wisdom 
+
+
+- ####  TYPOGRAPHY
+- ####  IMAGERY
+
+
+
+
+
 ## USER-JOURNEY 
 
 ## FEATURES 
