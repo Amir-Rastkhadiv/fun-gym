@@ -31,10 +31,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 
 
  
- ## Figure-1
- ---
-
- ---
+#### <p align="center">Figure-1</p> 
 
  
  ## TABLE OF CONTENTS:
@@ -170,14 +167,10 @@ Figure 2 illustrates precisely how the process works.
 
 ![Figure 2: Process For UX Design(https://ozchen.com)](./assets/img/figure-2-uxd.png)
 
----
-##  Figure-2
----
 
-Click [here](https://ozchen.com/5-planes-content-strategy/) 
+#### <p align="center">Figure-2</p> 
 
-
-
+Click [here](https://ozchen.com/5-planes-content-strategy/)
 for more information. 
 
 - ### WHAT IS THE UX SYSTEM IS USED FOR? 
