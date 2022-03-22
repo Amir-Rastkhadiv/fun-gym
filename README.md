@@ -944,7 +944,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The [Wix Blog](https://www.wix.com/blog/2017/03/psychology-design-how-to-use-colors-to-evoke-emotions?utm_source=google&utm_medium=cpc&utm_campaign=13774768257^126077909722&experiment_id=^^531699814064^^_DSA&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi0CLyKO7rFEw643niL79Kw-VvqOSLcNbZHs49RJezKu8Dw1UL-mQPxoCfvIQAvD_BwE) is where the idea for Fun Gym colour psychology came from. 
 
-- Figure-11: A mixture of Screenshots with a few changes in design by the developer from
+- Figure-11: A mixture of screenshots with a few changes in design by the developer from
 [uxcel](https://app.uxcel.com/courses/design-foundations/color-wheel-i-156).
 
 ## CONTENT
