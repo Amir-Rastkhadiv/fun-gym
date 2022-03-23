@@ -950,6 +950,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Figure-11: A mixture of screenshots with a few changes in design by the developer from
 [uxcel](https://app.uxcel.com/courses/design-foundations/color-wheel-i-156).
 
+- For the generation of the colour palette figures, 
+[coolors](http://coolors.co/) was helpful.
+
+
 ## CONTENT
 
 -   All content was written by the developer.
