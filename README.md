@@ -817,7 +817,7 @@ These colour schemes are purposely selected. My mind raced when I was deciding w
 
 In order to create an effective design, typography is crucial. There are multiple factors that influence how users view the text on the web. Users will enjoy reading content if the type is arranged readably. The priority, white space, proximity, and alignment contribute to perceptible ranking, assisting users in navigating and finding the information they seek.
 
-The user can experience with most popular fonts for the gym websites. So, the Fun Gym pages with the Lato and Open Sans fonts from Google Fonts are in the style.css file. Sans Serif is the fall-back option should the import fail. 
+The Fun Gym website has the most popular fonts used on gym websites so users can experience the best possible experience. In this case, the Fun Gym pages with the fonts Lato and Open Sans from Google Fonts are in style.css. Sans Serif is the fall-back option should the import fail. 
 
 - ####  IMAGERY
 
