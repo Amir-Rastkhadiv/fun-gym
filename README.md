@@ -815,6 +815,10 @@ These colour schemes are purposely selected. My mind raced when I was deciding w
 
 - ####  TYPOGRAPHY
 
+In order to create an effective design, typography is crucial. There are multiple factors that influence how users view the text on the web. Users will enjoy reading content if the type is arranged readably. The priority, white space, proximity, and alignment contribute to perceptible ranking, assisting users in navigating and finding the information they seek.
+
+The user can experience with most popular fonts for the gym websites. So, the Fun Gym pages with the Lato and Open Sans fonts from Google Fonts are in the style.css file. Sans Serif is the fall-back option should the import fail. 
+
 - ####  IMAGERY
 
 
@@ -840,7 +844,8 @@ These colour schemes are purposely selected. My mind raced when I was deciding w
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - The developer has styled all project pages with the Lato and Open Sans fonts from Google Fonts in the style.css file. Sans Serif is the fall-back option should the import fail. 
+
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [Git](https://git-scm.com/)
