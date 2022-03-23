@@ -96,6 +96,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-9](/readme/readme-figures/fig-9-mvp.png)
 * [Figure-10](/readme/readme-figures/fig-10-infoart.png)
 * [Figure-11](/readme/readme-figures/fig-11-colour-models.png)
+* [Figure-12](/readme/readme-figures/fig-12-color%20-palette1.png)
+* [Figure-13](/readme/readme-figures/fig-13-color-pallete2.png)
 
 
 ---
