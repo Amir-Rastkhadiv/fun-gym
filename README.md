@@ -803,6 +803,7 @@ Using warm and cool colours will not result in an aesthetically pleasing design.
 
 
 - ####  TYPOGRAPHY
+
 - ####  IMAGERY
 
 
