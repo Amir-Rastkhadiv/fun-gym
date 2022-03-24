@@ -824,10 +824,11 @@ The Fun Gym website has the most popular fonts used on gym websites so users can
 There is an old saying that a picture is worth a thousand words. As a result, the human brain processes visuals 60,000 times faster than text, and people retain 80% of what they see but only 20% of what they do.
 
 There are the following main categories for the project images:
-1) The fun Gym Website images 
-2)  The README document Figures 
-3) Wire Frames 
-4) Photos of test outcomes 
+1) The fun Gym website images 
+2) The README document Figures 
+3) Layouts(Wireframes/Sketches)
+4) Photos of tests' outcomes. 
+ 
 
 
 To create each of those in the Fun Gym project, the designer applied different tools and resources. For further information  to the section below:
