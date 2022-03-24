@@ -940,7 +940,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -  The link in the scope chapter is from the [ReQuest](https://reqtest.com) website. 
 
-- Figure 10 is available on the [altexSoft] website(https://www.altexsoft.com/blog/uxdesign/information-architecture/)
+- Figure 10 is available on the [altexSoft](https://www.altexsoft.com/blog/uxdesign/information-architecture/) website.
 
 - The hero image is from the [pickwizard](https://pikwizard.com/?q=gym+ball) website.
 
