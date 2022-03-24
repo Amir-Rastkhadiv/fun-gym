@@ -828,11 +828,13 @@ There are the following main categories for the project images:
 2) [The README document Figures](#TABLE-OF-FIGURES)
 3) [Layouts(Wireframes/Sketches](#LAYOUTS)
 4) [Photos of tests' outcomes](#TESTING)
+
+PNG (Portable Network Graphics) is the most commonly used image format in the Fun Gym project. Images in PNG can have 16 million colours. However, other forms, such as JPG or JPEG (JPG stands for Joint Photographic Experts Group), icons with appropriate animations, and PDF files, have been utilized. 
  
 To create each of those in the Fun Gym project, the designer applied different tools and resources. For further information, please have a look at the links below:
 
-[TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
-[CREDITS](#CREDITS)
+- [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+- [CREDITS](#CREDITS)
 
 ## USER-JOURNEY 
 
