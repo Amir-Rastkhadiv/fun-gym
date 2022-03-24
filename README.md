@@ -972,7 +972,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - For the generation of the colour palette figures, 
 [coolors](http://coolors.co/) was helpful.
 
-- [ilovewp](https://www.ilovewp.com/resources/wordpress-for-gyms/most-used-google-fonts-on-gym-websites/) served as a reference when choosing the font type.  
+- [ilovewp](https://www.ilovewp.com/resources/wordpress-for-gyms/most-used-google-fonts-on-gym-websites/) served as a reference when choosing the font type.
+
+- An article from [Entrepreneur Middle East](https://www.entrepreneur.com/article/312551) provided relevant data for the text in the imagery section. 
+
 
 ## CONTENT
 
