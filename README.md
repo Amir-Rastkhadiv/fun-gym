@@ -882,7 +882,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### RESULTS OF TESTS
 
-[tests](/tests/)
+Testing information is available in a separate testing
+[file](/tests/testing.md)
 
 ## DEPLOYMENT
 
