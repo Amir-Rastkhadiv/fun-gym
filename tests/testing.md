@@ -32,5 +32,32 @@ To access the other parts of the project, please use the following links:
      - [LIGHTHOUSE ASSESSMENTS](#LIGHTHOUSE-ASSESSMENTS)
      - [OTHERS](OTHERS)
 4. [USER TESTING](#USER-TESTING)
+5. [CREDITS](#CREDITS)
 
 ***
+
+***
+
+## CREDITS
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+- For improving the quality of web pages, the Fun gym developer used the [Lighthouse](https://developers.google.com/web/tools/lighthouse) automated tool. The audit covers performance, accessibility, progressive web apps, SEO, etc.
+
+- The developer evaluated the Fun Gym website with a tool called  [WAVE- WEBAIM](https://wave.webaim.org/waverunner).
+
+- To meet the word limits for GitHub commits, meta tags, and so on, the project designer used [EASYWORDCOUNT](https://easywordcount.com/).
+
+***
+
+-------------------------------------------------------------------
+|--- <button>[TABLE OF CONTENTS ⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧](#)</button>--- |
+|---<button>[Back To Repo ⇧⇧⇧](https://github.com/Amir-Rastkhadiv/fun-gym)</button>---|
+|---<button>[Main README.md file](https://github.com/Amir-Rastkhadiv/fun-gym#readme)</button>---|
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
