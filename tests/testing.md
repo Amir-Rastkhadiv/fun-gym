@@ -18,12 +18,13 @@ To access the other parts of the project, please use the following links:
 
 -------------------------------------------------------------------
 
+
 ***
 
 ## TABLE OF CONTENTS
 
 1. [TESTING USER STORIES](#TESTING-USER-STORIES)
-2. [Manual TESTING](#Manual-TESTING])
+2. [MANUAL TESTING](#Manual-TESTING])
 3. [AUTOMATED TESTING](#AUTOMATED-TESTING) 
      - [CODE  VALIDATION](#CODE-VALIDATION)
      - [BROWSER VALIDATION](#BROWSER-VALIDATION)
