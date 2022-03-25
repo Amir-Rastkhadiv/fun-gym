@@ -877,7 +877,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-- For improving the quality of web pages, the Fun gym developer used the [Lighthouse](https://developers.google.com/web/tools/lighthouse)automated tool. The audit covers performance, accessibility, progressive web apps, SEO, etc.
+- For improving the quality of web pages, the Fun gym developer used the [Lighthouse](https://developers.google.com/web/tools/lighthouse) automated tool. The audit covers performance, accessibility, progressive web apps, SEO, etc.
 
 - The developer evaluated the Fun Gym website with a tool called  [WAVE- WEBAIM](https://wave.webaim.org/waverunner).
 
