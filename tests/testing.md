@@ -68,7 +68,9 @@ To access the other parts of the project, please use the following links:
 
 2. The first impression can be a welcome message, a nice logo, an affable hero image, whatever catches my eye at first glance. It may offer a great deal/discount/features compared to its competitors.
 
+![Figure 2](/tests/testing-readme-figures/testing-user-stories-sc2.jpeg)
 
+#### <p align="center">Figure-2</p> 
 
 3.  First-time visitor, I am looking for a responsive and accesible website providing access to working hours, gym locations, and facilities clasess, by viewing an encouraging photo or content. A memorable experience could motivate me to visit the terms and conditions of membership quickly and easily. 
 
