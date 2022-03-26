@@ -41,7 +41,7 @@ To access the other parts of the project, please use the following links:
 
 ## TABLE OF FIGURES:
 * [Figure-1]()
-* [Figure-2](/tests/testing-readme-figures/testing-user-stories-sc2.png)
+* [Figure-2](./tests/testing-readme-figures/testing-user-stories-sc2.png)
 * [Figure-3]()
 * [Figure-4]()
 * [Figure-5]()
