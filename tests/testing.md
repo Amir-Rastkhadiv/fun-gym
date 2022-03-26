@@ -37,6 +37,24 @@ To access the other parts of the project, please use the following links:
 ***
 
 ***
+## TABLE OF FIGURES:
+* [Figure-1](/readme/readme-figures/fig-1-mock-ups.png)
+* [Figure-2](/readme/readme-figures/fig-2-uxd.png)
+* [Figure-3](/readme/readme-figures/fig-3-ux.png)
+* [Figure-4](/readme/readme-figures/fig-4-uxd-s.png)
+* [Figure-5](/readme/readme-figures/fig-5-strategy-1.png)
+* [Figure-6](/readme/readme-figures/fig-6-strategy-2.png)
+* [Figure-7](/readme/readme-figures/fig-7-startegy-3.png)
+* [Figure-8](/readme/readme-figures/fig-8-agile-sprints.png)
+* [Figure-9](/readme/readme-figures/fig-9-mvp.png)
+* [Figure-10](/readme/readme-figures/fig-10-infoart.png)
+* [Figure-11](/readme/readme-figures/fig-11-colour-models.png)
+* [Figure-12](/readme/readme-figures/fig-12-color%20-palette1.png)
+* [Figure-13](/readme/readme-figures/fig-13-color-pallete2.png)
+
+***
+
+***
 
 ## TESTING USER STORIES
 
@@ -45,6 +63,8 @@ To access the other parts of the project, please use the following links:
 1. If I visit a website, I look for something nearly similar to the market or relevant to the business. Having some uniqueness, though, would be great, as well as something that motivates me to delve deeper into the website. 
 
 2. The first impression can be a welcome message, a nice logo, an affable hero image, whatever catches my eye at first glance. It may offer a great deal/discount/features compared to its competitors.
+
+
 
 3.  First-time visitor, I am looking for a responsive and accesible website providing access to working hours, gym locations, and facilities clasess, by viewing an encouraging photo or content. A memorable experience could motivate me to visit the terms and conditions of membership quickly and easily. 
 
