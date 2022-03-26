@@ -120,6 +120,15 @@ To access the other parts of the project, please use the following links:
 
 For further information I refer you to the <button>[Main README.md file](https://github.com/Amir-Rastkhadiv/fun-gym#readme)</button> figures 5 to 7.
 
+
+-------------------------------------------------------------------
+|--- <button>[TABLE OF CONTENTS](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧](#)</button>--- |
+|---<button>[Back To Repo ⇧⇧](https://github.com/Amir-Rastkhadiv/fun-gym)</button>---|
+|---<button>[Main README.md file](https://github.com/Amir-Rastkhadiv/fun-gym#readme)</button>---|
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
+
 ***
 
 ***
