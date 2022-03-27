@@ -93,6 +93,12 @@ Figures **[3](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)** and
 
 5. For a first-time visitor, I must navigate the site efficiently to find information quickly.
 
+![Figure 6](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)
+
+#### <p align="center">Figure-6</p> 
+
+Similarly figures **[2](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)** and **[5](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)** demonstrate meeting demand.
+
 6. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media. 
 
 7. I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
