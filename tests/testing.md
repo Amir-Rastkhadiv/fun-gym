@@ -85,6 +85,12 @@ To access the other parts of the project, please use the following links:
 
 4. The purpose of a first visit to the site is to learn more about the organization and understand the site purpose.
 
+![Figure 5](/tests/testing-readme-figures/testing-user-stories-sc5.jpeg)
+
+#### <p align="center">Figure-5</p> 
+
+Figures **[3](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)** and **[6](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)** also demonstrate addressing demand.
+
 5. For a first-time visitor, I must navigate the site efficiently to find information quickly.
 
 6. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media. 
