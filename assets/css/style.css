@@ -167,17 +167,10 @@ h1 {
 #club-ethos {
     height: 600px;
     position: relative;
-
 }
 
 #welcome {
     text-align: center;
-}
-
-#welcome-part-2 {
-    position: absolute;
-    right: 38%;
-    bottom: -550px;
 }
 
 #left-about {
@@ -227,9 +220,21 @@ hr {
 
 
 .center-about-heading {
-    width: 90%;
+    position: absolute;
+    width: 38%;
     font-size: 120%;
+    line-height: 20px;
+    letter-spacing: 4px;
+    text-align: center;
+    top: 55%;
+    clear: both;
+    left: 50%;
+    transform: translate(-50%, -10%);
+    -ms-transform: translate(-50%, -40%);
+    padding: 20px 30px;
+
 }
+
 
 /* fun gym high-five image for its five extraordinary exclusive missions */
 
