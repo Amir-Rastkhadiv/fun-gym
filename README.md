@@ -72,6 +72,8 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [FRAMEWORKS,LIBRARIES & PROGRAMS USED](#FRAMEWORKS,-LIBRARIES-&-PROGRAMS-USED)
 - [TESTING](#TESTING)
   * [RESULTS OF TESTS](#RESULTS-OF-TESTS)
+    * ☞ **[testing.md file ](/tests/testing.md).**
+
 - [DEPLOYMENT](#DEPLOYMENT)
   * [GITHUB PAGES](#GITHUB-PAGES)
   * [FORKING THE GITHUB REPOSITORY](#FORKING-THE-GITHUB-REPOSITORY])
