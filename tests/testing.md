@@ -109,6 +109,24 @@ Similarly figures **[2](/tests/testing-readme-figures/testing-user-stories-sc3.j
 
 8. It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends, colleagues, teams  to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
 
+![Figure 7](/tests/testing-readme-figures/testing-user-stories-sc7.jpeg)
+
+#### <p align="center">Figure-7</p> 
+
+As a fair reflection of users' needs, the figure above shows a design for a web page that is both responsive and informative about both the process and social media of the fun gym web under construction. We hope you found it helpful; you may additionally discover the following links useful.
+
+
+-------------------------------------------------------------------
+|--- <button>[TABLE OF CONTENTS](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧](#)</button>--- |
+|---<button>[Back To Repo ⇧⇧](https://github.com/Amir-Rastkhadiv/fun-gym)</button>---|
+|---<button>[Main README.md file](https://github.com/Amir-Rastkhadiv/fun-gym#readme)</button>---|
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
+
+
+
+
 9. As a design team, my goal is to develop a front-end web application that reflects the principles of usability, accessibility, and responsiveness-a structured website with the main navigation menu. I am also anticipating three to more pages. As a design team first visitor, I hope the page shows photos/ logo featuring fun, hours, or gym schedule. It would be great if it sounded like a real-world project. The learner has documented a detailed rationale for the real-world application and provided an in-depth description of the project’s execution.
 
 10. I am an investor interested in learning who owns FUN GYM.
