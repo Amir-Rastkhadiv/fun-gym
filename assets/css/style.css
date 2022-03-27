@@ -173,6 +173,15 @@ h1 {
     text-align: center;
 }
 
+#welcome-part-2 {
+    margin: auto;
+    padding: 30px 0;
+    margin-top: -30px;
+    text-align: center;
+}
+
+
+
 #left-about {
     padding-top: 30px;
     width: 33%;
@@ -661,7 +670,7 @@ a {
 #welcome-part-2 {
     position: absolute;
     right: 38%;
-    bottom: -490px;
+    bottom: px;
 }
 
 /* Form */
