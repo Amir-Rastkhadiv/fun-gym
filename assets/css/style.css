@@ -495,31 +495,6 @@ h5 {
 
 }
 
-#fungym-copyights-col {
-
-    font-family: 'Open Sans', sans-serif;
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    color: #e10a0a;
-    font-weight: 400;
-    font-size: 14px;
-    margin-top: 6px;
-    line-height: 35px;
-    position: absolute;
-    left: 10%;
-    width: 600px;
-    height: 170px;
-    padding-top: 40px;
-    padding-left: 10px;
-    padding-right: 50px;
-    left: 60%;
-    top: 70%;
-    right: 100px;
-    top: 60%;
-    position: absolute;
-
-}
-
 #flag {
     position: absolute;
     top: 70%;
