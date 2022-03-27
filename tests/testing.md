@@ -105,6 +105,8 @@ In figures **[5](/tests/testing-readme-figures/testing-user-stories-sc5.jpeg)** 
 
 7. I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
 
+In figures **[5](/tests/testing-readme-figures/testing-user-stories-sc5.jpeg)** and **[6](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)**,  we see that demand is satisfied.
+
 8. It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends, colleagues, teams  to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
 
 9. It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends, colleagues, teams  to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
