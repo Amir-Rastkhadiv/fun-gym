@@ -42,7 +42,7 @@ To access the other parts of the project, please use the following links:
 ## TABLE OF FIGURES:
 * [Figure-1]()
 * [Figure-2](/tests/testing-readme-figures/testing-user-stories-sc2.jpeg)
-* [Figure-3]()
+* [Figure 3](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)
 * [Figure-4]()
 * [Figure-5]()
 * [Figure-6]()
@@ -73,6 +73,8 @@ To access the other parts of the project, please use the following links:
 #### <p align="center">Figure-2</p> 
 
 3.  First-time visitor, I am looking for a responsive and accesible website providing access to working hours, gym locations, and facilities clasess, by viewing an encouraging photo or content. A memorable experience could motivate me to visit the terms and conditions of membership quickly and easily. 
+
+![Figure 3](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)
 
 4. The purpose of a first visit to the site is to learn more about the organization and understand the site purpose.
 
