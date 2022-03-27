@@ -101,6 +101,8 @@ Similarly figures **[2](/tests/testing-readme-figures/testing-user-stories-sc3.j
 
 6. To determine whether a company is reputable, I always look for testimonials when I visit their website for the first time. Also, I want to find their social media links to see how well-known and trusted they are on social media. 
 
+In figures **[5](/tests/testing-readme-figures/testing-user-stories-sc5.jpeg)** and **[6](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)**,  we see that demand is satisfied.
+
 7. I am also looking for a FAQ page. In my opinion, it shows the business's responsibility to assist first-time visitors in learning about the company and feel confident about it. The most valuable service is to answer visitors' common questions outside of working hours. The page wins both ways.  
 
 8. It is important to me to be enthusiastic enough to share it with my community and inform them about it or ask their opinion if they are already aware of it. It may make it easy for me and my family-friends, colleagues, teams  to switch to it and have [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/) all together. 
