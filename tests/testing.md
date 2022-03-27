@@ -46,7 +46,7 @@ To access the other parts of the project, please use the following links:
 * [Figure 4](/tests/testing-readme-figures/testing-user-stories-sc4.jpeg)
 * [Figure-5](/tests/testing-readme-figures/testing-user-stories-sc5.jpeg)
 * [Figure-6](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)
-* [Figure-7]()
+* [Figure-7](/tests/testing-readme-figures/testing-user-stories-sc7.jpeg)
 * [Figure-8]()
 * [Figure-9]()
 * [Figure-10]()
