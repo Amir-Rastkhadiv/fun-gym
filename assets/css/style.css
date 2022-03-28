@@ -809,41 +809,126 @@ h5 {
 }
 
 /* For medium screens sizes from 820px wide and down */
+@media screen and (max-width: 820px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
 
 /* For medium screens sizes from 768px wide and down */
 
-@media only screen and (max-width: 768px) {
-
-    /* For mobile phones: */
-    [class*="col-"] {
+@media screen and (max-width: 768px) {
+    #hero-image {
+        height: 600;
         width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
     }
 }
 
 
+
+
 /* For medium screens sizes from 600px wide and down */
 
+@media screen and (max-width: 600px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
 
 /* For medium screens sizes from 540px wide and down */
 
+@media screen and (max-width: 540px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
 /* For medium screens sizes from 480px wide and down */
 
 
+@media screen and (max-width: 480px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
+
 
 
 
 
 /* For medium screens sizes from 400px wide and down */
+@media screen and (max-width: 400px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
 
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
@@ -853,21 +938,62 @@ h5 {
 /* For medium screens sizes from 360px wide and down */
 
 
+@media screen and (max-width: 360px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
 
 
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
 
 /* For medium screens sizes from 320px wide and down */
 
+@media screen and (max-width: 320px) {
+    #hero-image {
+        height: 600;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
 
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
 /* For medium screens sizes from 280px wide and down */
 
+@media screen and (max-width: 280px) {
+    #hero-image {
+        height: 50%;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
 
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+}
 
 
 
