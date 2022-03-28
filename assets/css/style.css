@@ -473,18 +473,20 @@ h4 {
 /* copy rights and the country-flag */
 
 h5 {
-    height: 150px;
+    height: 100px;
     width: 100%;
     background: url("../img/uk-flag.png") no-repeat;
     overflow: hidden;
+    background-size: 90px 60px;
 }
+
 
 .copy-rights {
 
     font-family: 'Open Sans', sans-serif;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     text-transform: uppercase;
-    margin-left: 30px;
+    margin-left: 5px;
     color: #fafafa;
     font-weight: 400;
     font-size: 14px;
@@ -492,21 +494,29 @@ h5 {
     line-height: 35px;
     position: relative;
     float: left;
-
 }
 
 #flag {
+
     position: absolute;
     top: 70%;
     left: 48%;
     transform: translate(-50%, -70%);
     -ms-transform: translate(-30%, -50%);
-    margin-right: 50px;
     margin-left: 10%;
-    padding-left: 70px;
+    padding-left: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
+    border-image-width: 20%;
+    padding-bottom: 50px;
+}
+
+
+
+.uk-flag {
+    background-position: left;
+    background-position-y: bottom;
 }
 
 /* Adjust the colour contrast for accessibility */
