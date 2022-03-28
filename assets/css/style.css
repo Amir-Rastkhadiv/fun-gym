@@ -667,9 +667,9 @@ h5 {
 }
 
 
-/* For large to medium screens sizes from 1200px wide and down */
+/* For large to medium screens sizes from 1280px wide and down */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1280px) {
     #club-ethos {
         width: 65%;
         height: 1200px;
@@ -808,6 +808,11 @@ h5 {
     bottom: px;
 }
 
+/* For medium screens sizes from 820px wide and down */
+
+
+
+
 /* For medium screens sizes from 768px wide and down */
 
 @media only screen and (max-width: 768px) {
@@ -825,6 +830,15 @@ h5 {
 
 
 
+/* For medium screens sizes from 540px wide and down */
+
+
+
+
+/* For medium screens sizes from 480px wide and down */
+
+
+
 
 
 
@@ -836,10 +850,22 @@ h5 {
 
 
 
+/* For medium screens sizes from 360px wide and down */
+
+
+
+
+
 
 
 
 /* For medium screens sizes from 320px wide and down */
+
+
+
+
+
+/* For medium screens sizes from 280px wide and down */
 
 
 
