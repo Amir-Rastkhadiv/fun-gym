@@ -418,6 +418,14 @@ footer {
     position: relative;
 }
 
+#welcome-footer {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #e1be0af0;
+    text-align: center;
+}
+
 h4 {
     margin-left: 30px;
 }
@@ -517,14 +525,11 @@ h5 {
     background-position-y: bottom;
 }
 
+
 /* Adjust the colour contrast for accessibility */
 
 /* download icon - checked with google dev tool*/
 
-a {
-    color: #f4fce3;
-    text-decoration: none;
-}
 
 /* back to top, Wave verified that*/
 #btt-colour {
