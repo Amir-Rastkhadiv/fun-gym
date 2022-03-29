@@ -1309,7 +1309,7 @@ h5 {
 
     #icon-bar {
         font-size: 60%;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
         text-transform: uppercase;
     }
 
@@ -1331,14 +1331,14 @@ h5 {
     #icon-bar li {
         float: right;
         list-style-type: none;
-        margin-left: 7px;
+        margin-left: 5px;
     }
 
     /* hero image */
 
     #hero-image {
         height: 50%;
-        width: 95%;
+        width: 85%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
 
