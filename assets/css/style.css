@@ -757,12 +757,146 @@ h5 {
 /* For large to medium screens sizes from 1024px wide and down */
 
 
+@media screen and (max-width: 1024px) {
+
+
+    @media screen and (max-width: 950px) {
+
+        #icon-bar {
+            clear: left;
+            float: left;
+            margin-bottom: 20px;
+            line-height: 25px;
+            margin-left: 30px;
+        }
+
+        #icon-bar {
+            font-size: 130%;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+        }
+
+        #logo,
+        #icon-bar {
+            line-height: 50px;
+            margin: 0px;
+            clear: both;
+        }
+
+        #logo {
+            clear: both;
+            float: left;
+            font-size: 280%;
+            margin-left: 30px;
+        }
+
+        #icon-bar li {
+            float: right;
+            list-style-type: none;
+            margin-left: 40px;
+        }
+
+        /* hero image */
+
+        #hero-image {
+            height: 100%;
+            width: 100%;
+            background: url("../img/fungym-hero.png") no-repeat center center;
+
+
+            /* Animates zoom effect on loading the page */
+
+            animation-name: hero-zoom;
+            animation-duration: 5s;
+            animation-fill-mode: forwards;
+        }
+    }
+
+    #club-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin-top: 0;
+    }
+
+    #left-about,
+    #right-about {
+        width: 100%;
+        padding: 0;
+    }
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+        height: 50%;
+    }
+
+
+    .left-about-heading {
+        float: right;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
+
+    .right-about-heading {
+        float: left;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        letter-spacing: 2px;
+        font-size: 120%;
+    }
 
 
 
+    #part-1 div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+        border-style: solid;
+        border-bottom-width: 1px;
 
+
+    }
+
+    #part-2 div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    #part-3 div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    #map {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
 
 /* For medium screens sizes from 950px wide and down */
+
 @media screen and (max-width: 950px) {
 
     #icon-bar {
@@ -770,52 +904,42 @@ h5 {
         float: left;
         margin-bottom: 20px;
         line-height: 25px;
+        margin-left: 30px;
     }
 
-    #cover-text {
-        left: 0px;
+    #icon-bar {
+        font-size: 130%;
+        letter-spacing: 6px;
+        text-transform: uppercase;
     }
 
-    #club-ethos {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
+    #logo,
+    #icon-bar {
+        line-height: 50px;
+        margin: 0px;
+        clear: both;
     }
 
-    .left-about-heading,
-    .right-about-heading {
-        width: inherit;
+    #logo {
+        clear: both;
+        float: left;
+        font-size: 280%;
+        margin-left: 30px;
     }
 
-    .left-about-heading h2,
-    .right-about-heading h2 {
-        width: 100%;
-        text-align: center;
+    #icon-bar li {
+        float: right;
+        list-style-type: none;
+        margin-left: 40px;
     }
 
-    .left-about-heading p,
-    .right-about-heading p {
-        text-align: center;
-        padding: 0 20px 0 20px;
-    }
+    /* hero image */
 
-
-}
-
-#welcome-part-2 {
-    position: absolute;
-    right: 38%;
-    bottom: px;
-}
-
-/* For medium screens sizes from 820px wide and down */
-@media screen and (max-width: 820px) {
     #hero-image {
-        height: 600;
-        width: 100%;
+        height: 90%;
+        width: 95%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
-
 
         /* Animates zoom effect on loading the page */
 
@@ -826,10 +950,63 @@ h5 {
 }
 
 
+/* For medium screens sizes from 820px wide and down */
 
+@media screen and (max-width: 820px) {
+
+
+    #icon-bar {
+        clear: left;
+        float: left;
+        margin-bottom: 20px;
+        line-height: 25px;
+        margin-left: 30px;
+    }
+
+    #icon-bar {
+        font-size: 130%;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+    }
+
+    #logo,
+    #icon-bar {
+        line-height: 50px;
+        margin: 0px;
+        clear: both;
+    }
+
+    #logo {
+        clear: both;
+        float: left;
+        font-size: 280%;
+        margin-left: 30px;
+    }
+
+    #icon-bar li {
+        float: right;
+        list-style-type: none;
+        margin-left: 40px;
+    }
+
+    /* hero image */
+
+    #hero-image {
+        height: 90%;
+        width: 95%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+
+}
 
 /* For medium screens sizes from 768px wide and down */
-
 
 @media screen and (max-width: 768px) {
 
@@ -884,14 +1061,7 @@ h5 {
         animation-fill-mode: forwards;
     }
 
-
-
 }
-
-
-
-
-
 
 
 /* For medium screens sizes from 600px wide and down */
@@ -952,52 +1122,51 @@ h5 {
 
 }
 
-
-
-
 /* For medium screens sizes from 540px wide and down */
 
 @media screen and (max-width: 540px) {
+
+
     /* navigation links */
 
+
     #icon-bar {
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin-left: 30px;
+        margin-bottom: 2px;
+        line-height: 50px;
+        margin-left: 10px;
     }
 
     #icon-bar {
-        font-size: 130%;
-        letter-spacing: 6px;
+        font-size: 100%;
+        letter-spacing: 4px;
         text-transform: uppercase;
     }
 
     #logo,
     #icon-bar {
-        line-height: 50px;
+        line-height: 40px;
         margin: 0px;
         clear: both;
+
     }
 
     #logo {
         clear: both;
         float: left;
-        font-size: 280%;
-        margin-left: 30px;
+        font-size: 180%;
+        margin-left: 15px;
     }
 
     #icon-bar li {
-        float: right;
+        float: left;
         list-style-type: none;
-        margin-left: 40px;
+        margin-left: 15px;
     }
 
     /* hero image */
 
     #hero-image {
-        height: 90%;
+        height: 50%;
         width: 95%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
@@ -1009,56 +1178,53 @@ h5 {
         animation-fill-mode: forwards;
     }
 
-
-
 }
-
 
 
 /* For medium screens sizes from 480px wide and down */
 
 
 @media screen and (max-width: 480px) {
+
     /* navigation links */
 
     #icon-bar {
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin-left: 30px;
+        margin-bottom: 2px;
+        line-height: 50px;
+        margin-left: 10px;
     }
 
     #icon-bar {
-        font-size: 130%;
-        letter-spacing: 6px;
+        font-size: 85%;
+        letter-spacing: 2px;
         text-transform: uppercase;
     }
 
     #logo,
     #icon-bar {
-        line-height: 50px;
+        line-height: 40px;
         margin: 0px;
         clear: both;
+
     }
 
     #logo {
         clear: both;
         float: left;
-        font-size: 280%;
-        margin-left: 30px;
+        font-size: 180%;
+        margin-left: 10px;
     }
 
     #icon-bar li {
-        float: right;
+        float: left;
         list-style-type: none;
-        margin-left: 40px;
+        margin-left: 2px;
     }
 
     /* hero image */
 
     #hero-image {
-        height: 90%;
+        height: 50%;
         width: 95%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
@@ -1069,8 +1235,6 @@ h5 {
         animation-duration: 5s;
         animation-fill-mode: forwards;
     }
-
-
 
 }
 
@@ -1134,10 +1298,6 @@ h5 {
 }
 
 
-
-
-
-
 /* For medium screens sizes from 360px wide and down */
 
 
@@ -1176,7 +1336,7 @@ h5 {
     #icon-bar li {
         float: left;
         list-style-type: none;
-        margin-left: 2px;
+        margin-left: 10px;
     }
 
     /* hero image */
@@ -1197,7 +1357,6 @@ h5 {
 
 
 }
-
 
 
 /* For medium screens sizes from 320px wide and down */
@@ -1210,7 +1369,7 @@ h5 {
     #icon-bar {
         margin-bottom: 2px;
         line-height: 50px;
-        margin-left: 10px;
+        margin-left: 20px;
     }
 
     #icon-bar {
@@ -1231,13 +1390,13 @@ h5 {
         clear: both;
         float: left;
         font-size: 180%;
-        margin-left: 10px;
+        margin-left: 20px;
     }
 
     #icon-bar li {
         float: left;
         list-style-type: none;
-        margin-left: 2px;
+        margin-left: 20px;
     }
 
     /* hero image */
@@ -1256,70 +1415,6 @@ h5 {
     }
 
 
-
 }
-
-
-
-
-
-/* For medium screens sizes from 280px wide and down */
-
-@media screen and (max-width: 280px) {
-    /* navigation links */
-
-    /* navigation links */
-
-    #icon-bar {
-        margin-bottom: 2px;
-        line-height: 50px;
-        margin-left: 10px;
-    }
-
-    #icon-bar {
-        font-size: 85%;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-    }
-
-    #logo,
-    #icon-bar {
-        line-height: 40px;
-        margin: 0px;
-        clear: both;
-
-    }
-
-    #logo {
-        clear: both;
-        float: left;
-        font-size: 180%;
-        margin-left: 10px;
-    }
-
-    #icon-bar li {
-        float: left;
-        list-style-type: none;
-        margin-left: 2px;
-    }
-
-    /* hero image */
-
-    #hero-image {
-        height: 50%;
-        width: 95%;
-        background: url("../img/fungym-hero.png") no-repeat center center;
-        background-size: contain;
-
-        /* Animates zoom effect on loading the page */
-
-        animation-name: hero-zoom;
-        animation-duration: 5s;
-        animation-fill-mode: forwards;
-    }
-
-}
-
-
 
 /* -----------------------------------------------------------------Contact Form */
