@@ -1539,7 +1539,7 @@ h5 {
 
     #logo,
     #icon-bar {
-        line-height: 30px;
+        line-height: 40px;
         margin: 0px;
         clear: both;
 
@@ -1555,14 +1555,14 @@ h5 {
     #icon-bar li {
         float: left;
         list-style-type: none;
-        margin-left: 5px;
+        margin-left: 2px;
     }
 
     /* hero image */
 
     #hero-image {
         height: 50%;
-        width: 85%;
+        width: 95%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
 
@@ -1572,6 +1572,7 @@ h5 {
         animation-duration: 5s;
         animation-fill-mode: forwards;
     }
+
 
     #cover-text,
     #cover-text h2 {
@@ -1608,14 +1609,13 @@ h5 {
         -ms-transform: translate(-50%, -40%);
         background-color: #333333;
         color: #e1dc0a;
-        font-size: 35%;
+        font-size: 40%;
         text-transform: uppercase;
         padding: 10px 30px;
         border: none;
         cursor: pointer;
         border-radius: 20px;
-        letter-spacing: 1px;
-        width: 90%;
+        width: 80%;
         text-align: center;
 
     }
