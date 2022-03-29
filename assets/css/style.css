@@ -1443,13 +1443,10 @@ h5 {
     /* hero image */
 
     #hero-image {
-        height: 95%;
-        width: 100%;
-        background: url("../img/fungym-hero.png") no-repeat center center;
+        height: 50%;
+        /* width: 85%; */
+        background: url(../img/fungym-hero.png) no-repeat center center;
         background-size: contain;
-
-        /* Animates zoom effect on loading the page */
-
         animation-name: hero-zoom;
         animation-duration: 5s;
         animation-fill-mode: forwards;
