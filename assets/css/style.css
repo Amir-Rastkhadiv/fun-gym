@@ -1404,6 +1404,115 @@ h5 {
 
 }
 
+/* For medium screens sizes from 414px wide and down */
+
+@media screen and (max-width: 414px) {
+
+    /* navigation links */
+
+    #icon-bar {
+        margin-bottom: 2px;
+        line-height: 20px;
+        margin-left: 10px;
+    }
+
+    #icon-bar {
+        font-size: 80%;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    #logo,
+    #icon-bar {
+        line-height: 40px;
+        margin: 0px;
+        clear: both;
+
+    }
+
+    #logo {
+        clear: both;
+        float: left;
+        font-size: 180%;
+        margin-left: 10px;
+    }
+
+    #icon-bar li {
+        float: left;
+        list-style-type: none;
+        margin-left: 5px;
+    }
+
+    /* hero image */
+
+    #hero-image {
+        height: 70%;
+        width: 100%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+
+
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 10px;
+        text-align: center;
+
+    }
+
+    #cover-text {
+        font-size: 12px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 30%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 40%;
+        text-transform: uppercase;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        width: 80%;
+        text-align: center;
+
+    }
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
+    }
+
+}
+
 /* For medium screens sizes from 400px wide and down */
 
 @media screen and (max-width: 400px) {
