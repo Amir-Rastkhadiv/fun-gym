@@ -1326,7 +1326,7 @@ h5 {
     }
 
     #icon-bar li {
-        float: left;
+        float: right;
         list-style-type: none;
         margin-left: 2px;
     }
@@ -1435,7 +1435,7 @@ h5 {
     }
 
     #icon-bar li {
-        float: left;
+        float: right;
         list-style-type: none;
         margin-left: 5px;
     }
@@ -1467,12 +1467,12 @@ h5 {
     }
 
     #cover-text {
-        font-size: 12px;
+        font-size: 14px;
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        letter-spacing: 2px;
+        letter-spacing: 3px;
         width: 55%;
-        height: 30%;
+        height: 20%;
         padding-top: 20px;
         padding-left: 10px;
         background-color: #dd7474a6;
@@ -1492,13 +1492,13 @@ h5 {
         -ms-transform: translate(-50%, -40%);
         background-color: #333333;
         color: #e1dc0a;
-        font-size: 40%;
+        font-size: 30%;
         text-transform: uppercase;
         padding: 10px 30px;
         border: none;
         cursor: pointer;
         border-radius: 20px;
-        width: 80%;
+        width: 70%;
         text-align: center;
 
     }
@@ -1661,22 +1661,15 @@ h5 {
     }
 
     #left-about {
-        padding-top: 30px;
-        width: 33%;
-        float: left;
+        width: inherit;
     }
 
     #right-about {
-        padding-top: 30px;
-        width: 33%;
-        float: right;
+        width: inherit
     }
 
     #center-about {
-        width: 33%;
-        margin: 0 auto;
-        float: left;
-        height: 100%;
+        width: inherit;
     }
 
     hr {
