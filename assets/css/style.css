@@ -1069,64 +1069,6 @@ h5 {
 @media screen and (max-width: 600px) {
     /* navigation links */
 
-    #icon-bar {
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin-left: 30px;
-    }
-
-    #icon-bar {
-        font-size: 130%;
-        letter-spacing: 6px;
-        text-transform: uppercase;
-    }
-
-    #logo,
-    #icon-bar {
-        line-height: 50px;
-        margin: 0px;
-        clear: both;
-    }
-
-    #logo {
-        clear: both;
-        float: left;
-        font-size: 280%;
-        margin-left: 30px;
-    }
-
-    #icon-bar li {
-        float: right;
-        list-style-type: none;
-        margin-left: 40px;
-    }
-
-    /* hero image */
-
-    #hero-image {
-        height: 90%;
-        width: 95%;
-        background: url("../img/fungym-hero.png") no-repeat center center;
-        background-size: contain;
-
-        /* Animates zoom effect on loading the page */
-
-        animation-name: hero-zoom;
-        animation-duration: 5s;
-        animation-fill-mode: forwards;
-    }
-
-
-
-}
-
-/* For medium screens sizes from 540px wide and down */
-
-@media screen and (max-width: 540px) {
-
-
     /* navigation links */
 
 
@@ -1137,8 +1079,8 @@ h5 {
     }
 
     #icon-bar {
-        font-size: 100%;
-        letter-spacing: 4px;
+        font-size: 90%;
+        letter-spacing: 2px;
         text-transform: uppercase;
     }
 
@@ -1158,15 +1100,131 @@ h5 {
     }
 
     #icon-bar li {
-        float: left;
+        float: right;
         list-style-type: none;
         margin-left: 15px;
+        font-size: 110%;
     }
 
     /* hero image */
 
     #hero-image {
-        height: 50%;
+        height: 55%;
+        width: 80%;
+        background: url("../img/fungym-hero.png") no-repeat center center;
+        background-size: contain;
+
+        /* Animates zoom effect on loading the page */
+
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 10px;
+        text-align: center;
+
+
+
+    }
+
+    #cover-text {
+        font-size: 9px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 35%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 40%;
+        text-transform: uppercase;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        width: 80%;
+        text-align: center;
+
+
+
+    }
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
+    }
+
+}
+
+/* For medium screens sizes from 540px wide and down */
+
+@media screen and (max-width: 540px) {
+
+
+    /* navigation links */
+
+
+    #icon-bar {
+        margin-bottom: 2px;
+        line-height: 50px;
+        margin-left: 10px;
+    }
+
+    #icon-bar {
+        font-size: 110%;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+    }
+
+    #logo,
+    #icon-bar {
+        line-height: 40px;
+        margin: 0px;
+        clear: both;
+
+    }
+
+    #logo {
+        clear: both;
+        float: left;
+        font-size: 200%;
+        margin-left: 15px;
+    }
+
+    #icon-bar li {
+        float: right;
+        list-style-type: none;
+        margin-left: 15px;
+        font-size: 110%;
+    }
+
+    /* hero image */
+
+    #hero-image {
+        height: 60%;
         width: 95%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
@@ -1176,6 +1234,61 @@ h5 {
         animation-name: hero-zoom;
         animation-duration: 5s;
         animation-fill-mode: forwards;
+    }
+
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 15px;
+        text-align: center;
+
+
+
+    }
+
+    #cover-text {
+        font-size: 9px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 35%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 50%;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        width: 70%;
+        text-align: center;
+
+    }
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
     }
 
 }
@@ -1195,7 +1308,7 @@ h5 {
     }
 
     #icon-bar {
-        font-size: 85%;
+        font-size: 90%;
         letter-spacing: 2px;
         text-transform: uppercase;
     }
@@ -1216,9 +1329,9 @@ h5 {
     }
 
     #icon-bar li {
-        float: left;
+        float: right;
         list-style-type: none;
-        margin-left: 2px;
+        margin-left: 7px;
     }
 
     /* hero image */
@@ -1234,6 +1347,63 @@ h5 {
         animation-name: hero-zoom;
         animation-duration: 5s;
         animation-fill-mode: forwards;
+    }
+
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 10px;
+        text-align: center;
+
+
+
+    }
+
+    #cover-text {
+        font-size: 9px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 35%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 40%;
+        text-transform: uppercase;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        width: 80%;
+        text-align: center;
+
+
+
+    }
+
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
     }
 
 }
@@ -1294,36 +1464,91 @@ h5 {
     }
 
 
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 10px;
+        text-align: center;
+
+    }
+
+    #cover-text {
+        font-size: 9px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 35%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 40%;
+        text-transform: uppercase;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        width: 80%;
+        text-align: center;
+
+    }
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
+    }
 
 }
 
 
 /* For medium screens sizes from 360px wide and down */
 
-
 @media screen and (max-width: 360px) {
-    /* navigation links */
 
     /* navigation links */
 
     #icon-bar {
         margin-bottom: 2px;
-        line-height: 50px;
+        line-height: 40px;
         margin-left: 10px;
     }
 
     #icon-bar {
-        font-size: 85%;
+        font-size: 70%;
         letter-spacing: 2px;
         text-transform: uppercase;
     }
 
     #logo,
     #icon-bar {
-        line-height: 40px;
+        line-height: 30px;
         margin: 0px;
         clear: both;
 
+    }
+
+    #icon-bar {
+        font-size: 70%;
+        letter-spacing: 2px;
+        text-transform: uppercase;
     }
 
     #logo {
@@ -1336,7 +1561,7 @@ h5 {
     #icon-bar li {
         float: left;
         list-style-type: none;
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
     /* hero image */
@@ -1354,7 +1579,58 @@ h5 {
         animation-fill-mode: forwards;
     }
 
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 10px;
+        text-align: center;
 
+    }
+
+    #cover-text {
+        font-size: 9px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 35%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 35%;
+        text-transform: uppercase;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        letter-spacing: 1px;
+        width: 90%;
+        text-align: center;
+
+    }
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
+    }
 
 }
 
@@ -1363,13 +1639,12 @@ h5 {
 
 @media screen and (max-width: 320px) {
 
-
     /* navigation links */
 
     #icon-bar {
-        margin-bottom: 2px;
+        margin-bottom: 3px;
         line-height: 50px;
-        margin-left: 20px;
+        margin-left: 25px;
     }
 
     #icon-bar {
@@ -1394,9 +1669,9 @@ h5 {
     }
 
     #icon-bar li {
-        float: left;
+        float: right;
         list-style-type: none;
-        margin-left: 20px;
+        margin-left: 30px;
     }
 
     /* hero image */
@@ -1414,7 +1689,66 @@ h5 {
         animation-fill-mode: forwards;
     }
 
+    #cover-text,
+    #cover-text h2 {
+        color: #fafafa;
+        letter-spacing: 1px;
+        font-size: 10px;
+        text-align: center;
+
+
+
+    }
+
+    #cover-text {
+        font-size: 9px;
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 55%;
+        height: 35%;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: #dd7474a6;
+        right: 200px;
+        top: 50%;
+        position: absolute;
+
+    }
+
+    /* Creates the button  on text image for join now */
+
+    .btn {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #e1dc0a;
+        font-size: 40%;
+        text-transform: uppercase;
+        padding: 10px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        width: 80%;
+        text-align: center;
+
+
+
+    }
+
+
+    .btn:hover {
+        background-color: #e10a0a;
+
+        color: #fafafa;
+    }
 
 }
+
+
+
 
 /* -----------------------------------------------------------------Contact Form */
