@@ -1772,7 +1772,7 @@ h5 {
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 1450px;
+        height: 1410px;
         width: 95%;
         background-size: 40%;
         background-position: 59%;
@@ -1828,7 +1828,7 @@ h5 {
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 3500px;
+        height: 3410px;
         width: 100%;
         background-repeat: no-repeat;
         background-size: 90%;
@@ -1877,49 +1877,73 @@ h5 {
         text-align: center;
     }
 
+    #part-3 {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 6030px;
+        width: 100%;
+        background-image: url("../img/fungym-map.png");
+        background-repeat: no-repeat;
+        background-size: 70%;
+        background-position: 59%;
+        overflow: hidden;
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 90%;
+        background-position: 59%;
+        overflow: hidden;
+        position: absolute;
+    }
 
-
-
-
-
-
-
+    .part-4 {
+        position: absolute;
+        text-align: center;
+        font-size: 150%;
+        letter-spacing: 4px;
+        clear: both;
+        width: 100%;
+        line-height: 23800%;
+        clear: both;
+        margin-bottom: 5px;
+        padding: 90%;
+    }
 
     #part-3 div {
-
-        display: none;
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .65);
-        width: 50%;
+        background-color: rgba(0, 0, 0, .15);
         height: 300px;
         float: left;
         padding: 30px 0 0 10px;
         text-align: center;
         border: 2px solid white;
         box-sizing: border-box;
-        position: relative;
+        clear: both;
     }
 
     #part-3 h2 {
-        display: none;
+        font-size: 150%;
+        text-align: center;
         color: #fafafa;
+    }
+
+    #part-3 h3 {
+        font-size: 130%;
+        text-align: center;
+    }
+
+    .map-only {
+        display: none;
     }
 
     #map {
         display: none;
-        background-image: url("../img/fungym-map.png");
-        background-repeat: no-repeat;
-        background-size: 100%;
-        background-position: 100%;
-        width: 100%;
-        overflow: hidden;
-    }
-
-    #map {
-        display: none;
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .65);
-        width: 100%;
+        background-color: rgba(0, 0, 0, .005);
+        width: 80%;
         height: 250px;
         float: right;
         padding: 30px 0 0 30px;
