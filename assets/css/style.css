@@ -1515,6 +1515,11 @@ h5 {
 
     /* navigation links */
 
+
+    html {
+        overflow-x: hidden;
+    }
+
     #icon-bar {
         margin-bottom: 2px;
         line-height: 40px;
