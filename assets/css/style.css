@@ -1772,13 +1772,12 @@ h5 {
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 1500px;
+        height: 1450px;
         width: 95%;
-        background-image: url("../img/fungym-part-1.png");
-        background-repeat: no-repeat;
         background-size: 40%;
-        background-position: 40%;
+        background-position: 59%;
         overflow: hidden;
+        backface-visibility: hidden;
         position: reletaive;
         position: absolute;
         right: 5%;
@@ -1789,7 +1788,7 @@ h5 {
         color: #fafafa;
         background-color: rgba(0, 0, 0, .4);
         width: 50%;
-        height: 400px;
+        height: 300px;
         padding: 30px 0 0 10px;
         text-align: center;
         border: 2px solid white;
@@ -1801,6 +1800,12 @@ h5 {
 
     #part-1 h2 {
         font-size: 150%;
+        text-align: center;
+    }
+
+    #part-1 h3 {
+        font-size: 150%;
+        text-align: center;
     }
 
 
