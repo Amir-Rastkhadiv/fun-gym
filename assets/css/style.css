@@ -1524,7 +1524,7 @@ h5 {
     }
 
     #icon-bar {
-        font-size: 60%;
+        font-size: 85%;
         letter-spacing: 2px;
         text-transform: uppercase;
     }
@@ -1540,7 +1540,7 @@ h5 {
     #logo {
         clear: both;
         float: left;
-        font-size: 180%;
+        font-size: 220%;
         margin-left: 10px;
     }
 
@@ -1574,7 +1574,7 @@ h5 {
     #cover-text h2 {
         color: #fafafa;
         letter-spacing: 1px;
-        font-size: 10px;
+        font-size: 14px;
         text-align: center;
 
     }
@@ -1584,7 +1584,7 @@ h5 {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
-        width: 55%;
+        width: 70%;
         height: 35%;
         padding-top: 20px;
         padding-left: 10px;
@@ -1605,7 +1605,7 @@ h5 {
         -ms-transform: translate(-50%, -40%);
         background-color: #333333;
         color: #e1dc0a;
-        font-size: 40%;
+        font-size: 55%;
         text-transform: uppercase;
         padding: 10px 30px;
         border: none;
@@ -1625,52 +1625,73 @@ h5 {
 
     /* five excellent missions in a fun gym from the left to right */
 
-    .part-1 {
-        position: absolute;
-        text-align: center;
-        font-size: 80%;
-        letter-spacing: 1px;
-        top: -28%;
-        text-align: center;
-        margin-left: 10%;
-    }
+
 
     #club-ethos {
-        height: 1200px;
-        margin: 0 auto;
-        width: 90%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 1100px;
+        width: 100%;
+        clear: both;
+        position: relative;
     }
 
-    #welcome .part-1 {
-        text-align: center;
-        font-size: 80%;
-        text-align: center;
+    .part-1 {
+        position: absolute;
+        text-align: baseline;
+        font-size: 120%;
         letter-spacing: 1px;
-        bottom: 80%;
-        padding: 0%;
-        margin: 0 auto;
-        position: inherit;
-    }
-
-    #welcome-part-2 {
-        margin: auto;
-        padding: 30px 0;
-        margin-top: -30px;
+        top: -30%;
         text-align: center;
-
+        clear: both;
+        text-align: center;
     }
 
     #left-about {
-        width: inherit;
+        clear: both;
+        text-align: center;
+        width: 100%;
+        font-size: 100%;
+        letter-spacing: 4px;
+        position: absolute;
+        right: 35%;
+        top: -25%;
+
     }
 
+    .left-about-heading p,
+    .right-about-heading p {
+        clear: both;
+        text-align: center;
+        width: 100%;
+        padding: 0 5px 0 5px;
+    }
+
+
+
+
     #right-about {
-        width: inherit
+        clear: both;
+        text-align: center;
+        width: 100%;
+        font-size: 110%;
+        letter-spacing: 2px;
+        text-align: center;
+        margin-left: 10%;
+
     }
 
     #center-about {
-        width: inherit;
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
     }
+
 
     hr {
         border-top: 1px solid #3a3a3a;
