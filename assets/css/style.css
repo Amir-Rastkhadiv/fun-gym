@@ -1777,8 +1777,6 @@ h5 {
         background-size: 40%;
         background-position: 59%;
         overflow: hidden;
-        backface-visibility: hidden;
-        position: reletaive;
         position: absolute;
         right: 5%;
     }
@@ -1824,13 +1822,38 @@ h5 {
     }
 
     #part-2 {
-        background-image: url("../img/fun-gym-part-2.png");
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 2100px;
+        width: 95%;
         background-repeat: no-repeat;
         background-size: 100%;
-        background-position: 100%;
-        width: 100%;
-        overflow: hidden
+        background-position: 59%;
+        overflow: hidden;
+        position: absolute;
     }
+
+
+    .part-3 {
+
+        position: absolute;
+        text-align: center;
+        font-size: 150%;
+        letter-spacing: 4px;
+        clear: both;
+        width: 100%;
+        line-height: 5000%;
+        clear: both;
+        margin-bottom: 5px;
+        padding: 300% 0;
+
+
+    }
+
 
     #part-2 div {
         display: none;
