@@ -1636,7 +1636,6 @@ h5 {
         align-content: center;
         height: 1100px;
         width: 100%;
-        clear: both;
         position: relative;
     }
 
@@ -1658,9 +1657,17 @@ h5 {
         font-size: 100%;
         letter-spacing: 4px;
         position: absolute;
-        right: 35%;
+        right: 15%;
         top: -25%;
+    }
 
+    #righ-about {
+        clear: both;
+        text-align: center;
+        width: 100%;
+        font-size: 100%;
+        letter-spacing: 4px;
+        position: absolute;
     }
 
     .left-about-heading p,
@@ -1668,21 +1675,7 @@ h5 {
         clear: both;
         text-align: center;
         width: 100%;
-        padding: 0 5px 0 5px;
-    }
-
-
-
-
-    #right-about {
-        clear: both;
-        text-align: center;
-        width: 100%;
-        font-size: 110%;
-        letter-spacing: 2px;
-        text-align: center;
-        margin-left: 10%;
-
+        margin-left: 0 auto;
     }
 
     #center-about {
@@ -1690,50 +1683,46 @@ h5 {
         width: 100%;
         float: left;
         padding: 0;
-    }
+        position: absolute;
+        top: 90%;
+        text-align: center;
+        clear: both;
+        text-align: center;
 
-
-    hr {
-        border-top: 1px solid #3a3a3a;
-        width: 100%;
-        margin: 5px 0;
     }
 
     .left-about-heading {
-        width: 60%;
-        float: right;
-        line-height: 20px;
+        width: 80%;
+        line-height: 30px;
         clear: both;
-        margin-bottom: 60px;
+        margin-bottom: 5px;
         letter-spacing: 2px;
         font-size: 120%;
+        margin-left: 10px;
+
     }
 
     .right-about-heading {
-        width: 75%;
-        float: left;
-        line-height: 20px;
+        width: 80%;
+        line-height: 30px;
         clear: both;
-        margin-bottom: 60px;
+        margin-bottom: 5px;
         letter-spacing: 2px;
         font-size: 120%;
+        margin-left: 25px;
     }
 
 
     .center-about-heading {
         position: absolute;
-        width: 38%;
-        font-size: 120%;
+        width: 80%;
         line-height: 20px;
-        letter-spacing: 4px;
-        text-align: center;
-        top: 55%;
         clear: both;
-        left: 50%;
-        transform: translate(-50%, -10%);
-        -ms-transform: translate(-50%, -40%);
-        padding: 20px 30px;
-
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+        font-size: 120%;
+        margin-left: 20px;
+        margin: 0 a
     }
 
 
@@ -1772,6 +1761,7 @@ h5 {
 
 
     .btn-high-five {
+        display: none;
         position: absolute;
         top: 10%;
         left: 50%;
