@@ -1823,20 +1823,19 @@ h5 {
 
     #part-2 {
         display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
+        flex-direction: column;
+        flex-wrap: wrap;
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 2100px;
-        width: 95%;
+        height: 3500px;
+        width: 100%;
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: 90%;
         background-position: 59%;
         overflow: hidden;
         position: absolute;
     }
-
 
     .part-3 {
 
@@ -1846,17 +1845,14 @@ h5 {
         letter-spacing: 4px;
         clear: both;
         width: 100%;
-        line-height: 5000%;
+        line-height: 8500%;
         clear: both;
         margin-bottom: 5px;
-        padding: 300% 0;
-
-
+        padding: 90%;
     }
 
 
     #part-2 div {
-        display: none;
         color: #fafafa;
         background-color: rgba(0, 0, 0, .65);
         width: 20%;
@@ -1866,12 +1862,27 @@ h5 {
         text-align: center;
         border: 2px solid white;
         box-sizing: border-box;
+        width: 60%;
+        clear: both;
     }
 
     #part-2 h2 {
-        display: none;
+        font-size: 150%;
+        text-align: center;
         color: #fafafa;
     }
+
+    #part-2 h3 {
+        font-size: 130%;
+        text-align: center;
+    }
+
+
+
+
+
+
+
 
 
     #part-3 div {
