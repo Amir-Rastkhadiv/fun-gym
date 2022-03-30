@@ -1885,17 +1885,12 @@ h5 {
         align-items: center;
         align-content: center;
         height: 6030px;
-        width: 100%;
+        width: 90%;
         background-image: url("../img/fungym-map.png");
         background-repeat: no-repeat;
-        background-size: 70%;
-        background-position: 59%;
         overflow: hidden;
-        position: absolute;
-        background-repeat: no-repeat;
         background-size: 90%;
         background-position: 59%;
-        overflow: hidden;
         position: absolute;
     }
 
@@ -1909,7 +1904,6 @@ h5 {
         line-height: 23800%;
         clear: both;
         margin-bottom: 5px;
-        padding: 90%;
     }
 
     #part-3 div {
@@ -1951,7 +1945,6 @@ h5 {
         border: 2px solid white;
         box-sizing: border-box;
     }
-
 
     #map-1 {
         display: none;
