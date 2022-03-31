@@ -193,10 +193,18 @@ h1 {
 }
 
 #welcome-part-2 {
-    margin: auto;
-    padding: 30px 0;
-    margin-top: -30px;
+
+    position: absolute;
+    padding: 5px 0;
+    margin-top: 10px;
     text-align: center;
+    font-size: 200%;
+    letter-spacing: 4px;
+    clear: both;
+    width: 100%;
+    line-height: 40%;
+    overflow: hidden;
+
 }
 
 #left-about {
