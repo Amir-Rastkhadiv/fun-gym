@@ -1654,7 +1654,6 @@ h5 {
         font-size: 120%;
         letter-spacing: 1px;
         top: -30%;
-        text-align: center;
         clear: both;
         text-align: center;
         overflow: hidden;
@@ -1663,9 +1662,9 @@ h5 {
     #left-about {
         clear: both;
         text-align: center;
-        width: 100%;
+        width: 90%;
         font-size: 100%;
-        letter-spacing: 4px;
+        letter-spacing: 2px;
         position: absolute;
         right: 15%;
         top: -25%;
@@ -1695,7 +1694,7 @@ h5 {
         position: absolute;
         clear: both;
         text-align: center;
-        width: 100%;
+        width: 90%;
         font-size: 100%;
         letter-spacing: 4px;
         text-align: center;
