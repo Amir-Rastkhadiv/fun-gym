@@ -2088,7 +2088,7 @@ h5 {
     h5 {
         display: flex;
         flex-direction: column;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
         align-content: center;
@@ -2120,6 +2120,7 @@ h5 {
     }
 
     #flag {
+
         transform: translate(-50%, -70%);
         -ms-transform: translate(-30%, -50%);
         margin-left: 5%;
