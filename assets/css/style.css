@@ -1524,6 +1524,7 @@ h5 {
         margin-bottom: 2px;
         line-height: 40px;
         margin-left: 10px;
+        overflow: hidden;
     }
 
     #icon-bar {
@@ -1537,6 +1538,7 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
+        overflow: hidden;
 
     }
 
@@ -1545,6 +1547,7 @@ h5 {
         float: left;
         font-size: 220%;
         margin-left: 10px;
+        overflow: hidden;
     }
 
     #icon-bar li {
@@ -1557,6 +1560,7 @@ h5 {
 
     #hero-outer {
         position: relative;
+        overflow: hidden;
     }
 
 
@@ -1565,6 +1569,7 @@ h5 {
         width: 95%;
         background: url("../img/fungym-hero.png") no-repeat center center;
         background-size: contain;
+        overflow: hidden;
 
         /* Animates zoom effect on loading the page */
 
@@ -1579,6 +1584,7 @@ h5 {
         letter-spacing: 1px;
         font-size: 14px;
         text-align: center;
+        overflow: hidden;
 
     }
 
@@ -1595,7 +1601,7 @@ h5 {
         right: 200px;
         top: 50%;
         position: absolute;
-
+        overflow: hidden;
     }
 
     /* Creates the button  on text image for join now */
@@ -1616,12 +1622,11 @@ h5 {
         border-radius: 20px;
         width: 80%;
         text-align: center;
-
+        overflow: hidden;
     }
 
     .btn:hover {
         background-color: #e10a0a;
-
         color: #fafafa;
     }
 
@@ -1640,6 +1645,7 @@ h5 {
         height: 1100px;
         width: 100%;
         position: relative;
+        overflow: hidden;
     }
 
     .part-1 {
@@ -1651,6 +1657,7 @@ h5 {
         text-align: center;
         clear: both;
         text-align: center;
+        overflow: hidden;
     }
 
     #left-about {
@@ -1662,6 +1669,7 @@ h5 {
         position: absolute;
         right: 15%;
         top: -25%;
+        overflow: hidden;
     }
 
     #righ-about {
@@ -1671,6 +1679,7 @@ h5 {
         font-size: 100%;
         letter-spacing: 4px;
         position: absolute;
+        overflow: hidden;
     }
 
     .left-about-heading p,
@@ -1679,6 +1688,7 @@ h5 {
         text-align: center;
         width: 100%;
         margin-left: 0 auto;
+        overflow: hidden;
     }
 
     #center-about {
@@ -1690,6 +1700,7 @@ h5 {
         letter-spacing: 4px;
         text-align: center;
         top: 80%;
+        overflow: hidden;
     }
 
     .left-about-heading {
@@ -1700,7 +1711,7 @@ h5 {
         letter-spacing: 2px;
         font-size: 120%;
         margin-left: 10px;
-
+        overflow: hidden;
     }
 
     .right-about-heading {
@@ -1711,6 +1722,7 @@ h5 {
         letter-spacing: 2px;
         font-size: 120%;
         margin-left: 40px;
+        overflow: hidden;
     }
 
     .center-about-heading {
@@ -1722,6 +1734,7 @@ h5 {
         letter-spacing: 2px;
         font-size: 120%;
         margin-left: 15px;
+        overflow: hidden;
     }
 
     #five-topic-click {
@@ -1740,12 +1753,14 @@ h5 {
         border-width: 1px;
         border-radius: 500%;
         margin: 0 auto;
+        overflow: hidden;
     }
 
     #circle-cover-bg {
         background: url("../img/fungym-highfive-5missions.png") no-repeat center center;
         height: 90%;
         border-radius: 50%;
+        overflow: hidden;
     }
 
     .btn-high-five {
@@ -1764,6 +1779,7 @@ h5 {
         border-radius: 50px;
         text-align: center;
         margin: 0 auto;
+        overflow: hidden;
     }
 
 
@@ -1781,9 +1797,9 @@ h5 {
         width: 95%;
         background-size: 40%;
         background-position: 59%;
-        overflow: hidden;
         position: absolute;
         right: 5%;
+        overflow: hidden;
     }
 
     #part-1 div {
@@ -1798,7 +1814,7 @@ h5 {
         box-sizing: border-box;
         clear: both;
         font-size: 80%;
-
+        overflow: hidden;
     }
 
     #part-1 h2 {
@@ -1823,7 +1839,7 @@ h5 {
         clear: both;
         margin-bottom: 5px;
         padding: 140% 0;
-
+        overflow: hidden;
     }
 
     #part-2 {
@@ -1843,7 +1859,6 @@ h5 {
     }
 
     .part-3 {
-
         position: absolute;
         text-align: center;
         font-size: 150%;
@@ -1854,6 +1869,7 @@ h5 {
         clear: both;
         margin-bottom: 5px;
         padding: 90%;
+        overflow: hidden;
     }
 
 
@@ -1869,6 +1885,7 @@ h5 {
         box-sizing: border-box;
         width: 60%;
         clear: both;
+        overflow: hidden;
     }
 
     #part-2 h2 {
@@ -1880,6 +1897,7 @@ h5 {
     #part-2 h3 {
         font-size: 130%;
         text-align: center;
+        overflow: hidden;
     }
 
     #part-3 {
@@ -1893,10 +1911,10 @@ h5 {
         width: 90%;
         background-image: url("../img/fungym-map.png");
         background-repeat: no-repeat;
-        overflow: hidden;
         background-size: 90%;
         background-position: 59%;
         position: absolute;
+        overflow: hidden;
     }
 
     .part-4 {
@@ -1909,6 +1927,7 @@ h5 {
         line-height: 23800%;
         clear: both;
         margin-bottom: 5px;
+        overflow: hidden;
     }
 
     #part-3 div {
@@ -1921,12 +1940,14 @@ h5 {
         border: 2px solid white;
         box-sizing: border-box;
         clear: both;
+        overflow: hidden;
     }
 
     #part-3 h2 {
         font-size: 150%;
         text-align: center;
         color: #fafafa;
+        overflow: hidden;
     }
 
     #part-3 h3 {
@@ -1949,6 +1970,7 @@ h5 {
         text-align: center;
         border: 2px solid white;
         box-sizing: border-box;
+        overflow: hidden;
     }
 
     #map-1 {
@@ -1959,6 +1981,7 @@ h5 {
         text-transform: uppercase;
         letter-spacing: 4px;
         padding-top: 12%;
+        overflow: hidden;
     }
 
     /* Footer */
