@@ -1515,15 +1515,20 @@ h5 {
 
     /* navigation links */
 
-
     html {
         overflow-x: hidden;
     }
 
-    #icon-bar {
-        margin-bottom: 2px;
-        line-height: 40px;
-        margin-left: 10px;
+    .first-line {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 100px;
+        width: 100%;
+        position: relative;
         overflow: hidden;
     }
 
@@ -1535,23 +1540,19 @@ h5 {
 
     #logo,
     #icon-bar {
-        line-height: 40px;
-        margin: 0px;
+        margin: 0 auto;
         clear: both;
         overflow: hidden;
-
     }
 
     #logo {
         clear: both;
-        float: left;
         font-size: 220%;
-        margin-left: 10px;
         overflow: hidden;
     }
 
     #icon-bar li {
-        float: left;
+        float: right;
         list-style-type: none;
         margin-left: 2px;
     }
@@ -1559,10 +1560,18 @@ h5 {
     /* hero image */
 
     #hero-outer {
-        position: relative;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 600px;
+        width: 100%;
+        position: absoulute;
         overflow: hidden;
+        bottom: 150px;
     }
-
 
     #hero-image {
         height: 50%;
@@ -1642,21 +1651,27 @@ h5 {
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 1100px;
+        height: 1800px;
         width: 100%;
-        position: relative;
         overflow: hidden;
+        position: absoulute;
+        overflow: hidden;
+        bottom: 280px;
     }
 
     .part-1 {
         position: absolute;
-        text-align: baseline;
-        font-size: 120%;
-        letter-spacing: 1px;
-        top: -30%;
-        clear: both;
         text-align: center;
+        font-size: 150%;
+        letter-spacing: 4px;
+        clear: both;
+        width: 100%;
+        line-height: 150%;
+        clear: both;
+        margin-bottom: 25px;
+        padding: 200% 0;
         overflow: hidden;
+        top: -35px;
     }
 
     #left-about {
@@ -1668,7 +1683,7 @@ h5 {
         position: absolute;
         right: 15%;
         top: -25%;
-        overflow: hidden;
+        margin-top: 500px;
     }
 
     #righ-about {
@@ -1679,6 +1694,7 @@ h5 {
         letter-spacing: 4px;
         position: absolute;
         overflow: hidden;
+        margin-top: 500px;
     }
 
     .left-about-heading p,
@@ -1698,8 +1714,7 @@ h5 {
         font-size: 100%;
         letter-spacing: 4px;
         text-align: center;
-        top: 80%;
-        overflow: hidden;
+        top: 68%;
     }
 
     .left-about-heading {
@@ -1714,6 +1729,8 @@ h5 {
     }
 
     .right-about-heading {
+
+        line-height: 30px;
         width: 80%;
         line-height: 30px;
         clear: both;
@@ -1725,21 +1742,22 @@ h5 {
     }
 
     .center-about-heading {
-        position: absolute;
-        width: 80%;
-        line-height: 30px;
         clear: both;
-        margin-bottom: 5px;
-        letter-spacing: 2px;
+        text-align: center;
+        width: 90%;
         font-size: 120%;
-        margin-left: 15px;
-        overflow: hidden;
+        letter-spacing: 2px;
+        line-height: 30px;
+        position: absolute;
+        right: 15%;
+        top: -25%;
+        margin-top: 500px;
+        padding-top: 20px;
     }
 
     #five-topic-click {
         text-align: center;
     }
-
 
     /* fun gym high-five image for its five extraordinary exclusive missions */
 
@@ -1764,7 +1782,7 @@ h5 {
 
     .btn-high-five {
         position: absolute;
-        top: 80%;
+        top: 67%;
         left: 50%;
         transform: translate(-50%, -10%);
         -ms-transform: translate(-50%, -40%);
@@ -1780,8 +1798,6 @@ h5 {
         margin: 0 auto;
         overflow: hidden;
     }
-
-
 
     /* Three info parts */
 
