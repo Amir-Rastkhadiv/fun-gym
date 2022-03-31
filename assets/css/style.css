@@ -1814,6 +1814,8 @@ h5 {
         background-position: 59%;
         position: absolute;
         right: 5%;
+        position: absolute;
+        top: 1755px;
         overflow: hidden;
     }
 
@@ -1854,6 +1856,7 @@ h5 {
         clear: both;
         margin-bottom: 5px;
         padding: 140% 0;
+        top: 1750px;
         overflow: hidden;
     }
 
@@ -1869,8 +1872,9 @@ h5 {
         background-repeat: no-repeat;
         background-size: 90%;
         background-position: 59%;
-        overflow: hidden;
         position: absolute;
+        top: 1760px;
+        overflow: hidden;
     }
 
     .part-3 {
@@ -1884,9 +1888,10 @@ h5 {
         clear: both;
         margin-bottom: 5px;
         padding: 90%;
+        position: absolute;
+        top: 1750px;
         overflow: hidden;
     }
-
 
     #part-2 div {
         color: #fafafa;
@@ -1923,12 +1928,13 @@ h5 {
         align-items: center;
         align-content: center;
         height: 6030px;
-        width: 90%;
+        width: 100%;
         background-image: url("../img/fungym-map.png");
         background-repeat: no-repeat;
         background-size: 90%;
         background-position: 59%;
         position: absolute;
+        top: 1780px;
         overflow: hidden;
     }
 
@@ -1942,6 +1948,8 @@ h5 {
         line-height: 23800%;
         clear: both;
         margin-bottom: 5px;
+        position: absolute;
+        top: 1770px;
         overflow: hidden;
     }
 
