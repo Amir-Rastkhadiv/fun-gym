@@ -2,7 +2,47 @@
 
 /* Lato and Open Sans fonts imported from Google Fonts here: https://fonts.google.com/specimen/Open+Sans */
 /* ilovewp served as a reference when choosing the font type*/
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+/**
+* Amir - some CSS Grid Additions - I hope these help!
+*/
+
+.club-ethos__wrapper {
+    margin: 6.5rem 0;
+    padding: 0 10vw;
+}
+
+@media (min-width: 768px) {
+    .club-ethos__wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-gap: 4rem;
+    }
+}
+
+.club-ethos__wrapper article {
+    margin-bottom: 3rem;
+}
+
+.club-ethos__wrapper article p {
+    font-size: 1.75rem;
+}
+
+.club-ethos__image-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.circle-container {
+    clip-path: circle();
+    margin: auto auto;
+    width: 100%;
+}
+
+/**
+* END SECTION - CSS GRID ADDITIONS
+*/
 
 * {
     margin: 0;
@@ -27,13 +67,11 @@
     padding: 15px;
 }
 
-
 html,
 body {
     font-family: Lato, sans-serif;
     color: #fafafa;
     background-color: #252525;
-
 }
 
 /* headings and logo */
@@ -41,13 +79,11 @@ body {
 html,
 body.header.nav.topnav {
     background: #252525;
-
 }
-
 
 h1,
 h2 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #fafafa;
@@ -114,7 +150,6 @@ h1 {
     width: 100%;
     background: url("../img/fungym-hero.png") no-repeat center center;
 
-
     /* Animates zoom effect on loading the page */
 
     animation-name: hero-zoom;
@@ -140,7 +175,7 @@ h1 {
 
 #cover-text {
     font-size: 130%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     width: 600px;
@@ -151,7 +186,6 @@ h1 {
     right: 200px;
     top: 60%;
     position: absolute;
-
 }
 
 /* Creates the button  on text image for join now */
@@ -173,20 +207,13 @@ h1 {
     text-align: center;
 }
 
-
 .btn:hover {
     background-color: #e10a0a;
 
     color: #fafafa;
 }
 
-
 /* five excellent missions in a fun gym from the left to right */
-
-#club-ethos {
-    height: 600px;
-    position: relative;
-}
 
 #welcome {
     text-align: center;
@@ -244,7 +271,6 @@ hr {
     font-size: 120%;
 }
 
-
 .center-about-heading {
     position: absolute;
     width: 38%;
@@ -258,9 +284,7 @@ hr {
     transform: translate(-50%, -10%);
     -ms-transform: translate(-50%, -40%);
     padding: 20px 30px;
-
 }
-
 
 /* fun gym high-five image for its five extraordinary exclusive missions */
 
@@ -284,17 +308,14 @@ hr {
 /*  links decoration for its five extraordinary exclusive missions */
 
 #five-topic-click {
-
     text-transform: capitalize;
     text-decoration: none;
     color: #e1be0af0;
-
 }
 
 #five-topic-click a:hover {
     border-bottom: 1px solid #fafafa;
 }
-
 
 .btn-high-five {
     position: absolute;
@@ -313,13 +334,11 @@ hr {
     text-align: center;
 }
 
-
 .btn-high-five:hover {
     background-color: #e10a0a;
 
     color: #fafafa;
 }
-
 
 /* Three info parts */
 
@@ -332,12 +351,11 @@ hr {
     overflow: hidden;
     padding-left: 30px;
     margin-left: 30px;
-
 }
 
 #part-1 div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .4);
+    background-color: rgba(0, 0, 0, 0.4);
     width: 50%;
     height: 300px;
     float: left;
@@ -357,12 +375,12 @@ hr {
     background-size: 100%;
     background-position: 100%;
     width: 100%;
-    overflow: hidden
+    overflow: hidden;
 }
 
 #part-2 div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .65);
+    background-color: rgba(0, 0, 0, 0.65);
     width: 20%;
     height: 300px;
     float: left;
@@ -376,10 +394,9 @@ hr {
     color: #fafafa;
 }
 
-
 #part-3 div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .65);
+    background-color: rgba(0, 0, 0, 0.65);
     width: 50%;
     height: 300px;
     float: left;
@@ -401,12 +418,11 @@ hr {
     background-position: 100%;
     width: 100%;
     overflow: hidden;
-
 }
 
 #map {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .65);
+    background-color: rgba(0, 0, 0, 0.65);
     width: 100%;
     height: 250px;
     float: right;
@@ -415,7 +431,6 @@ hr {
     border: 2px solid white;
     box-sizing: border-box;
 }
-
 
 #map-1 {
     color: #252525;
@@ -436,7 +451,7 @@ footer {
 }
 
 #welcome-footer {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #e1be0af0;
@@ -451,7 +466,6 @@ h4 {
     text-decoration: none;
     color: #fafafa;
 }
-
 
 #footer-details a:hover {
     border-bottom: 1px solid #e1dc0a;
@@ -502,10 +516,8 @@ h5 {
     background-size: 90px 60px;
 }
 
-
 .copy-rights {
-
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     letter-spacing: 4px;
     text-transform: uppercase;
     margin-left: 5px;
@@ -519,7 +531,6 @@ h5 {
 }
 
 #flag {
-
     position: absolute;
     top: 70%;
     left: 48%;
@@ -539,20 +550,14 @@ h5 {
     background-position-y: bottom;
 }
 
-
 /* Adjust the colour contrast for accessibility */
 
 /* download icon - checked with google dev tool*/
 
-
 /* back to top, Wave verified that*/
 #btt-colour {
-    color: #98BFE1;
+    color: #98bfe1;
 }
-
-
-
-
 
 /* Form */
 
@@ -610,11 +615,7 @@ h5 {
     color: #f16c6b;
 }
 
-
-
-
 /* Media queries */
-
 
 /* For desktop: */
 .col-1 {
@@ -665,16 +666,9 @@ h5 {
     width: 100%;
 }
 
-
 /* For large to medium screens sizes from 1280px wide and down */
 
 @media screen and (max-width: 1280px) {
-    #club-ethos {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
     #welcome {
         padding: 30px 0;
         margin-top: 0;
@@ -694,7 +688,6 @@ h5 {
         height: 50%;
     }
 
-
     .left-about-heading {
         float: right;
         line-height: 20px;
@@ -713,8 +706,6 @@ h5 {
         font-size: 120%;
     }
 
-
-
     #part-1 div {
         width: 100%;
         clear: both;
@@ -722,8 +713,6 @@ h5 {
         padding: 0;
         border-style: solid;
         border-bottom-width: 1px;
-
-
     }
 
     #part-2 div {
@@ -754,12 +743,8 @@ h5 {
 
 /* For large to medium screens sizes from 1024px wide and down */
 
-
 @media screen and (max-width: 1024px) {
-
-
     @media screen and (max-width: 950px) {
-
         #icon-bar {
             clear: left;
             float: left;
@@ -801,19 +786,12 @@ h5 {
             width: 100%;
             background: url("../img/fungym-hero.png") no-repeat center center;
 
-
             /* Animates zoom effect on loading the page */
 
             animation-name: hero-zoom;
             animation-duration: 5s;
             animation-fill-mode: forwards;
         }
-    }
-
-    #club-ethos {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
     }
 
     #welcome {
@@ -835,7 +813,6 @@ h5 {
         height: 50%;
     }
 
-
     .left-about-heading {
         float: right;
         line-height: 20px;
@@ -854,8 +831,6 @@ h5 {
         font-size: 120%;
     }
 
-
-
     #part-1 div {
         width: 100%;
         clear: both;
@@ -863,8 +838,6 @@ h5 {
         padding: 0;
         border-style: solid;
         border-bottom-width: 1px;
-
-
     }
 
     #part-2 div {
@@ -896,7 +869,6 @@ h5 {
 /* For medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
-
     #icon-bar {
         clear: left;
         float: left;
@@ -947,12 +919,9 @@ h5 {
     }
 }
 
-
 /* For medium screens sizes from 820px wide and down */
 
 @media screen and (max-width: 820px) {
-
-
     #icon-bar {
         clear: left;
         float: left;
@@ -1001,13 +970,11 @@ h5 {
         animation-duration: 5s;
         animation-fill-mode: forwards;
     }
-
 }
 
 /* For medium screens sizes from 768px wide and down */
 
 @media screen and (max-width: 768px) {
-
     /* navigation links */
 
     #icon-bar {
@@ -1058,9 +1025,7 @@ h5 {
         animation-duration: 5s;
         animation-fill-mode: forwards;
     }
-
 }
-
 
 /* For medium screens sizes from 600px wide and down */
 
@@ -1068,7 +1033,6 @@ h5 {
     /* navigation links */
 
     /* navigation links */
-
 
     #icon-bar {
         margin-bottom: 2px;
@@ -1087,7 +1051,6 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
-
     }
 
     #logo {
@@ -1125,14 +1088,11 @@ h5 {
         letter-spacing: 1px;
         font-size: 10px;
         text-align: center;
-
-
-
     }
 
     #cover-text {
         font-size: 9px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
         width: 55%;
@@ -1143,7 +1103,6 @@ h5 {
         right: 200px;
         top: 50%;
         position: absolute;
-
     }
 
     /* Creates the button  on text image for join now */
@@ -1164,9 +1123,6 @@ h5 {
         border-radius: 20px;
         width: 80%;
         text-align: center;
-
-
-
     }
 
     .btn:hover {
@@ -1174,16 +1130,12 @@ h5 {
 
         color: #fafafa;
     }
-
 }
 
 /* For medium screens sizes from 540px wide and down */
 
 @media screen and (max-width: 540px) {
-
-
     /* navigation links */
-
 
     #icon-bar {
         margin-bottom: 2px;
@@ -1202,7 +1154,6 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
-
     }
 
     #logo {
@@ -1244,7 +1195,7 @@ h5 {
 
     #cover-text {
         font-size: 9px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
         width: 55%;
@@ -1255,7 +1206,6 @@ h5 {
         right: 200px;
         top: 50%;
         position: absolute;
-
     }
 
     /* Creates the button  on text image for join now */
@@ -1277,7 +1227,6 @@ h5 {
         border-radius: 20px;
         width: 70%;
         text-align: center;
-
     }
 
     .btn:hover {
@@ -1285,15 +1234,11 @@ h5 {
 
         color: #fafafa;
     }
-
 }
-
 
 /* For medium screens sizes from 480px wide and down */
 
-
 @media screen and (max-width: 480px) {
-
     /* navigation links */
 
     #icon-bar {
@@ -1313,7 +1258,6 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
-
     }
 
     #logo {
@@ -1332,7 +1276,6 @@ h5 {
     /* hero image */
 
     #hero-image {
-
         height: 90%;
         width: 100%;
         background: url("../img/fungym-hero.png") no-repeat center center;
@@ -1351,12 +1294,11 @@ h5 {
         letter-spacing: 1px;
         font-size: 10px;
         text-align: center;
-
     }
 
     #cover-text {
         font-size: 9px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
         width: 55%;
@@ -1367,7 +1309,6 @@ h5 {
         right: 200px;
         top: 50%;
         position: absolute;
-
     }
 
     /* Creates the button  on text image for join now */
@@ -1388,7 +1329,6 @@ h5 {
         border-radius: 20px;
         width: 80%;
         text-align: center;
-
     }
 
     .btn:hover {
@@ -1396,13 +1336,11 @@ h5 {
 
         color: #fafafa;
     }
-
 }
 
 /* For medium screens sizes from 414px wide and down */
 
 @media screen and (max-width: 414px) {
-
     /* navigation links */
 
     #icon-bar {
@@ -1422,7 +1360,6 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
-
     }
 
     #logo {
@@ -1441,7 +1378,6 @@ h5 {
     /* hero image */
 
     #hero-image {
-
         height: 90%;
         width: 100%;
         background: url("../img/fungym-hero.png") no-repeat center center;
@@ -1454,19 +1390,17 @@ h5 {
         animation-fill-mode: forwards;
     }
 
-
     #cover-text,
     #cover-text h2 {
         color: #fafafa;
         letter-spacing: 1px;
         font-size: 10px;
         text-align: center;
-
     }
 
     #cover-text {
         font-size: 14px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 3px;
         width: 55%;
@@ -1477,7 +1411,6 @@ h5 {
         right: 200px;
         top: 50%;
         position: absolute;
-
     }
 
     /* Creates the button  on text image for join now */
@@ -1498,7 +1431,6 @@ h5 {
         border-radius: 20px;
         width: 70%;
         text-align: center;
-
     }
 
     .btn:hover {
@@ -1506,13 +1438,11 @@ h5 {
 
         color: #fafafa;
     }
-
 }
 
 /* For medium screens sizes from 400px wide and down */
 
 @media screen and (max-width: 400px) {
-
     /* navigation links */
 
     html {
@@ -1594,12 +1524,11 @@ h5 {
         font-size: 14px;
         text-align: center;
         overflow: hidden;
-
     }
 
     #cover-text {
         font-size: 9px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
         width: 70%;
@@ -1640,21 +1569,6 @@ h5 {
     }
 
     /* five excellent missions in a fun gym from the left to right */
-
-    #club-ethos {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: nowrap;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        height: 1800px;
-        width: 100%;
-        overflow: hidden;
-        position: absoulute;
-        overflow: hidden;
-        bottom: 280px;
-    }
 
     .part-1 {
         position: absolute;
@@ -1726,7 +1640,6 @@ h5 {
     }
 
     .right-about-heading {
-
         line-height: 30px;
         width: 80%;
         line-height: 30px;
@@ -1817,9 +1730,8 @@ h5 {
     }
 
     #part-1 div {
-
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .4);
+        background-color: rgba(0, 0, 0, 0.4);
         width: 50%;
         height: 300px;
         padding: 30px 0 0 10px;
@@ -1891,7 +1803,7 @@ h5 {
 
     #part-2 div {
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .65);
+        background-color: rgba(0, 0, 0, 0.65);
         width: 20%;
         height: 300px;
         float: left;
@@ -1951,7 +1863,7 @@ h5 {
 
     #part-3 div {
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .15);
+        background-color: rgba(0, 0, 0, 0.15);
         height: 300px;
         float: left;
         padding: 30px 0 0 10px;
@@ -1981,7 +1893,7 @@ h5 {
     #map {
         display: none;
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .005);
+        background-color: rgba(0, 0, 0, 0.005);
         width: 80%;
         height: 250px;
         float: right;
@@ -2022,7 +1934,7 @@ h5 {
     }
 
     #welcome-footer {
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 4px;
         color: #e1be0af0;
@@ -2031,16 +1943,6 @@ h5 {
 
     h4 {
         margin-left: 30px;
-    }
-
-    #footer-parent p {
-        margin-top: 20px;
-        text-align: center;
-        font-size: 120%;
-        margin-left: 10px;
-        width: 90%;
-
-
     }
 
     #footer-details a {
@@ -2091,14 +1993,17 @@ h5 {
 
     h5 {
         display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+        flex-direction: column;
+        flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 4500px;
+        height: 4000px;
         width: 100%;
-        top: 2950px;
+        background-size: 90%;
+        background-position: 59%;
+        position: absolute;
+        top: 2450px;
         background: url("../img/uk-flag.png") no-repeat;
         overflow: hidden;
         background-size: 90px 60px;
@@ -2106,45 +2011,40 @@ h5 {
     }
 
     .copy-rights {
-        font-family: 'Open Sans', sans-serif;
-        text-transform: uppercase;
-        text-overflow: hidden;
-        margin-top: 30px;
-        line-height: 35px;
-        clear: both;
-        width: 90%;
-        font-size: 100%;
+        font-family: "Open Sans", sans-serif;
         letter-spacing: 2px;
-        position: absolute;
-    }
-
-    #copy-rights {
-        position: absolute;
-        top: 97%;
+        text-transform: uppercase;
+        margin-left: 5px;
+        color: #fafafa;
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 20px;
+        line-height: 30px;
+        float: left;
+        text-align: center;
     }
 
     #flag {
-        clear: both;
-        position: absolute;
+        transform: translate(-50%, -70%);
+        -ms-transform: translate(-30%, -50%);
+        margin-left: 5%;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
         text-align: center;
-        border-image-width: 10%;
-        margin-top: 20px;
-        background-size: 20%;
-        top: 35%;
+        border-image-width: 20%;
+        padding-bottom: 50px;
     }
 
     .uk-flag {
-        position: absolute;
         background-position: left;
         background-position-y: bottom;
     }
-
 }
 
 /* For medium screens sizes from 360px wide and down */
 
 @media screen and (max-width: 360px) {
-
     /* navigation links */
 
     #icon-bar {
@@ -2164,7 +2064,6 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
-
     }
 
     #logo {
@@ -2201,12 +2100,11 @@ h5 {
         letter-spacing: 1px;
         font-size: 10px;
         text-align: center;
-
     }
 
     #cover-text {
         font-size: 9px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
         width: 55%;
@@ -2217,7 +2115,6 @@ h5 {
         right: 200px;
         top: 50%;
         position: absolute;
-
     }
 
     /* Creates the button  on text image for join now */
@@ -2238,22 +2135,18 @@ h5 {
         border-radius: 20px;
         width: 80%;
         text-align: center;
-
     }
-
 
     .btn:hover {
         background-color: #e10a0a;
 
         color: #fafafa;
     }
-
 }
 
 /* For medium screens sizes from 320px wide and down */
 
 @media screen and (max-width: 320px) {
-
     /* navigation links */
 
     #icon-bar {
@@ -2273,7 +2166,6 @@ h5 {
         line-height: 40px;
         margin: 0px;
         clear: both;
-
     }
 
     #logo {
@@ -2321,7 +2213,7 @@ h5 {
 
     #cover-text {
         font-size: 9px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
         width: 55%;
@@ -2361,11 +2253,6 @@ h5 {
     }
 
     /* five excellent missions in a fun gym from the left to right */
-
-    #club-ethos {
-        height: 50%;
-        position: relative;
-    }
 
     #welcome {
         position: absolute;
@@ -2438,7 +2325,6 @@ h5 {
         transform: translate(-50%, -10%);
         -ms-transform: translate(-50%, -40%);
         padding: 20px 30px;
-
     }
 
     /* fun gym high-five image for its five extraordinary exclusive missions */
@@ -2463,17 +2349,14 @@ h5 {
     /*  links decoration for its five extraordinary exclusive missions */
 
     #five-topic-click {
-
         text-transform: capitalize;
         text-decoration: none;
         color: #e1be0af0;
-
     }
 
     #five-topic-click a:hover {
         border-bottom: 1px solid #fafafa;
     }
-
 
     .btn-high-five {
         position: absolute;
@@ -2492,13 +2375,11 @@ h5 {
         text-align: center;
     }
 
-
     .btn-high-five:hover {
         background-color: #e10a0a;
 
         color: #fafafa;
     }
-
 
     /* Three info parts */
 
@@ -2511,12 +2392,11 @@ h5 {
         overflow: hidden;
         padding-left: 30px;
         margin-left: 30px;
-
     }
 
     #part-1 div {
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .4);
+        background-color: rgba(0, 0, 0, 0.4);
         width: 50%;
         height: 300px;
         float: left;
@@ -2536,12 +2416,12 @@ h5 {
         background-size: 100%;
         background-position: 100%;
         width: 100%;
-        overflow: hidden
+        overflow: hidden;
     }
 
     #part-2 div {
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .65);
+        background-color: rgba(0, 0, 0, 0.65);
         width: 20%;
         height: 300px;
         float: left;
@@ -2555,10 +2435,9 @@ h5 {
         color: #fafafa;
     }
 
-
     #part-3 div {
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .65);
+        background-color: rgba(0, 0, 0, 0.65);
         width: 50%;
         height: 300px;
         float: left;
@@ -2584,7 +2463,7 @@ h5 {
 
     #map {
         color: #fafafa;
-        background-color: rgba(0, 0, 0, .65);
+        background-color: rgba(0, 0, 0, 0.65);
         width: 100%;
         height: 250px;
         float: right;
@@ -2593,7 +2472,6 @@ h5 {
         border: 2px solid white;
         box-sizing: border-box;
     }
-
 
     #map-1 {
         color: #252525;
@@ -2614,7 +2492,7 @@ h5 {
     }
 
     #welcome-footer {
-        font-family: 'Open Sans', sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-transform: uppercase;
         letter-spacing: 4px;
         color: #e1be0af0;
@@ -2629,7 +2507,6 @@ h5 {
         text-decoration: none;
         color: #fafafa;
     }
-
 
     #footer-details a:hover {
         border-bottom: 1px solid #e1dc0a;
@@ -2674,31 +2551,27 @@ h5 {
 
     h5 {
         height: 100px;
-        width: 90%;
+        width: 100%;
         background: url("../img/uk-flag.png") no-repeat;
         overflow: hidden;
         background-size: 90px 60px;
     }
 
-
     .copy-rights {
-
-
-
-        clear: both;
-        text-align: center;
-        width: 90%;
-        font-size: 100%;
-        letter-spacing: 2px;
-        position: absolute;
-        right: 15%;
-        top: -25%;
-        margin-top: 500px;
-
+        font-family: "Open Sans", sans-serif;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        margin-left: 5px;
+        color: #fafafa;
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 6px;
+        line-height: 35px;
+        position: relative;
+        float: left;
     }
 
     #flag {
-
         position: absolute;
         top: 70%;
         left: 48%;
@@ -2717,11 +2590,6 @@ h5 {
         background-position: left;
         background-position-y: bottom;
     }
-
-
 }
-
-
-
 
 /* -----------------------------------------------------------------Contact Form */
