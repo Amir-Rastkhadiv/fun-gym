@@ -183,7 +183,21 @@ As a fair reflection of users' needs, the figure above shows a design for a web 
 
 - ## Owner/Developer/Designer Goals  
 
-34. I am [Amir Rastkhadivmasouleh](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/index.html). As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectations and handling any problems to the best of my ability. Furthermore, as an owner, I considered all the presented purposes methodologies, and I have provided the following strategic plans offered here at the time to reflect my view.
+34. I am [Amir Rastkhadivmasouleh](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/index.html). As you may be aware, I am in charge of design. I deal with Fun Gym web development too. For this project, I am responsible for creating the Fun Gym website that addresses the above expectations and handling any problems to the best of my ability. Furthermore, as an owner, I considered all the presented purposes methodologies, and I have provided the following  figures alog with the strategic plans offered here at the time to reflect my view.
+
+
+![Figure 8](/tests/testing-readme-figures/testing-user-stories-sc8.jpeg)
+
+#### <p align="center">Figure-8</p> 
+
+![Figure 9](/tests/testing-readme-figures/testing-user-stories-sc9jpeg.png)
+
+#### <p align="center">Figure-9</p> 
+
+![Figure 10](/tests/testing-readme-figures/testing-user-stories-sc10.jpeg)
+
+#### <p align="center">Figure-10</p> 
+
 
 For further information I refer you to the <button>[Main README.md file](https://github.com/Amir-Rastkhadiv/fun-gym#readme)</button> figures 5 to 7.
 
@@ -209,6 +223,17 @@ For further information I refer you to the <button>[Main README.md file](https:/
 A large amount of testing was done to ensure that all pages were linking correctly.
 
 37. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+38. 
+
+![Figure 11](/tests/testing-readme-figures/testing-user-stories-sc11.jpeg)
+
+#### <p align="center">Figure-11</p> 
+
+
+![Figure 12](/tests/testing-readme-figures/testing-user-stories-sc12.jpeg)
+
+#### <p align="center">Figure-12</p> 
 
 ***
 
