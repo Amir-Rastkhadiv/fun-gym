@@ -2740,10 +2740,9 @@ h5 {
     }
 
     #club-ethos {
-        width: 60%;
+        width: 80%;
         overflow: hidden;
-        width: 90%;
-        height: 1200px;
+        height: 600px;
         margin: 0 auto;
     }
 
@@ -2753,43 +2752,45 @@ h5 {
         font-size: 140%;
         letter-spacing: 4px;
         clear: both;
-        width: 100%;
         line-height: 150%;
         clear: both;
-        margin-bottom: 25px;
+        margin-bottom: 5px;
         padding: 200% 0;
         overflow: hidden;
-        top: -35px;
         width: inherit;
+        top: -10px;
     }
 
     #left-about {
-        height: 100%;
+        display: none;
+        position: absolute;
         clear: both;
         text-align: center;
-        width: 90%;
+        height: fit-content;
+        line-height: 150%;
+        margin-bottom: 5px;
         font-size: 100%;
         letter-spacing: 2px;
         position: absolute;
-        right: 15%;
-        width: inherit;
+        margin-left: 50px;
+        padding: 80% 0;
     }
 
     #righ-about {
+        display: none;
         clear: both;
         text-align: center;
-        width: 100%;
+        width: inherit;
         font-size: 100%;
-        letter-spacing: 4px;
+        letter-spacing: 2ppx;
         position: absolute;
         overflow: hidden;
-        margin-top: 500px;
         top: -50%;
-        width: inherit;
     }
 
     .left-about-heading p,
     .right-about-heading p {
+        display: none;
         clear: both;
         text-align: center;
         width: 100%;
@@ -2804,16 +2805,18 @@ h5 {
         position: absolute;
         clear: both;
         text-align: center;
-        width: 90%;
+        width: 80%;
         font-size: 100%;
         letter-spacing: 4px;
         text-align: center;
-        top: 68%;
+        height: fit-content;
+        top: 40%;
+        align-items: center;
     }
 
     .left-about-heading {
-        width: 80%;
-        line-height: 30px;
+        display: none;
+        line-height: 10px;
         clear: both;
         margin-bottom: 5px;
         letter-spacing: 2px;
@@ -2823,7 +2826,8 @@ h5 {
     }
 
     .right-about-heading {
-
+        display: none;
+        position: absolute;
         line-height: 30px;
         width: 80%;
         line-height: 30px;
@@ -2833,18 +2837,19 @@ h5 {
         font-size: 120%;
         margin-left: 40px;
         overflow: hidden;
+        top: 50%;
     }
 
     .center-about-heading {
         clear: both;
         text-align: center;
-        width: 90%;
+        width: fit-content;
         font-size: 120%;
-        letter-spacing: 2px;
+        letter-spacing: 4px;
         line-height: 30px;
         position: absolute;
-        right: 15%;
-        top: -25%;
+        right: 10%;
+        top: -55%;
         margin-top: 500px;
         padding-top: 20px;
     }
@@ -2865,6 +2870,7 @@ h5 {
         border-radius: 500%;
         margin: 0 auto;
         overflow: hidden;
+
     }
 
     #circle-cover-bg {
@@ -2876,7 +2882,7 @@ h5 {
 
     .btn-high-five {
         position: absolute;
-        top: 68%;
+        top: 30%;
         left: 50%;
         transform: translate(-50%, -10%);
         -ms-transform: translate(-50%, -40%);
@@ -2892,35 +2898,6 @@ h5 {
         margin: 0 auto;
         overflow: hidden;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     /* Three info parts */
@@ -2939,7 +2916,7 @@ h5 {
         position: absolute;
         right: 5%;
         position: absolute;
-        top: 1755px;
+        top: 550px;
         overflow: hidden;
     }
 
@@ -2979,7 +2956,7 @@ h5 {
         clear: both;
         margin-bottom: 5px;
         padding: 140% 0;
-        top: 1750px;
+        top: -330px;
         overflow: hidden;
     }
 
@@ -3395,10 +3372,8 @@ h5 {
 
     /* five excellent missions in a fun gym from the left to right */
 
-
-
     #club-ethos {
-        display: flex;
+        display: none;
         flex-direction: column;
         flex-wrap: nowrap;
         justify-content: center;
@@ -3413,6 +3388,7 @@ h5 {
     }
 
     .part-1 {
+        display: none;
         position: absolute;
         text-align: center;
         font-size: 150%;
@@ -3436,6 +3412,7 @@ h5 {
     }
 
     .left-about-heading .right-about-heading {
+        display: none;
         clear: both;
         text-align: center;
         width: 100%;
@@ -3448,6 +3425,7 @@ h5 {
     }
 
     .left-about-heading {
+        display: none;
         width: 80%;
         line-height: 30px;
         clear: both;
@@ -3459,7 +3437,7 @@ h5 {
     }
 
     .right-about-heading {
-
+        display: none;
         line-height: 30px;
         width: 80%;
         line-height: 30px;
@@ -3472,6 +3450,7 @@ h5 {
     }
 
     .center-about-heading {
+        display: none;
         clear: both;
         text-align: center;
         width: 90%;
