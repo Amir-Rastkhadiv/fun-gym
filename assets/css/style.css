@@ -847,7 +847,6 @@ h5 {
         letter-spacing: 4px;
     }
 
-
     #center-about {
         position: absolute;
         clear: both;
@@ -978,8 +977,6 @@ h5 {
         padding: 0;
     }
 
-
-
     #part-3 div {
         width: 100%;
         clear: both;
@@ -1016,14 +1013,124 @@ h5 {
         overflow: hidden;
     }
 
+    /* Footer */
+
+    footer {
+        height: 470px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+
+    #welcome-footer {
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        color: #e1be0af0;
+        text-align: center;
+    }
+
+    h4 {
+        margin-left: 30px;
+    }
+
+    #footer-details a {
+        text-decoration: none;
+        color: #fafafa;
+    }
+
+
+    #footer-details a:hover {
+        border-bottom: 1px solid #e1dc0a;
+    }
+
+    .social-media-links {
+        text-align: center;
+    }
+
+    .social-media-links li {
+        display: inline;
+    }
+
+    .social-media-links i {
+        font-size: 160%;
+        margin: 2%;
+        padding: 5%;
+        color: #fafafa;
+    }
+
+    .social-media-links li a i {
+        width: 32px;
+        height: 32px;
+        padding: 12px 0;
+        border-radius: 50%;
+        font-size: 13px;
+        line-height: 7px;
+        text-align: center;
+        color: #1328e0;
+        background: #e1be0af0;
+        transition: all 0.35s ease-in-out;
+        -moz-transition: all 0.35s ease-in-out;
+        -webkit-transition: all 0.35s ease-in-out;
+        -o-transition: all 0.35s ease-in-out;
+    }
+
+    .social-media-links li a i:hover {
+        background: #e10a0a;
+    }
+
+    /* copy rights and the country-flag */
+
+    h5 {
+        height: 85px;
+        width: 90%;
+        background: url("../img/uk-flag.png") no-repeat;
+        overflow: hidden;
+        background-size: 90px 60px;
+    }
+
+    .copy-rights {
+
+        font-family: 'Open Sans', sans-serif;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        margin-left: 5px;
+        color: #fafafa;
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 10px;
+        line-height: 30px;
+        position: relative;
+        float: left;
+    }
+
+    #flag {
+
+        position: absolute;
+        top: 70%;
+        left: 48%;
+        transform: translate(-50%, -70%);
+        -ms-transform: translate(-30%, -50%);
+        margin-left: 5%;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        text-align: center;
+        border-image-width: 20%;
+        padding-bottom: 50px;
+    }
+
+    .uk-flag {
+        background-position: left;
+        background-position-y: bottom;
+    }
+
     .social-media-links i {
         font-size: 160%;
         margin: 1%;
         padding: 7%;
         color: #fafafa;
     }
-
-
 }
 
 
@@ -1264,8 +1371,6 @@ h5 {
         font-size: 10px;
         text-align: center;
 
-
-
     }
 
     #cover-text {
@@ -1302,9 +1407,6 @@ h5 {
         border-radius: 20px;
         width: 80%;
         text-align: center;
-
-
-
     }
 
     .btn:hover {
