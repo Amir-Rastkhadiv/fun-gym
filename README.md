@@ -66,6 +66,7 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
     * [IMAGERY](#IMAGERY)
 
 - [USER JOURNEY](#USER-JOURNEY)
+  * ☞ **[testing.md file](/tests/testing.md).**
 - [FEATURES](#FEATURES)
 - [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
   * [LANGUAGES USED](#LANGUAGES-USED)
@@ -841,11 +842,26 @@ To create each of those in the Fun Gym project, the designer applied different t
 
 ## USER-JOURNEY 
 
+- * ☞ **[testing.md file](/tests/testing.md).**
+
 ## FEATURES 
 
 -   Responsive on all device sizes
 
--   Interactive elements
+-   Social Media Links.
+
+-  Links to external pages. 
+
+-   Including Gym Email- address. 
+
+-  Download button for the Fun Gym documents.
+
+- Sign-up form.
+
+- Many links on the main page are available to ease the subsequent release development. 
+
+- In the footer are links to web pages for quick access.
+
 
 ## TECHNOLOGIES-USED
 
