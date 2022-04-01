@@ -211,17 +211,14 @@ For further information I refer you to the <button>[Main README.md file](https:/
 
 ***
 
+## MANUAL TESTING
 
-## FURTHER TESTING
+35. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers. Also, All links tested. 
 
-35. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+## AUTOMATED TESTING
 
-36. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-A large amount of testing was done to ensure that all pages were linking correctly.
+36. The following figures show the accessibility tests. For further information, please look at the [tests](/tests/) folder in the repo. 
 
-37. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-
-38. 
 
 ![Figure 11](/tests/testing-readme-figures/testing-user-stories-sc11.jpeg)
 
@@ -231,6 +228,17 @@ A large amount of testing was done to ensure that all pages were linking correct
 ![Figure 12](/tests/testing-readme-figures/testing-user-stories-sc12.jpeg)
 
 #### <p align="center">Figure-12</p> 
+
+
+## FURTHER TESTING
+
+37. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+
+38. The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+A large amount of testing was done to ensure that all pages were linking correctly.
+
+39. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
 
 ***
 
