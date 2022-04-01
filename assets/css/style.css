@@ -1369,8 +1369,7 @@ h5 {
 
     .social-media-links i {
         font-size: 160%;
-        margin: 2%;
-        padding: 5%;
+        padding: 3%;
         color: #fafafa;
     }
 
@@ -1397,7 +1396,7 @@ h5 {
     /* copy rights and the country-flag */
 
     h5 {
-        height: 700px;
+        height: 100%;
         width: 80%;
         background: url("../img/uk-flag.png") no-repeat;
         overflow: hidden;
@@ -1405,7 +1404,7 @@ h5 {
     }
 
     .copy-rights {
-
+        height: 650px;
         font-family: 'Open Sans', sans-serif;
         letter-spacing: 4px;
         text-transform: uppercase;
@@ -1413,9 +1412,9 @@ h5 {
         color: #fafafa;
         font-weight: 400;
         font-size: 14px;
-        margin-top: 10px;
+        margin-bottom: 40%;
+        padding-top: 30%;
         line-height: 30px;
-        position: relative;
         float: left;
     }
 
