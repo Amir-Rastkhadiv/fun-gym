@@ -186,7 +186,7 @@ As a fair reflection of users' needs, the figure above shows a design for a web 
 
 #### <p align="center">Figure-9</p> 
 
-![Figure 10](/tests/testing-readme-figures/testing-user-stories-sc10.jpeg)
+![Figure 10](/tests/testing-readme-figures/testing-user-stories-sc10jpeg.png)
 
 #### <p align="center">Figure-10</p> 
 
