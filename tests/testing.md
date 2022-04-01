@@ -47,14 +47,11 @@ To access the other parts of the project, please use the following links:
 * [Figure-5](/tests/testing-readme-figures/testing-user-stories-sc5.jpeg)
 * [Figure-6](/tests/testing-readme-figures/testing-user-stories-sc6.jpeg)
 * [Figure-7](/tests/testing-readme-figures/testing-user-stories-sc7.jpeg)
-* [Figure-8]()
-* [Figure-9]()
-* [Figure-10]()
-* [Figure-11]()
-* [Figure-12]()
-* [Figure-13]()
-* [Figure-14]()
-
+* [Figure-8](/tests/testing-readme-figures/testing-user-stories-sc8.jpeg)
+* [Figure-9](/tests/testing-readme-figures/testing-user-stories-sc9.jpeg)
+* [Figure-10](/tests/testing-readme-figures/testing-user-stories-sc10.jpeg)
+* [Figure-11](/tests/testing-readme-figures/testing-user-stories-sc11.jpeg)
+* [Figure-12](/tests/testing-readme-figures/testing-user-stories-sc12.jpeg)
 
 ***
 
