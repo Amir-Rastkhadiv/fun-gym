@@ -2739,27 +2739,18 @@ h5 {
         color: #fafafa;
     }
 
-    /* five excellent missions in a fun gym from the left to right */
-
     #club-ethos {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: nowrap;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        height: 1800px;
-        width: 100%;
+        width: 60%;
         overflow: hidden;
-        position: absoulute;
-        overflow: hidden;
-        bottom: 280px;
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
     }
 
     .part-1 {
         position: absolute;
         text-align: center;
-        font-size: 150%;
+        font-size: 140%;
         letter-spacing: 4px;
         clear: both;
         width: 100%;
@@ -2769,9 +2760,11 @@ h5 {
         padding: 200% 0;
         overflow: hidden;
         top: -35px;
+        width: inherit;
     }
 
     #left-about {
+        height: 100%;
         clear: both;
         text-align: center;
         width: 90%;
@@ -2779,8 +2772,7 @@ h5 {
         letter-spacing: 2px;
         position: absolute;
         right: 15%;
-        top: -25%;
-        margin-top: 500px;
+        width: inherit;
     }
 
     #righ-about {
@@ -2792,6 +2784,8 @@ h5 {
         position: absolute;
         overflow: hidden;
         margin-top: 500px;
+        top: -50%;
+        width: inherit;
     }
 
     .left-about-heading p,
@@ -2801,6 +2795,9 @@ h5 {
         width: 100%;
         margin-left: 0 auto;
         overflow: hidden;
+        width: 100%;
+        text-align: center;
+        padding: 0 20px 0 20px;
     }
 
     #center-about {
@@ -2895,6 +2892,36 @@ h5 {
         margin: 0 auto;
         overflow: hidden;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     /* Three info parts */
 
@@ -3368,6 +3395,8 @@ h5 {
 
     /* five excellent missions in a fun gym from the left to right */
 
+
+
     #club-ethos {
         display: flex;
         flex-direction: column;
@@ -3380,7 +3409,7 @@ h5 {
         overflow: hidden;
         position: absoulute;
         overflow: hidden;
-        bottom: 280px;
+
     }
 
     .part-1 {
@@ -3393,36 +3422,20 @@ h5 {
         line-height: 150%;
         clear: both;
         margin-bottom: 25px;
-        padding: 200% 0;
+        padding: 100% 0;
         overflow: hidden;
         top: -35px;
     }
 
     #left-about {
-        clear: both;
-        text-align: center;
-        width: 90%;
-        font-size: 100%;
-        letter-spacing: 2px;
-        position: absolute;
-        right: 15%;
-        top: -25%;
-        margin-top: 500px;
+        display: none;
     }
 
     #righ-about {
-        clear: both;
-        text-align: center;
-        width: 100%;
-        font-size: 100%;
-        letter-spacing: 4px;
-        position: absolute;
-        overflow: hidden;
-        margin-top: 500px;
+        display: none;
     }
 
-    .left-about-heading p,
-    .right-about-heading p {
+    .left-about-heading .right-about-heading {
         clear: both;
         text-align: center;
         width: 100%;
@@ -3431,14 +3444,7 @@ h5 {
     }
 
     #center-about {
-        position: absolute;
-        clear: both;
-        text-align: center;
-        width: 90%;
-        font-size: 100%;
-        letter-spacing: 4px;
-        text-align: center;
-        top: 68%;
+        display: none;
     }
 
     .left-about-heading {
@@ -3469,18 +3475,58 @@ h5 {
         clear: both;
         text-align: center;
         width: 90%;
-        font-size: 120%;
+        font-size: 100%;
         letter-spacing: 2px;
-        line-height: 30px;
-        position: absolute;
+        line-height: 60px;
         right: 15%;
         top: -25%;
-        margin-top: 500px;
-        padding-top: 20px;
+        margin-top: 700px;
+        padding-top: 10px;
+        position: absolute;
     }
 
     #five-topic-click {
         text-align: center;
+    }
+
+    /* fun gym high-five image for its five extraordinary exclusive missions */
+
+    #circle-container {
+        width: 300px;
+        height: 300px;
+        padding: 30px;
+        border-style: double;
+        border-color: #252525;
+        border-width: 1px;
+        border-radius: 500%;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #circle-cover-bg {
+        background: url("../img/fungym-highfive-5missions.png") no-repeat center center;
+        height: 90%;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+
+    .btn-high-five {
+        position: absolute;
+        top: 68%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #29e014;
+        font-size: 100%;
+        text-transform: uppercase;
+        padding: 20px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 50px;
+        text-align: center;
+        margin: 0 auto;
+        overflow: hidden;
     }
 
     /* fun gym high-five image for its five extraordinary exclusive missions */
