@@ -116,27 +116,27 @@
 
         <h2 id="welcome" class="part-1">Fun Gym loves bodies and buddies</h2>
 
-        <div class="club-ethos__wrapper">
-            <article>
+        <div id="left-about" class="club-ethos__wrapper">
+            <div class="left-about-heading">
                 <h3><a id="five-topic-click" href="members.html">Premier Membership</a></h3>
                 <hr>
                 <p>
                     The entire group deserves an endearing tribute. Our unique services are available in
                     the UK for people of any age, from a newborn to a hundred-year-old.
                 </p>
-            </article>
-            <article class="club-ethos__image-wrapper">
-                <img class="circle-container" alt="A circle frame shows an image of smiling friends giving high-fives while standing in a gym." src="https://amir-rastkhadiv.github.io/fun-gym/assets/img/fungym-highfive-5missions.png" />
-            </article>
-            <article>
+            </div>
+            <div class="left-about-heading">
                 <h3><a id="five-topic-click" href="activities.html">Enjoy 24x7 Classes</a></h3>
                 <hr>
                 <p>
                     There are plenty of engaging styles at the gym, including Fun Gym Master packages, Fun Gym Vitamin,
                     Move it, Shake it, Lift it, Fab & Fit & Fun, Walk This Weight, Abs-Power and much more.
                 </p>
-            </article>
-            <article>
+            </div>
+        </div>
+
+        <div id="right-about">
+            <div class="right-about-heading">
                 <h3><a id="five-topic-click" href="coaching-legend.html">Coaching legends</a></h3>
                 <hr>
                 <p>
@@ -144,8 +144,8 @@
                     charismatic, friendly, and knowledgeable. You can find agile and excellent coaching through our
                     relationships with universities,
                 </p>
-            </article>
-            <article>
+            </div>
+            <div class="right-about-heading">
                 <h3><a id="five-topic-click" href="facilities.html">Top-notch facilities</a></h3>
                 <hr>
                 <p>
@@ -153,8 +153,18 @@
                     for babies, reception, waiting for the area for visitors, dedicated free weights area with a wide
                     range of dumbbells, free weight bars.
                 </p>
-            </article>
-            <article>
+            </div>
+        </div>
+
+        <div id="center-about">
+
+            <div id="circle-container" class="club-ethos__image-wrapper">
+                <div id="circle-cover-bg">
+                    <div role="img" aria-label="A circle frame shows an image of smiling friends giving high-fives while standing in a gym.">
+                    </div>
+                </div>
+            </div>
+            <div class="center-about-heading">
                 <h3><a id="five-topic-click" href="events-with-bodies.html">Events with buddies</a></h3>
                 <hr>
                 <p>
@@ -162,7 +172,13 @@
                     trainer workshops, has celebrations of client success, organizes mass fitness contests, and invites
                     famous fitness entrepreneurs to your event.
                 </p>
-            </article>
+
+            </div>
+        </div>
+        <div>
+            <a href="fun-gymming-now.html">
+                <button class="btn-high-five">High 5 now!</button>
+            </a>
         </div>
     </section>
 
@@ -292,7 +308,6 @@
                     Main
                     Office Location</a></p>
 
-
         </div>
 
     </section>
@@ -373,15 +388,16 @@
             </li>
         </ul>
 
-
         <h5 id="flag" class="copy-rights uk-flag">
             <div>
                 <div role="img" aria-label="Here's a photo of the national flag of the United Kingdom of Great Britain and Northern Ireland. It is rectangular in red, white, and blue. The white edge surrounds a red cross. Although the flag appears symmetrical, the white lines above and below the diagonal red are different widths. 
                 ">
                 </div>
             </div>
-            &copy; 2022 <span>Fun Gym.</span>
-            All rights reserved. London, United Kingdom, is the registered office of Fun GYM.
+            <div id="copy-rights">
+                &copy; 2022 <span>Fun Gym.</span>
+                All rights reserved. London, United Kingdom, is the registered office of Fun GYM.
+            </div>
         </h5>
     </section>
 </footer>
