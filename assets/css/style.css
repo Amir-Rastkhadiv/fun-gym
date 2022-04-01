@@ -1135,177 +1135,317 @@ h5 {
 
 
 
-
-
-
 /* For medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
 
-    #icon-bar {
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin-left: 30px;
+    #club-ethos {
+        width: 90%;
+        height: 100%;
+        margin: 0 auto;
     }
 
-    #icon-bar {
-        font-size: 130%;
-        letter-spacing: 6px;
-        text-transform: uppercase;
+    /* five excellent missions in a fun gym from the left to right */
+
+    .club-ethos__wrapper {
+        display: grid;
+        grid-template-columns: repeat(1, minmax(0, 2fr));
+        grid-gap: 4rem;
     }
 
-    #logo,
-    #icon-bar {
-        line-height: 50px;
-        margin: 0px;
+    .club-ethos__wrapper div {
+        margin-bottom: 1rem;
+    }
+
+    .club-ethos__wrapper div p {
+        font-size: 1.95rem;
+        letter-spacing: 4px;
+    }
+
+    #center-about {
+        position: absolute;
         clear: both;
+        text-align: center;
+        width: 50%;
+        font-size: 100%;
+        letter-spacing: 2px;
+        text-align: center;
+        top: 85%;
+        right: 26%;
     }
 
-    #logo {
+    .left-about-heading {
+        width: 90%;
+        line-height: 30px;
         clear: both;
-        float: left;
-        font-size: 280%;
-        margin-left: 30px;
+        margin-bottom: 2px;
+        letter-spacing: 4px;
+        font-size: 140%;
+        margin-left: 10px;
+        clear: both;
+        overflow: hidden;
     }
 
-    #icon-bar li {
-        float: right;
-        list-style-type: none;
-        margin-left: 40px;
+    .right-about-heading {
+        line-height: 30px;
+        width: 90%;
+        line-height: 30px;
+        clear: both;
+        margin-bottom: 2px;
+        letter-spacing: 4px;
+        font-size: 140%;
+        margin-left: 10px;
+        clear: both;
+        overflow: hidden;
+
     }
 
-    /* hero image */
+    .center-about-heading {
+        text-align: center;
+        width: 80%;
+        font-size: 140%;
+        letter-spacing: 4px;
+        line-height: 30px;
+        position: absolute;
+        top: 70%;
+        margin-top: 300px;
+        padding-top: 20px;
+    }
 
-    #hero-image {
+    #five-topic-click {
+        text-align: center;
+    }
+
+    /* fun gym high-five image for its five extraordinary exclusive missions */
+
+    #circle-container {
+        width: 350px;
+        height: 350px;
+        padding: 30px;
+        border-style: double;
+        border-color: #252525;
+        border-width: 1px;
+        border-radius: 500%;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #circle-cover-bg {
+        background: url("../img/fungym-highfive-5missions.png") no-repeat center center;
         height: 90%;
-        width: 95%;
-        background: url("../img/fungym-hero.png") no-repeat center center;
-        background-size: contain;
+        border-radius: 50%;
+        overflow: hidden;
+    }
 
-        /* Animates zoom effect on loading the page */
+    .btn-high-five {
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        -ms-transform: translate(-50%, -40%);
+        background-color: #333333;
+        color: #29e014;
+        font-size: 100%;
+        text-transform: uppercase;
+        padding: 20px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 50px;
+        text-align: center;
+        margin: 0 auto;
+        overflow: hidden;
+    }
 
-        animation-name: hero-zoom;
-        animation-duration: 5s;
-        animation-fill-mode: forwards;
+    #welcome {
+        padding: 20px 0;
+        margin-top: 10px;
+
+    }
+
+    #part-1 div {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+        border-style: solid;
+        border-bottom-width: 1px;
+        margin-top: 100px;
+    }
+
+    #part-1 {
+        background-image: url("../img/fungym-part-1.png");
+        background-repeat: no-repeat;
+        background-size: 40%;
+        background-position: 60%;
+        background-position-y: 73%;
+        width: 90%;
+        overflow: hidden;
+        padding-left: 30px;
+        margin-left: 30px;
+
+    }
+
+    #part-2 div {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+    }
+
+    #part-3 div {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+    }
+
+    #map {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+    }
+
+    #map-1 {
+        color: #252525;
+        float: right;
+        padding-right: 32%;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        padding-top: 35%;
+    }
+
+    #welcome-part-2 {
+        position: absolute;
+        padding: 5px 0;
+        margin-top: 1115px;
+        text-align: center;
+        font-size: 200%;
+        letter-spacing: 4px;
+        clear: both;
+        width: 100%;
+        line-height: 40%;
+        overflow: hidden;
+    }
+
+    /* Footer */
+
+    footer {
+        height: 1100px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+
+    #welcome-footer {
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        color: #e1be0af0;
+        text-align: center;
+    }
+
+    h4 {
+        margin-left: 30px;
+    }
+
+    #footer-details a {
+        text-decoration: none;
+        color: #fafafa;
+    }
+
+
+    #footer-details a:hover {
+        border-bottom: 1px solid #e1dc0a;
+    }
+
+    .social-media-links {
+        text-align: center;
+    }
+
+    .social-media-links li {
+        display: inline;
+    }
+
+    .social-media-links i {
+        font-size: 160%;
+        margin: 2%;
+        padding: 5%;
+        color: #fafafa;
+    }
+
+    .social-media-links li a i {
+        width: 32px;
+        height: 32px;
+        padding: 12px 0;
+        border-radius: 50%;
+        font-size: 13px;
+        line-height: 7px;
+        text-align: center;
+        color: #1328e0;
+        background: #e1be0af0;
+        transition: all 0.35s ease-in-out;
+        -moz-transition: all 0.35s ease-in-out;
+        -webkit-transition: all 0.35s ease-in-out;
+        -o-transition: all 0.35s ease-in-out;
+    }
+
+    .social-media-links li a i:hover {
+        background: #e10a0a;
+    }
+
+    /* copy rights and the country-flag */
+
+    h5 {
+        height: 700px;
+        width: 80%;
+        background: url("../img/uk-flag.png") no-repeat;
+        overflow: hidden;
+        background-size: 90px 60px;
+    }
+
+    .copy-rights {
+
+        font-family: 'Open Sans', sans-serif;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        margin-left: 5px;
+        color: #fafafa;
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 10px;
+        line-height: 30px;
+        position: relative;
+        float: left;
+    }
+
+    #flag {
+        position: absolute;
+        top: 70%;
+        left: 48%;
+        transform: translate(-50%, -70%);
+        -ms-transform: translate(-30%, -50%);
+        margin-left: 5%;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        text-align: center;
+        border-image-width: 20%;
+        padding-bottom: 50px;
+    }
+
+    .uk-flag {
+
+        background-position-y: bottom;
+    }
+
+    .social-media-links i {
+        font-size: 160%;
+        margin: 1%;
+        padding: 7%;
+        color: #fafafa;
     }
 }
-
-
-/* For medium screens sizes from 820px wide and down */
-
-@media screen and (max-width: 820px) {
-
-
-    #icon-bar {
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin-left: 30px;
-    }
-
-    #icon-bar {
-        font-size: 130%;
-        letter-spacing: 6px;
-        text-transform: uppercase;
-    }
-
-    #logo,
-    #icon-bar {
-        line-height: 50px;
-        margin: 0px;
-        clear: both;
-    }
-
-    #logo {
-        clear: both;
-        float: left;
-        font-size: 280%;
-        margin-left: 30px;
-    }
-
-    #icon-bar li {
-        float: right;
-        list-style-type: none;
-        margin-left: 40px;
-    }
-
-    /* hero image */
-
-    #hero-image {
-        height: 90%;
-        width: 95%;
-        background: url("../img/fungym-hero.png") no-repeat center center;
-        background-size: contain;
-
-        /* Animates zoom effect on loading the page */
-
-        animation-name: hero-zoom;
-        animation-duration: 5s;
-        animation-fill-mode: forwards;
-    }
-
-}
-
-/* For medium screens sizes from 768px wide and down */
-
-@media screen and (max-width: 768px) {
-
-    /* navigation links */
-
-    #icon-bar {
-        clear: left;
-        float: left;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin-left: 30px;
-    }
-
-    #icon-bar {
-        font-size: 130%;
-        letter-spacing: 6px;
-        text-transform: uppercase;
-    }
-
-    #logo,
-    #icon-bar {
-        line-height: 50px;
-        margin: 0px;
-        clear: both;
-    }
-
-    #logo {
-        clear: both;
-        float: left;
-        font-size: 280%;
-        margin-left: 30px;
-    }
-
-    #icon-bar li {
-        float: right;
-        list-style-type: none;
-        margin-left: 40px;
-    }
-
-    /* hero image */
-
-    #hero-image {
-        height: 90%;
-        width: 95%;
-        background: url("../img/fungym-hero.png") no-repeat center center;
-        background-size: contain;
-
-        /* Animates zoom effect on loading the page */
-
-        animation-name: hero-zoom;
-        animation-duration: 5s;
-        animation-fill-mode: forwards;
-    }
-
-}
-
 
 /* For medium screens sizes from 600px wide and down */
 
