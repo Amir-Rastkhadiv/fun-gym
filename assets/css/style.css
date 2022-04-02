@@ -613,6 +613,34 @@ h5 {
     color: #f16c6b;
 }
 
+/*  Contact Form     */
+
+.contact-heading {
+
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    height: 100%;
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 30px;
+    line-height: 30px;
+    font-size: 130%;
+
+}
+
+.center-form {
+    padding-top: 40px;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+button[type="submit"] {
+    margin-top: -11%;
+    margin-bottom: 10px;
+    color: #fafafa;
+    background-color: #e10a0a;
+}
+
 /* Media queries */
 
 /* For large to medium screens sizes from 1280px wide and down */
@@ -1131,6 +1159,12 @@ h5 {
         color: #fafafa;
     }
 
+    .center-form {
+        padding-top: 20px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
 
 /* For medium screens sizes from 950px wide and down */
