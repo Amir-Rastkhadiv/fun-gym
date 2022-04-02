@@ -615,6 +615,8 @@ h5 {
 
 /*  Contact Form     */
 
+/* I have added, removed, and added again to address the demand and headings. However, it requires further consideration, especially when it comes to media queries." */
+
 .contact-heading {
 
     font-family: Lato, sans-serif;
@@ -1158,6 +1160,7 @@ button[type="submit"] {
         padding: 7%;
         color: #fafafa;
     }
+
 
     .center-form {
         padding-top: 20px;
