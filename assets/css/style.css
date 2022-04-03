@@ -622,7 +622,7 @@ h5 {
     clear: both;
     height: 55px;
     font-family: Lato, sans-serif;
-    font-weight: 300px;
+    font-weight: 300;
     width: 50%;
     margin-top: 5%;
     margin-bottom: 10px;
@@ -1459,7 +1459,6 @@ button[type="submit"] {
     .copy-rights {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        text-overflow: hidden;
         line-height: 20px;
         clear: both;
         width: 90%;
@@ -1769,7 +1768,6 @@ button[type="submit"] {
     .copy-rights {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        text-overflow: hidden;
         line-height: 20px;
         clear: both;
         width: 90%;
@@ -2080,7 +2078,6 @@ button[type="submit"] {
         align-content: center;
         height: 600px;
         width: 100%;
-        position: absoulute;
         overflow: hidden;
         bottom: 150px;
     }
@@ -2163,8 +2160,6 @@ button[type="submit"] {
         height: 1800px;
         width: 100%;
         overflow: hidden;
-        position: absoulute;
-        overflow: hidden;
         bottom: 280px;
     }
 
@@ -2211,7 +2206,7 @@ button[type="submit"] {
         clear: both;
         text-align: center;
         width: 100%;
-        margin-left: 0 auto;
+        margin-left: auto;
         overflow: hidden;
     }
 
@@ -2620,7 +2615,6 @@ button[type="submit"] {
     .copy-rights {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        text-overflow: hidden;
         margin-top: 30px;
         line-height: 35px;
         clear: both;
@@ -2713,7 +2707,6 @@ button[type="submit"] {
         align-content: center;
         height: 600px;
         width: 100%;
-        position: absoulute;
         overflow: hidden;
         bottom: 150px;
     }
@@ -2827,7 +2820,7 @@ button[type="submit"] {
         text-align: center;
         width: inherit;
         font-size: 100%;
-        letter-spacing: 2ppx;
+        letter-spacing: 2px;
         position: absolute;
         overflow: hidden;
         top: -50%;
@@ -2839,7 +2832,7 @@ button[type="submit"] {
         clear: both;
         text-align: center;
         width: 100%;
-        margin-left: 0 auto;
+        margin-left: auto;
         overflow: hidden;
         width: 100%;
         text-align: center;
@@ -3255,7 +3248,6 @@ button[type="submit"] {
     .copy-rights {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        text-overflow: hidden;
         margin-top: 30px;
         line-height: 35px;
         clear: both;
@@ -3345,7 +3337,6 @@ button[type="submit"] {
         align-content: center;
         height: 600px;
         width: 100%;
-        position: absoulute;
         overflow: hidden;
         bottom: 150px;
     }
@@ -3427,9 +3418,6 @@ button[type="submit"] {
         height: 1800px;
         width: 100%;
         overflow: hidden;
-        position: absoulute;
-        overflow: hidden;
-
     }
 
     .part-1 {
@@ -3461,7 +3449,7 @@ button[type="submit"] {
         clear: both;
         text-align: center;
         width: 100%;
-        margin-left: 0 auto;
+        margin-left: auto;
         overflow: hidden;
     }
 
@@ -3903,7 +3891,6 @@ button[type="submit"] {
     .copy-rights {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        text-overflow: hidden;
         margin-top: 30px;
         line-height: 35px;
         clear: both;
@@ -3995,8 +3982,6 @@ button[type="submit"] {
         align-content: center;
         height: 600px;
         width: 100%;
-        position: absoulute;
-        overflow: hidden;
         bottom: 150px;
     }
 
@@ -4078,7 +4063,6 @@ button[type="submit"] {
         height: 1800px;
         width: 100%;
         overflow: hidden;
-        position: absoulute;
         overflow: hidden;
         bottom: 280px;
     }
@@ -4126,7 +4110,6 @@ button[type="submit"] {
         clear: both;
         text-align: center;
         width: 100%;
-        margin-left: 0 auto;
         overflow: hidden;
     }
 
@@ -4535,7 +4518,6 @@ button[type="submit"] {
     .copy-rights {
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
-        text-overflow: hidden;
         margin-top: 30px;
         line-height: 35px;
         clear: both;
