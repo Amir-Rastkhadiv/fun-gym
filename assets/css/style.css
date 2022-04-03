@@ -186,6 +186,13 @@ a {
     color: #fafafa;
 }
 
+#bg-col-now {
+    background-color: #333333;
+    color: #e1dc0a;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
 
 /* five excellent missions in a fun gym from the left to right */
 
