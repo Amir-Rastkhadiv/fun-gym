@@ -57,6 +57,12 @@ h1 {
     color: #e10a0a;
 }
 
+a {
+    color: #e1be0af0;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
 #logo {
     float: left;
     font-size: 280%;
