@@ -567,6 +567,11 @@ h5 {
 /* Adjust the colour contrast for accessibility */
 
 /* download icon - checked with google dev tool*/
+#download-colour {
+
+    color: #98BFE1;
+
+}
 
 /* back to top, Wave verified that*/
 #btt-colour {
