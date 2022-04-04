@@ -201,7 +201,9 @@ a {
     position: relative;
 }
 
-#welcome {
+#welcome,
+#welcome-part-3,
+#welcome-part-4 {
     text-align: center;
 }
 
@@ -219,6 +221,7 @@ a {
     overflow: hidden;
 
 }
+
 
 #left-about {
     padding-top: 30px;
