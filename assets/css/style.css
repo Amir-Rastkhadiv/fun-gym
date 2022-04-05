@@ -2571,6 +2571,7 @@ button[type="submit"] {
 
     }
 
+    #footer-details-2,
     #footer-details a {
         text-decoration: none;
         color: #fafafa;
@@ -2913,7 +2914,18 @@ button[type="submit"] {
         padding-top: 20px;
     }
 
-    #five-topic-click {
+    #five-topic-click,
+    #five-topic-click-2,
+    #five-topic-click-3,
+    #five-topic-click-4,
+    #five-topic-click-5,
+    #five-topic-click-6,
+    #five-topic-click-7,
+    #five-topic-click-8,
+    #five-topic-click-9,
+    #five-topic-click-10,
+    #five-topic-click-11,
+    #five-topic-click-12 {
         text-align: center;
     }
 
