@@ -47,6 +47,9 @@ To access the other parts of the project, please use the following links:
 * [Figure-10](/tests/testing-readme-figures/testing-user-stories-sc10.jpeg)
 * [Figure-11](/tests/testing-readme-figures/testing-user-stories-sc11.jpeg)
 * [Figure-12](/tests/testing-readme-figures/testing-user-stories-sc12.jpeg)
+* [Figure-13](/tests/testing-readme-figures/testing-html-sc13.jpeg)
+* [Figure-14](/tests/testing-readme-figures/testing-css-sc14.jpeg)
+
 
 ***
 
@@ -212,7 +215,7 @@ For further information I refer you to the <button>[Main README.md file](https:/
 
 ## AUTOMATED TESTING
 
-36. The following figures show the accessibility tests. For further information, please look at the [tests](/tests/) folder in the repo. 
+36. The following figures show accessibility tests and the W3C CSS/HTML Validator Services. For further information, please look at the [tests](/tests/) folder in the repo. 
 
 
 ![Figure 11](/tests/testing-readme-figures/testing-user-stories-sc11.jpeg)
@@ -223,6 +226,14 @@ For further information I refer you to the <button>[Main README.md file](https:/
 ![Figure 12](/tests/testing-readme-figures/testing-user-stories-sc12.jpeg)
 
 #### <p align="center">Figure-12</p> 
+
+![Figure 13](/tests/testing-readme-figures/testing-html-sc13.jpeg)
+
+#### <p align="center">Figure-13</p> 
+
+![Figure 14](/tests/testing-readme-figures/testing-css-sc14.jpeg)
+
+#### <p align="center">Figure-14</p> 
 
 
 ## FURTHER TESTING
