@@ -59,8 +59,8 @@ To access the other parts of the project, please use the following links:
 * [Figure-16](/tests/testing-readme-figures/testing-lighthouse-sc16.jpeg)
 * [Figure-17](/tests/testing-readme-figures/testing-lighthouse-sc17.jpeg)
 * [Figure-18](/tests/testing-readme-figures/testing-lighthouse-sc18.jpeg)
-* [Figure-19](#)
-* [Figure-20](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
+* [Figure-19](/tests/testing-readme-figures/testing-freeformatter-sc19.jpeg)
+* [Figure-20](/tests/testing-readme-figures/testing-freeformatter-sc20.jpeg)
 * [Figure-21](/tests/testing-readme-figures/testing-lighthouse-sc21.jpeg)
 
 ***
@@ -279,6 +279,11 @@ A large amount of testing was done to ensure that all pages were linking correct
 40. The outcomes of comparing the Github pages and Gitpod pages/IDE tests were 100% successful. 
 
 41. Below is an example of checking file formats using [FREEFORMATTER](https://www.freeformatter.com/html-formatter.html#ad-output).
+
+![Figure 19](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
+
+#### <p align="center">Figure-19</p> 
+
 
 ![Figure 20](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
 
