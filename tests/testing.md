@@ -261,6 +261,8 @@ A large amount of testing was done to ensure that all pages were linking correct
 
 39. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
+40. The outcomes of comparing the Github pages and Gitpod pages/IDE tests were 100% successful. 
+
 
 ***
 
