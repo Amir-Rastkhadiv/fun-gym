@@ -49,6 +49,10 @@ To access the other parts of the project, please use the following links:
 * [Figure-12](/tests/testing-readme-figures/testing-user-stories-sc12.jpeg)
 * [Figure-13](/tests/testing-readme-figures/testing-html-sc13.jpeg)
 * [Figure-14](/tests/testing-readme-figures/testing-css-sc14.jpeg)
+* [Figure-15](/tests/testing-readme-figures/testing-lighthouse-sc15.jpeg)
+* [Figure-16](/tests/testing-readme-figures/testing-lighthouse-sc16.jpeg)
+
+
 
 
 ***
