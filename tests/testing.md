@@ -298,6 +298,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - Fun Gym used [Gitpod](https://www.gitpod.io/) IDE as a remote environment for developing the code and applying tools. 
 
+- A very constructive methodology for preparing the documentation was provided by Christopher Booth from South Devon College in [Milestone One Assessment Walkthrough](https://web.microsoftstream.com/video/3cc59ec4-d471-4527-8629-6c246f52aa27).
+
 ***
 
 -------------------------------------------------------------------
