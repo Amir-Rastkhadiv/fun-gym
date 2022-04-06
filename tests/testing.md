@@ -59,6 +59,9 @@ To access the other parts of the project, please use the following links:
 * [Figure-16](/tests/testing-readme-figures/testing-lighthouse-sc16.jpeg)
 * [Figure-17](/tests/testing-readme-figures/testing-lighthouse-sc17.jpeg)
 * [Figure-18](/tests/testing-readme-figures/testing-lighthouse-sc18.jpeg)
+* [Figure-19](#)
+* [Figure-20](#)
+* [Figure-21](/tests/testing-readme-figures/testing-lighthouse-sc21.jpeg)
 
 ***
 
@@ -278,6 +281,13 @@ A large amount of testing was done to ensure that all pages were linking correct
 ## BUGS-AND-DEFECTS
 
 41.  In the current release of the fun gym website, Image formats are PNG, JPEG and PDF. Still, it needs WebP and AVIF formats to increase performance as those often provide better compression than faster downloads and less data consumption. The next release could address it. 
+
+42. As the figure below shows, the Lighthouse provided further advice for improving performance in the next release.  
+
+![Figure 21](/tests/testing-readme-figures/testing-lighthouse-sc21.jpeg)
+
+#### <p align="center">Figure-18</p> 
+
 
 ***
 
