@@ -300,6 +300,8 @@ A large amount of testing was done to ensure that all pages were linking correct
 
 #### <p align="center">Figure-21</p> 
 
+43. I found the blank white space on different screens to be at the bottom of some pages. Further analysis of the issue resides, which will take time to learn about and address. I think the media queries must revise. 
+
 
 ***
 
