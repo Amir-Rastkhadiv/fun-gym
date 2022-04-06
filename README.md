@@ -1021,7 +1021,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The web developer community on Slack is also constructive.
 
-
+- I could not thank enough from Christopher Booth for his professional feedback and the time spent on those checks. It was educative.
 
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
