@@ -226,8 +226,7 @@ For further information I refer you to the <button>[Main README.md file](https:/
 
 ## AUTOMATED TESTING
 
-36. The following figures illustrate automated tests. Figures 11 and 12 show the results of the accessibility evaluation performed via WAVE-WEBAIM. Figures 13 and 14 show the results obtained with the W3C HTML/CSS Validator Services. Also,  you can find google chrome lighthouse checks in figures 15 and 16. It describes the Fun Gym website reached 100% achievement in SEO,  accessibility, and the best practice; however, it needs a bit development in performance as it shows 74% outcomes. Last but not least,  ...
-
+36. Below are examples of automated tests. Accordingly, Figures 11 and 12 demonstrate the results of the accessibility evaluation performed using WAVE-WEBAIM. Figures 13 and 14 depict the results obtained using the HTML/CSS validator services provided by the W3C. You can also find Google Chrome Lighthouse checks in figures 15,16,17, and 18. As stated in the report, Fun Gym reached 100% achievement in SEO, accessibility, and adherence to best practices; however, in terms of performance, it shows 74% outcomes on mobile devices and 87% results on desktops. A responsiveness check was conducted on the site "Am I Responsive" for the mock-ups shown in Figure-1.
 
 For further information, please look at the [tests](/tests/) folder in the repo. 
 
