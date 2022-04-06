@@ -56,6 +56,8 @@ To access the other parts of the project, please use the following links:
 * [Figure-14](/tests/testing-readme-figures/testing-css-sc14.jpeg)
 * [Figure-15](/tests/testing-readme-figures/testing-lighthouse-sc15.jpeg)
 * [Figure-16](/tests/testing-readme-figures/testing-lighthouse-sc16.jpeg)
+* [Figure-17](/tests/testing-readme-figures/testing-lighthouse-sc17.jpeg)
+
 
 
 
@@ -254,6 +256,10 @@ For further information, please look at the [tests](/tests/) folder in the repo.
 ![Figure 16](/tests/testing-readme-figures/testing-lighthouse-sc16.jpeg)
 
 #### <p align="center">Figure-16</p> 
+
+![Figure 17](/tests/testing-readme-figures/testing-lighthouse-sc17.jpeg)
+
+#### <p align="center">Figure-17</p> 
 
 
 
