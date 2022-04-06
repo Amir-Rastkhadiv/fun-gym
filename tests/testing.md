@@ -277,8 +277,7 @@ A large amount of testing was done to ensure that all pages were linking correct
 
 ## BUGS-AND-DEFECTS
 
-41. 
-
+41.  In the current release of the fun gym website, Image formats are PNG, JPEG and PDF. Still, it needs WebP and AVIF formats to increase performance as those often provide better compression than faster downloads and less data consumption. The next release could address it. 
 
 ***
 
