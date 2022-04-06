@@ -1,5 +1,10 @@
 <h1 align="center">FUN GYM - TESTING  </h1>
 
+![Figure 1](/tests/testing-readme-figures/testing-user-stories-sc1.jpeg)
+
+#### <p align="center">Figure-2</p> 
+
+
 ## INTRODUCTION 
 
 Here is the test document for [Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/).
@@ -35,7 +40,7 @@ To access the other parts of the project, please use the following links:
 
 
 ## TABLE OF FIGURES:
-* [Figure-1]()
+* [Figure-1]((/tests/testing-readme-figures/testing-user-stories-sc1.jpeg)
 * [Figure-2](/tests/testing-readme-figures/testing-user-stories-sc2.jpeg)
 * [Figure 3](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)
 * [Figure 4](/tests/testing-readme-figures/testing-user-stories-sc4.jpeg)
@@ -64,6 +69,9 @@ To access the other parts of the project, please use the following links:
 - ## First Time Visitor Goals: 
 
 1. If I visit a website, I look for something nearly similar to the market or relevant to the business. Having some uniqueness, though, would be great, as well as something that motivates me to delve deeper into the website. 
+
+#### <p align="center">Figure-2</p> 
+
 
 2. The first impression can be a welcome message, a nice logo, an affable hero image, whatever catches my eye at first glance. It may offer a great deal/discount/features compared to its competitors.
 
