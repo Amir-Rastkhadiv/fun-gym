@@ -239,6 +239,15 @@ For further information I refer you to the <button>[Main README.md file](https:/
 
 #### <p align="center">Figure-14</p> 
 
+![Figure 15](/tests/testing-readme-figures/testing-lighthouse-sc15.jpeg)
+
+#### <p align="center">Figure-15</p> 
+
+![Figure 16](/tests/testing-readme-figures/testing-lighthouse-sc16.jpeg)
+
+#### <p align="center">Figure-16</p> 
+
+
 
 ## FURTHER TESTING
 
