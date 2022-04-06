@@ -32,7 +32,8 @@ To access the other parts of the project, please use the following links:
 2. [MANUAL TESTING](#MANUAL-TESTING) 
 3. [AUTOMATED TESTING](#AUTOMATED-TESTING) 
 4. [FURTHER TESTING](#FURTHER-TESTING)
-5. [CREDITS](#CREDITS)
+5. [BUGS-AND-DEFECTS](#BUGS-AND-DEFECTS)
+6. [CREDITS](#CREDITS)
 
 ***
 
@@ -273,6 +274,10 @@ A large amount of testing was done to ensure that all pages were linking correct
 39. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 40. The outcomes of comparing the Github pages and Gitpod pages/IDE tests were 100% successful. 
+
+## BUGS-AND-DEFECTS
+
+41. 
 
 
 ***

@@ -915,7 +915,6 @@ In a [tests](/tests) folder, you can find information related to testing. It con
 
 ## BUGS AND DEFECTS
 
-
 -  Please check out ☞ **[testing.md file ](/tests/testing.md).**
 
 ## DEPLOYMENT
