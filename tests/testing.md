@@ -285,7 +285,6 @@ A large amount of testing was done to ensure that all pages were linking correct
 #### <p align="center">Figure-20</p> 
 
 
-
 ## BUGS-AND-DEFECTS
 
 41.  In the current release of the fun gym website, Image formats are PNG, JPEG and PDF. Still, it needs WebP and AVIF formats to increase performance as those often provide better compression than faster downloads and less data consumption. The next release could address it. 
@@ -319,6 +318,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - ["Am I Responsive"](http://ami.responsivedesign.is/) website was used to make the mock-ups shown in Figure-1.
 
 - Fun Gym used [Gitpod](https://www.gitpod.io/) IDE as a remote environment for developing the code and applying tools. 
+
+- HTML/CSS file-formats checked through online Beautifier [FREEFORMATTER](https://www.freeformatter.com/html-formatter.html#ad-output).
 
 - A very constructive methodology for preparing the documentation was provided by Christopher Booth from South Devon College in [Milestone One Assessment Walkthrough](https://web.microsoftstream.com/video/3cc59ec4-d471-4527-8629-6c246f52aa27).
 
