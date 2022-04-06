@@ -902,6 +902,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - To meet the word limits for GitHub commits, meta tags, and so on, the project designer used [EASYWORDCOUNT](https://easywordcount.com/).
 
+- ["Am I Responsive"](http://ami.responsivedesign.is/) website was used to make the mock-ups shown in Figure-1.
+
+- Fun Gym used [Gitpod](https://www.gitpod.io/) IDE as a remote environment for developing the code and applying tools.The development process included regular testing between GitHub pages and Gitpod pages.
+
 ### RESULTS OF TESTS
 
 In a [tests](/tests) folder, you can find information related to testing. It contains a separate readme file below describing the testing process :
