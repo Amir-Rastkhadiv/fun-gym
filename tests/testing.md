@@ -278,6 +278,14 @@ A large amount of testing was done to ensure that all pages were linking correct
 
 40. The outcomes of comparing the Github pages and Gitpod pages/IDE tests were 100% successful. 
 
+41. Below is an example of checking file formats using [FREEFORMATTER](https://www.freeformatter.com/html-formatter.html#ad-output).
+
+![Figure 20](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
+
+#### <p align="center">Figure-20</p> 
+
+
+
 ## BUGS-AND-DEFECTS
 
 41.  In the current release of the fun gym website, Image formats are PNG, JPEG and PDF. Still, it needs WebP and AVIF formats to increase performance as those often provide better compression than faster downloads and less data consumption. The next release could address it. 
