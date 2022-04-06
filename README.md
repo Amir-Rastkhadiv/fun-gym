@@ -73,7 +73,10 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
   * [FRAMEWORKS,LIBRARIES & PROGRAMS USED](#FRAMEWORKS,-LIBRARIES-&-PROGRAMS-USED)
 - [TESTING](#TESTING)
   * [RESULTS OF TESTS](#RESULTS-OF-TESTS)
-    * ☞ **[testing.md file ](/tests/testing.md).**
+    * ☞ **[testing.md file ](/tests/testing.md).** 
+    
+- [BUGS-AND-DEFECTS](#BUGS-AND-DEFECTS)
+  * ☞ **[testing.md file](/tests/testing.md).**
 
 - [DEPLOYMENT](#DEPLOYMENT)
   * [GITHUB PAGES](#GITHUB-PAGES)
@@ -101,8 +104,6 @@ Enjoy it and happy, healthy and wealthy fit coding activity!
 * [Figure-11](/readme/readme-figures/fig-11-colour-models.png)
 * [Figure-12](/readme/readme-figures/fig-12-color%20-palette1.png)
 * [Figure-13](/readme/readme-figures/fig-13-color-pallete2.png)
-
-
 
 ---
 ---
@@ -911,6 +912,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 In a [tests](/tests) folder, you can find information related to testing. It contains a separate readme file below describing the testing process :
 
 - ☞ **[testing.md file ](/tests/testing.md).**
+
+## BUGS AND DEFECTS
+
+
+-  Please check out ☞ **[testing.md file ](/tests/testing.md).**
 
 ## DEPLOYMENT
 
