@@ -2,7 +2,7 @@
 
 ![Figure 1](/tests/testing-readme-figures/testing-user-stories-sc1.jpeg)
 
-#### <p align="center">Figure-2</p> 
+#### <p align="center">Figure-1</p> 
 
 
 ## INTRODUCTION 
@@ -40,7 +40,7 @@ To access the other parts of the project, please use the following links:
 
 
 ## TABLE OF FIGURES:
-* [Figure-1]((/tests/testing-readme-figures/testing-user-stories-sc1.jpeg)
+* [Figure-1](/tests/testing-readme-figures/testing-user-stories-sc1.jpeg)
 * [Figure-2](/tests/testing-readme-figures/testing-user-stories-sc2.jpeg)
 * [Figure 3](/tests/testing-readme-figures/testing-user-stories-sc3.jpeg)
 * [Figure 4](/tests/testing-readme-figures/testing-user-stories-sc4.jpeg)
