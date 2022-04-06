@@ -60,7 +60,7 @@ To access the other parts of the project, please use the following links:
 * [Figure-17](/tests/testing-readme-figures/testing-lighthouse-sc17.jpeg)
 * [Figure-18](/tests/testing-readme-figures/testing-lighthouse-sc18.jpeg)
 * [Figure-19](#)
-* [Figure-20](#)
+* [Figure-20](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
 * [Figure-21](/tests/testing-readme-figures/testing-lighthouse-sc21.jpeg)
 
 ***
