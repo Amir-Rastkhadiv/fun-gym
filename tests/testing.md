@@ -286,7 +286,7 @@ A large amount of testing was done to ensure that all pages were linking correct
 
 ![Figure 21](/tests/testing-readme-figures/testing-lighthouse-sc21.jpeg)
 
-#### <p align="center">Figure-18</p> 
+#### <p align="center">Figure-21</p> 
 
 
 ***
