@@ -280,12 +280,12 @@ A large amount of testing was done to ensure that all pages were linking correct
 
 41. Below is an example of checking file formats using [FREEFORMATTER](https://www.freeformatter.com/html-formatter.html#ad-output).
 
-![Figure 19](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
+![Figure 19](/tests/testing-readme-figures/testing-freeformatter-sc19.jpeg)
 
 #### <p align="center">Figure-19</p> 
 
 
-![Figure 20](/tests/testing-readme-figures/testing-lighthouse-sc20.jpeg)
+![Figure 20](/tests/testing-readme-figures/testing-freeformatter-sc20.jpeg)
 
 #### <p align="center">Figure-20</p> 
 
