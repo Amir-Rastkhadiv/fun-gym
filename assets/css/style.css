@@ -10,6 +10,10 @@
     border: 0;
 }
 
+* {
+    outline: solid 1px red;
+}
+
 body {
     overflow-x: hidden;
 }
@@ -201,7 +205,6 @@ a {
 #bg-col-now {
     background-color: #333333;
     color: #e1dc0a;
-    width: 60%;
     margin: auto;
     text-align: center;
 }
@@ -2692,6 +2695,11 @@ button[type="submit"] {
         overflow-x: hidden;
     }
 
+    body {
+        overflow-x: hidden;
+        width: 90%;
+    }
+
     .first-line {
         display: flex;
         flex-direction: row;
@@ -2700,7 +2708,7 @@ button[type="submit"] {
         align-items: center;
         align-content: center;
         height: 100px;
-        width: 100%;
+        width: 90%;
         position: relative;
         overflow: hidden;
     }
@@ -2740,7 +2748,7 @@ button[type="submit"] {
         align-items: center;
         align-content: center;
         height: 600px;
-        width: 100%;
+        width: 90%;
         overflow: hidden;
         bottom: 150px;
     }
@@ -2770,19 +2778,26 @@ button[type="submit"] {
     }
 
     #cover-text {
-        font-size: 9px;
+        font-size: 7px;
         font-family: 'Open Sans', sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
-        width: 70%;
+        width: 85%;
         height: 35%;
         padding-top: 20px;
-        padding-left: 10px;
         background-color: #dd7474a6;
-        right: 200px;
+        right: 100px;
         top: 50%;
         position: absolute;
         overflow: hidden;
+        text-align: center;
+    }
+
+    #bg-col-now {
+        background-color: #333333;
+        color: #e1dc0a;
+        margin: auto;
+        text-align: center;
     }
 
     /* Creates the button  on text image for join now */
@@ -2829,7 +2844,7 @@ button[type="submit"] {
         margin-bottom: 5px;
         padding: 200% 0;
         overflow: hidden;
-        width: inherit;
+        width: 90%;
         top: -10px;
     }
 
@@ -2858,6 +2873,7 @@ button[type="submit"] {
         position: absolute;
         overflow: hidden;
         top: -50%;
+        width: 90%;
     }
 
     .left-about-heading p,
@@ -2895,6 +2911,7 @@ button[type="submit"] {
         font-size: 120%;
         margin-left: 10px;
         overflow: hidden;
+        width: 90%;
     }
 
     .right-about-heading {
@@ -2924,6 +2941,7 @@ button[type="submit"] {
         top: -55%;
         margin-top: 500px;
         padding-top: 20px;
+        width: 90%;
     }
 
     #five-topic-click,
@@ -2962,6 +2980,7 @@ button[type="submit"] {
         height: 90%;
         border-radius: 50%;
         overflow: hidden;
+        width: 90%;
     }
 
     .btn-high-five {
@@ -2981,6 +3000,7 @@ button[type="submit"] {
         text-align: center;
         margin: 0 auto;
         overflow: hidden;
+        width: 90%;
     }
 
 
@@ -2994,7 +3014,7 @@ button[type="submit"] {
         align-items: center;
         align-content: center;
         height: 1410px;
-        width: 95%;
+        width: 90%;
         background-size: 40%;
         background-position: 59%;
         position: absolute;
