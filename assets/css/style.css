@@ -10,9 +10,6 @@
     border: 0;
 }
 
-* {
-    outline: solid 1px red;
-}
 
 body {
     overflow-x: hidden;
