@@ -219,7 +219,13 @@ a {
 #welcome,
 #welcome-part-3,
 #welcome-part-4 {
-    text-align: center;
+    float: left;
+    width: 70%;
+    margin: 0 auto;
+    overflow: hidden;
+    clear: both;
+    line-height: 50%;
+    overflow: hidden;
 }
 
 #welcome-part-2 {
@@ -2697,7 +2703,7 @@ button[type="submit"] {
 
     body {
         overflow-x: hidden;
-        width: 90%;
+        width: 100%;
     }
 
     .first-line {
@@ -2707,29 +2713,32 @@ button[type="submit"] {
         justify-content: center;
         align-items: center;
         align-content: center;
-        height: 100px;
-        width: 90%;
-        position: relative;
         overflow: hidden;
+        justify-content: space-around;
     }
 
     #icon-bar {
+        display: flex;
         font-size: 85%;
         letter-spacing: 2px;
         text-transform: uppercase;
+        flex: auto;
     }
 
     #logo,
     #icon-bar {
-        margin: 0 auto;
-        clear: both;
+        flex-wrap: wrap;
         overflow: hidden;
+        flex-direction: row;
+        flex: 1 100px;
     }
 
     #logo {
-        clear: both;
+        flex-direction: row;
         font-size: 220%;
         overflow: hidden;
+        flex-shrink: inherit;
+
     }
 
     #icon-bar li {
