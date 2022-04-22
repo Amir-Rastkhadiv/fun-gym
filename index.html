@@ -38,181 +38,181 @@
     <!--     links                                          -->
     <!-- Reminder! Further languages links, Favicon, google tag manager for releases 4 AND 5. -->
     <!-- links for the current realease-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="assets/css/style.css">
+
 </head>
 
 <body>
     <!-- Logo and Top Navigation Menu: Added a custom style to the navigation-->
     <!-- Check the Heading tag structure at https://www.nomensa.com/blog/how-structure-headings-web-accessibility and the Code Institue LMS at https://learn.codeinstitute.net -->
-    <header class="first-line">
-        <a href="index.html">
-            <h1 id="logo">Fun Gym</h1>
-        </a>
-        <nav class="topnav">
-            <ul id="icon-bar">
-                <li>
-                    <a class="active" href="login.html">Login</a>
-                </li>
-                <li>
-                    <a class="active" href="contact-us.html">Contact Us</a>
-                </li>
-                <li>
-                    <a class="active" href="index.html">Home</a>
-                </li>
+
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="login.html">Fun Gym</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="login.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="contact-us.html">Contact Us</a></li>
             </ul>
-        </nav>
-    </header>
-    <!-- Embed the hero image in CSS into the HTML for design purposes. -->
-    <section id="hero-outer">
-        <div id="hero-image">
-            <div role="img" aria-label="Here is a photo of athletes on a fitness ball smiling while exercising. 
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <h3>Get in shape while smiling.</h3>
+        <p>Join Fun Gymg now!</p>
+
+        <!-- Embed the hero image in CSS into the HTML for design purposes. -->
+        <section id="hero-outer">
+            <div id="hero-image">
+                <div role="img" aria-label="Here is a photo of athletes on a fitness ball smiling while exercising. 
           There are three ladies in the front row and three men in the back with colourful balls and outfits.">
-            </div>
-            <div id="cover-text" class="btn">
-                <h2>Get in shape while smiling.</h2>
-                <h3 id="bg-col-now">
-                    <a href="fun-gymming-now.html">
-                        Fun gymming now!
-                    </a>
-                </h3>
-            </div>
-        </div>
-    </section>
-    <!-- Features special sections depict hero-2 images to meet the user's objective. -->
-    <section id="club-ethos">
-        <h2 id="welcome" class="part-1">Fun Gym loves bodies and buddies</h2>
-        <div id="left-about" class="club-ethos__wrapper">
-            <div class="left-about-heading">
-                <h3>Premier Membership</h3>
-                <hr>
-                <p>
-                    The entire group deserves an endearing tribute. Our unique services are available in
-                    the UK for people of any age, from a newborn to a hundred-year-old.
-                </p>
-            </div>
-            <div class="left-about-heading">
-                <h3>Enjoy 24x7 Classes</h3>
-                <hr>
-                <p>
-                    There are plenty of engaging styles at the gym, including Fun Gym Master packages, Fun Gym Vitamin,
-                    Move it, Shake it, Lift it, Fab & Fit & Fun, Walk This Weight, Abs-Power and much more.
-                </p>
-            </div>
-        </div>
-        <div id="right-about">
-            <div class="right-about-heading">
-                <h3>Coaching legends</h3>
-                <hr>
-                <p>
-                    An excellent way to motivate members is to have a motivational trainer. Fun gym coaches are
-                    charismatic, friendly, and knowledgeable. You can find agile and excellent coaching through our
-                    relationships with universities,
-                </p>
-            </div>
-            <div class="right-about-heading">
-                <h3>Top-notch facilities</h3>
-                <hr>
-                <p>
-                    Free Parking, Free Wifi, Lounge Area. Mind and Body Studio, Access for the disabled, changing rooms
-                    for babies, reception, waiting for the area for visitors, dedicated free weights area with a wide
-                    range of dumbbells, free weight bars.
-                </p>
-            </div>
-        </div>
-        <div id="center-about">
-            <div id="circle-container" class="club-ethos__image-wrapper">
-                <div id="circle-cover-bg">
-                    <div role="img" aria-label="A circle frame shows an image of smiling friends giving high-fives while standing in a gym.">
-                    </div>
+                </div>
+                <div id="cover-text" class="btn">
+                    <h2>Get in shape while smiling.</h2>
+                    <h3 id="bg-col-now">
+                        <a href="fun-gymming-now.html">
+                            Fun gymming now!
+                        </a>
+                    </h3>
                 </div>
             </div>
-            <div class="center-about-heading">
-                <h3>Events with buddies</h3>
-                <hr>
-                <p>
-                    Fancy a free Fun Gym high five? Our service engages the community, hosts charity events, holds
-                    trainer workshops, has celebrations of client success, organizes mass fitness contests, and invites
-                    famous fitness entrepreneurs to your event.
-                </p>
+        </section>
+        <!-- Features special sections depict hero-2 images to meet the user's objective. -->
+
+        <section id="club-ethos">
+            <h2 id="welcome" class="part-1">Fun Gym loves bodies and buddies</h2>
+
+            <div class="row">
+                <div class="col-sm-4" style="background-color:rgba(214, 58, 31, 0.799);">
+                    <h4>Premier Membership</h4>
+                    <p>The entire group deserves an endearing tribute. Our unique services are available in
+                        the UK for people of any age, from a newborn to a hundred-year-old.</p>
+                </div>
+                <div class="col-sm-4" style="background-color:rgba(214, 58, 31, 0.799);">
+
+                    <div id="circle-container" class="club-ethos__image-wrapper">
+                        <div id="circle-cover-bg">
+                            <div role="img" aria-label="A circle frame shows an image of smiling friends giving high-fives while standing in a gym.">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-4" style="background-color:rgba(214, 58, 31, 0.799);">
+                    <h4>Coaching legends</h4>
+                    <p>An excellent way to motivate members is to have a motivational trainer. Fun gym coaches are charismatic, friendly, and knowledgeable. You can find agile and excellent coaching through our relationships with universities.</p>
+                </div>
+
             </div>
-        </div>
-    </section>
-    <!-- Add the  Fun Gym products/classes and the mebership/support. -->
-    <section>
-        <div>
-            <h2 id="welcome-part-2" class="part-2">Enjoy Fun Gymming!</h2>
-        </div>
-    </section>
-    <section id="part-1">
-        <div role="img" aria-label="The image is a digital composition of a motivational message and a healthy man doing pull-ups on horizontal bars in a gym.">
-            <h2>Products</h2>
-            <h3>Clasess</h3>
-            <h3> Fun Gym Packages</h3>
-            <h3>Online Sessions</h3>
-            <h3> Outdoor Courses</h3>
-        </div>
-        <div>
-            <h2>Membership</h2>
-            <h3>Individuals/Familes</h3>
-            <h3>Students</h3>
-            <h3>Groups/Companies</h3>
-            <h3>Support</h3>
-        </div>
-    </section>
 
-    <!-- Include 3 sections with the Fun Gym Address. -->
-    <section>
-        <div>
-            <h2 id="welcome-part-4" class="part-4">Fun Gym Is Here to Help</h2>
-        </div>
-    </section>
-    <section id="part-3">
+            <div class="row">
+                <div class="col-sm-4" style="background-color:rgba(214, 58, 31, 0.799);">
+                    <h4>Enjoy 24x7 Classes</h4>
+                    <p>The entire group deserves an endearing tribute. Our unique services are available in
+                        the UK for people of any age, from a newborn to a hundred-year-old.</p>
+                </div>
 
-        <div>
-            <h2 class="map-only"> Our Addresses</h2>
-            <h3 class="map-only">England</h3>
-            <h3 class="map-only">Scotland</h3>
-            <h3 class="map-only">Wales </h3>
-            <h3 class="map-only">Northern Ireland</h3>
+                <div class="col-sm-4" style="background-color:rgba(214, 58, 31, 0.799);">
+
+                    <h3>Events with buddies</h3>
+                    <hr>
+                    <p>
+                        Fancy a free Fun Gym high five? Our service engages the community, hosts charity events, holds
+                        trainer workshops, has celebrations of client success, organizes mass fitness contests, and invites
+                        famous fitness entrepreneurs to your event.
+                    </p>
+
+                </div>
+
+                <div class="col-sm-4" style="background-color:rgba(214, 58, 31, 0.799);">
+                    <h4>Top-notch facilities</h4>
+                    <hr>
+                    <p>
+                        Free Parking, Free Wifi, Lounge Area. Mind and Body Studio, Access for the disabled, changing rooms
+                        for babies, reception, waiting for the area for visitors, dedicated free weights area with a wide
+                        range of dumbbells, free weight bars.
+                    </p>
+                </div>
+
+
+        </section>
+        <!-- Add the  Fun Gym products/classes and the mebership/support. -->
+        <section>
+            <div>
+                <h2 id="welcome-part-2" class="part-2">Enjoy Fun Gymming!</h2>
+            </div>
+        </section>
+        <section id="part-1">
+            <div role="img" aria-label="The image is a digital composition of a motivational message and a healthy man doing pull-ups on horizontal bars in a gym.">
+                <h2>Products</h2>
+                <h3>Clasess</h3>
+                <h3> Fun Gym Packages</h3>
+                <h3>Online Sessions</h3>
+                <h3> Outdoor Courses</h3>
+            </div>
+            <div>
+                <h2>Membership</h2>
+                <h3>Individuals/Familes</h3>
+                <h3>Students</h3>
+                <h3>Groups/Companies</h3>
+                <h3>Support</h3>
+            </div>
+        </section>
+
+        <!-- Include 3 sections with the Fun Gym Address. -->
+        <section>
+            <div>
+                <h2 id="welcome-part-4" class="part-4">Fun Gym Is Here to Help</h2>
+            </div>
+        </section>
+        <section id="part-3">
+
+            <div>
+                <h2 class="map-only"> Our Addresses</h2>
+                <h3 class="map-only">England</h3>
+                <h3 class="map-only">Scotland</h3>
+                <h3 class="map-only">Wales </h3>
+                <h3 class="map-only">Northern Ireland</h3>
+            </div>
+            <div>
+                <h2>Facilities</h2>
+                <h3>Free Parking</h3>
+                <h3>Children Area</h3>
+                <h3>Disability Accessibility </h3>
+                <h3>Lounge area/Wifi</h3>
+            </div>
+        </section>
+        <div id="map">
+            <p><a id="map-1" href="https://www.google.co.uk/maps/@51.511607,-0.2018474,13.07z" target="_blank" aria-label="Click on the link on the map to find Fun Gyms' primary address. (opens in new tab)">
+                    Main
+                    Office Location</a>
+            </p>
         </div>
-        <div>
-            <h2>Facilities</h2>
-            <h3>Free Parking</h3>
-            <h3>Children Area</h3>
-            <h3>Disability Accessibility </h3>
-            <h3>Lounge area/Wifi</h3>
-        </div>
-    </section>
-    <div id="map">
-        <p><a id="map-1" href="https://www.google.co.uk/maps/@51.511607,-0.2018474,13.07z" target="_blank" aria-label="Click on the link on the map to find Fun Gyms' primary address. (opens in new tab)">
-                Main
-                Office Location</a>
-        </p>
-    </div>
-    <!-- Following the feedback, improve accessibility by adding the Role attribute to the footer, embedding Aria-labels on social media links, and implementing W3Schools' accessibility tutorial. -->
-    <footer>
-        <div id="footer-parent">
-            <!-- Make your social links aria-labelled refrence: https://savvas.me/accessibility/problem-with-social-icons -->
-            <ul class="social-media-links">
-                <li><a href="https://www.facebook.com" target="_blank" aria-label="Visit Fun Gym's Facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
-                </li>
-                <li><a href="https://www.twitter.com" target="_blank" aria-label="Visit Fun Gym's Twitter page (opens in new tab)"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li><a href="https://www.youtube.com" target="_blank" aria-label="Visit Fun Gym's Youtube page (opens in new tab)"><i class="fab fa-youtube"></i></a>
-                </li>
-                <li><a href="https://www.instagram.com" target="_blank" aria-label="Visit Fun Gym's Instagram page (opens in new tab)"><i class="fab fa-instagram"></i></a>
-                </li>
-            </ul>
-            <h5 id="flag" class="copy-rights uk-flag">
-                &copy; 2022 <span>Fun
-                    Gym.</span>
-                All rights reserved. London, United Kingdom, is the registered office of Fun GYM.
-            </h5>
-        </div>
-    </footer>
+        <!-- Following the feedback, improve accessibility by adding the Role attribute to the footer, embedding Aria-labels on social media links, and implementing W3Schools' accessibility tutorial. -->
+        <footer>
+            <div id="footer-parent">
+                <!-- Make your social links aria-labelled refrence: https://savvas.me/accessibility/problem-with-social-icons -->
+                <ul class="social-media-links">
+                    <li><a href="https://www.facebook.com" target="_blank" aria-label="Visit Fun Gym's Facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li><a href="https://www.twitter.com" target="_blank" aria-label="Visit Fun Gym's Twitter page (opens in new tab)"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li><a href="https://www.youtube.com" target="_blank" aria-label="Visit Fun Gym's Youtube page (opens in new tab)"><i class="fab fa-youtube"></i></a>
+                    </li>
+                    <li><a href="https://www.instagram.com" target="_blank" aria-label="Visit Fun Gym's Instagram page (opens in new tab)"><i class="fab fa-instagram"></i></a>
+                    </li>
+                </ul>
+                <h5 id="flag" class="copy-rights uk-flag">
+                    &copy; 2022 <span>Fun
+                        Gym.</span>
+                    All rights reserved. London, United Kingdom, is the registered office of Fun GYM.
+                </h5>
+            </div>
+        </footer>
 </body>
 
 </html>
