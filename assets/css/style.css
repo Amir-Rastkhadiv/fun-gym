@@ -179,6 +179,18 @@ jumbotron h1 {
     color: #fafafa;
 }
 
+/* Modal */
+.modal-header,
+h4 {
+    background-color: #5cb85c;
+    color: white !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+.checkbox {
+    color: black;
+}
 
 /* five excellent missions in a fun gym from the left to right */
 #club-ethos {
@@ -205,24 +217,11 @@ jumbotron h1 {
     overflow: hidden;
 }
 
-#left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-}
 
-#right-about {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
 
-#center-about {
-    width: 33%;
-    margin: 0 auto;
-    float: left;
-    height: 100%;
-}
+
+
+
 
 hr {
     border-top: 1px solid #3a3a3a;
