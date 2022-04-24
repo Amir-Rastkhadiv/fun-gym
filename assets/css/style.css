@@ -112,84 +112,73 @@ a {
 }
 
 /* Hero image and cover text */
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
+
+
+.callout-container {
+    height: 100vh;
+    background: url("../img/fungym-hero.png") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: relative;
+
 }
 
-#hero-image {
-    height: 600px;
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
     width: 100%;
-    background: url("../img/fungym-hero.png") no-repeat center center;
-    /* Animates zoom effect on loading the page */
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
 }
 
-/* Creates the level of zoom for hero image */
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
+/* Jumbotron */
 
-    to {
-        transform: scale(1.1);
-    }
+.jumbotron {
+    background-color: transparent;
 }
 
-#cover-text,
-#cover-text h2 {
+
+jumbotron h1 {
+    color: #fafafa;
+    font-weight: bold;
+    margin-bottom: 30px;
     color: #fafafa;
 }
 
-#cover-text {
-    font-size: 130%;
-    font-family: 'Open Sans', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    width: 600px;
-    height: 170px;
-    padding-top: 40px;
-    padding-left: 10px;
-    background-color: #dd7474a6;
-    right: 200px;
-    top: 60%;
-    position: absolute;
+/* Buttons */
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 25px;
+    width: 180px;
 }
 
-/* Creates the button  on text image for join now */
-.btn {
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%, -10%);
-    -ms-transform: translate(-50%, -40%);
-    background-color: #333333;
-    color: #e1dc0a;
-    font-size: 85%;
-    text-transform: uppercase;
-    padding: 10px 30px;
-    border: none;
-    cursor: pointer;
-    border-radius: 50px;
-    text-align: center;
+.btn--red {
+    color: #252525;
+    background-color: #e1be0af0;
+    border-color: #e1be0af0;
 }
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #df4929;
+    border-color: #df4929;
+    color: white;
+}
+
 
 .btn:hover {
     background-color: #e10a0a;
     color: #fafafa;
 }
 
-#bg-col-now {
-    background-color: #333333;
-    color: #e1dc0a;
-    width: 60%;
-    margin: auto;
-    text-align: center;
-}
 
 /* five excellent missions in a fun gym from the left to right */
 #club-ethos {
