@@ -43,9 +43,7 @@
 </head>
 
 <body>
-
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-
         <!-- Links -->
         <div class="container-fluid">
             <!-- Brand/logo -->
@@ -54,84 +52,70 @@
                     Fun Gym
                 </a>
             </div>
-            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span></button>
-
             <ul class="nav navbar-nav">
                 <li class="active nav-item ml-auto mr-2"><a href="index.html">Home</a></li>
                 <li class="active nav-item ml-auto mr-2"><a href="login.html">Login</a></li>
                 <li class="active nav-item ml-auto mr-2 d-none d-md-block"><a href="contact-us.html">Contact Us</a></li>
             </ul>
         </div>
-
-        <div class="container-fluid callout-container">
-            <!-- Callout -->
-            <div class="opaque-over">&nbsp;</div>
-            <div class="row">
-                <div class="col-12">
-                    <section class="callout jumbotron text-center">
-                        <h1 class="jumbotron-header">Get in shape while smiling</h1>
-                        <button class="btn btn-lg btn--cta btn--red" data-toggle="modal" data-target="#signUpModal">Fun
-                            gymming now!</button>
-
-                </div>
+    </nav>
+    <div class="container-fluid callout-container">
+        <!-- Callout -->
+        <div class="opaque-over">&nbsp;</div>
+        <div class="row">
+            <div class="col-12">
+                <section class="callout jumbotron text-center">
+                    <h2 class="jumbotron-header">Get in shape while smiling</h2>
+                    <button class="btn btn-lg btn--cta btn--red" data-toggle="modal" data-target="#signUpModal">Fun
+                        gymming now!</button>
+                </section>
             </div>
         </div>
-
-
-
-
-
-        <footer>
-        </footer>
-
-        <!-- Modal content-->
-
-        <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title"> Fun
-                            gymming now!</h4>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <form>
+    </div>
+    <footer>
+    </footer>
+    <!-- Modal content-->
+    <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title"> Fun
+                        gymming now!
+                    </h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                            <small id="emailHelp" class="form-text text-muted">Our policy is never to sell or share your
+                                email address.</small>
                             <div class="form-group">
-                                <label for="exampleInputEmail1">Email address</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                                <div class="form-group">
-                                    <label for="password">Password</label>
-                                    <input type="password" class="form-control" id="password" placeholder="Password">
-                                </div>
-                                <div class="form-group">
-                                    <label for="repeatPassword">Repeat Password</label>
-                                    <input type="password" class="form-control" id="repeatPassword" placeholder="Repeat Password">
-                                </div>
-                                <div class="checkbox">
-                                    <label><input type="checkbox" value="" checked>Remember me</label>
-                                </div>
-
-                                <div class="modal-footer">
-
-                                    <button type="submit" class="btn btn-success">Submit</button>
-
-                                </div>
-
+                                <label for="password">Password</label>
+                                <input type="password" class="form-control" id="password" placeholder="Password">
                             </div>
-                        </form>
-                    </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="repeatPassword">Repeat Password</label>
+                            <input type="password" class="form-control" id="repeatPassword" placeholder="Repeat Password">
+                        </div>
+                        <div class="checkbox">
+                            <label><input type="checkbox" value="" checked>Remember me</label>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="submit" class="btn btn-success">Submit</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
-
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <script src="https://kit.fontawesome.com/30c3e1568f.js" crossorigin="anonymous"></script>
-
-
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/30c3e1568f.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
