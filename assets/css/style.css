@@ -3,3 +3,99 @@
 /* Lato and Open Sans fonts imported from Google Fonts here: https://fonts.google.com/specimen/Open+Sans */
 /* ilovewp served as a reference when choosing the font type*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+
+html,
+body {
+    font-family: Lato, sans-serif;
+    color: #fafafa;
+    background-color: #252525;
+}
+
+html,
+body.header.nav.topnav {
+    background: #252525;
+}
+
+
+/* Hero image and cover text */
+
+
+.callout-container {
+    height: 100vh;
+    background: url("../img/fungym-hero.png") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
+
+
+jumbotron h1 {
+    color: #fafafa;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #fafafa;
+}
+
+/* Buttons */
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 25px;
+    width: 180px;
+}
+
+.btn--red {
+    color: #252525;
+    background-color: #e1be0af0;
+    border-color: #e1be0af0;
+}
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #df4929;
+    border-color: #df4929;
+    color: white;
+}
+
+
+.btn:hover {
+    background-color: #e10a0a;
+    color: #fafafa;
+}
+
+/* Modal */
+.modal-header,
+h4 {
+    background-color: #5cb85c;
+    color: white !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+.checkbox {
+    color: black;
+}
