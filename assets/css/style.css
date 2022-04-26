@@ -104,3 +104,12 @@ h4 {
 .club-ethos h3 {
     color: #e1be0af0;
 }
+
+/* High5 image- position*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
