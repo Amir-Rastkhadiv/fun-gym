@@ -113,3 +113,8 @@ h4 {
     margin-right: auto;
     width: 50%;
 }
+
+.list-group-item-info {
+    background-color: #fafafa;
+    color: black;
+}
