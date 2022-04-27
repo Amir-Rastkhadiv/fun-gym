@@ -119,11 +119,56 @@ h4 {
     color: black;
 }
 
+/* Map */
+
 .map {
 
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
 
+
+/* Social Media Links */
+
+.social-media-links {
+    text-align: center;
+}
+
+.social-media-links li {
+    display: inline;
+}
+
+.social-media-links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 10%;
+    color: #fafafa;
+}
+
+.social-media-links li a i {
+    width: 80px;
+    height: 80px;
+    padding: 40px 0;
+    border-radius: 50%;
+    font-size: 40px;
+    line-height: 7px;
+    text-align: center;
+    color: #1328e0;
+    background: #e1be0af0;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-media-links li a i:hover {
+    background: #e10a0a;
+}
+
+/* Adjust the colour contrast for accessibility */
+/* download icon - checked with google dev tool*/
+#download-colour {
+    color: #98BFE1;
 }
