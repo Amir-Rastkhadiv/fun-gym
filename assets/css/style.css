@@ -118,3 +118,12 @@ h4 {
     background-color: #fafafa;
     color: black;
 }
+
+.map {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
