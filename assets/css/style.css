@@ -172,3 +172,13 @@ h4 {
 #download-colour {
     color: #98BFE1;
 }
+
+
+
+/* Forms */
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
