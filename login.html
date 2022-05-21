@@ -47,24 +47,24 @@
 <body>
     <!-- Logo and Top Navigation Menu: Added a custom style to the navigation-->
     <!-- Check the Heading tag structure at https://www.nomensa.com/blog/how-structure-headings-web-accessibility and the Code Institue LMS at https://learn.codeinstitute.net -->
-    <header class="first-line">
-        <a href="index.html">
-            <h1 id="logo">Fun Gym</h1>
-        </a>
-        <nav class="topnav">
-            <ul id="icon-bar">
-                <li>
-                    <a class="active" href="login.html">Login</a>
-                </li>
-                <li>
-                    <a class="active" href="contact-us.html">Contact Us</a>
-                </li>
-                <li>
-                    <a class="active" href="index.html">Home</a>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-light">
+        <!-- Links -->
+        <div class="container-fluid">
+            <!-- Brand/logo -->
+            <div class="navbar-header">
+                <a class="navbar-brand text-danger" href="index.html">
+                    Fun Gym
+                </a>
+            </div>
+
+            <ul class="nav navbar-nav">
+                <li class="active nav-item ml-auto mr-2"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="active nav-item ml-auto mr-2"><a class="nav-link" href="login.html">Login</a></li>
+                <li class="active nav-item ml-auto mr-2 d-none d-md-block"><a class="nav-link" href="contact-us.html">Contact Us</a>
                 </li>
             </ul>
-        </nav>
-    </header>
+        </div>
+    </nav>
 
     <section class="form-section">
         <form class="signup-form" action="fungym.comeback@gmail.com" method="POST">
